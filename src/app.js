@@ -102,7 +102,9 @@ function exampleCharacter() {
   applyEquipment(c);
   return c;
 }
-if (!S.chars.length && DB.classes.fighter && DB.species.dwarf) {
+// First visit: add an example character (called once everything has loaded; see the end of extras.js).
+function ensureExample() {
+  if (S.chars.length || !DB.classes.fighter || !DB.species.dwarf) return;
   try { S.chars.push(exampleCharacter()); } catch (e) { console.warn("Example character skipped", e); }
 }
 

@@ -2,7 +2,9 @@
 
 A D&D 2024 character creator and sheet for phones. One HTML file, no server, no accounts.
 
-**The file to share:** `dist/5e Character Builder [2024].html`
+**Play it:** https://chuck-fables.github.io/5e-character-builder/ (open on a phone, then Share → Add to Home Screen)
+
+**The file to share:** `dist/5e Character Builder [2024].html` (the same app as one HTML file; `docs/index.html` is the hosted copy)
 
 ## What's in it
 - Step-by-step creator: class (with multiclassing and starting level 1–20), background, species and lineage,

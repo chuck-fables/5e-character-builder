@@ -479,4 +479,5 @@ Object.assign(ACTIONS, {
   },
 });
 
+ensureExample();
 render();
