@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "monk-warrior-of-mercy",
+    "classId": "monk",
+    "name": "Warrior of Mercy",
+    "source": "Player's Handbook",
+    "description": "A masked healer-killer who channels life force to mend allies or wound foes.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Hand of Harm",
+        "text": "Once per turn when an Unarmed Strike deals damage, spend 1 Focus Point to add Necrotic damage equal to one Martial Arts die plus your Wisdom modifier."
+      },
+      {
+        "level": 3,
+        "name": "Hand of Healing",
+        "text": "Magic action, 1 Focus Point: touch a creature to heal one Martial Arts die plus your Wisdom modifier. During Flurry of Blows you can swap one strike for this healing at no Focus Point cost."
+      },
+      {
+        "level": 3,
+        "name": "Implements of Mercy",
+        "text": "Gain proficiency in Insight, Medicine and the Herbalism Kit."
+      },
+      {
+        "level": 6,
+        "name": "Physician's Touch",
+        "text": "Hand of Harm can also Poison the target until the end of your next turn. Hand of Healing can also end Blinded, Deafened, Paralyzed, Poisoned or Stunned on the target."
+      },
+      {
+        "level": 11,
+        "name": "Flurry of Healing and Harm",
+        "text": "During Flurry of Blows, each strike can be replaced by a free Hand of Healing, and each damaging strike can carry a free Hand of Harm (still once per turn). Usable a number of times equal to your Wisdom modifier per Long Rest."
+      },
+      {
+        "level": 17,
+        "name": "Hand of Ultimate Mercy",
+        "text": "Magic action, 5 Focus Points: touch a creature dead less than 24 hours to revive it with 4d10 plus your Wisdom modifier Hit Points and remove Blinded, Deafened, Paralyzed, Poisoned and Stunned. Once per Long Rest."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "flurry-of-healing-and-harm",
+        "name": "Flurry of Healing and Harm",
+        "recharge": "long",
+        "max": "wis"
+      },
+      {
+        "key": "hand-of-ultimate-mercy",
+        "name": "Hand of Ultimate Mercy",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monk-warrior-of-shadow",
+    "classId": "monk",
+    "name": "Warrior of Shadow",
+    "source": "Player's Handbook",
+    "description": "A stealthy Monk who draws on the Shadowfell to hide, teleport and turn wraithlike.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Shadow Arts",
+        "text": "Spend 1 Focus Point to cast Darkness without components (you can see inside it and can shift it up to 60 feet each turn). Gain Darkvision 60 ft (or +60 ft if you have it) and know Minor Illusion (Wisdom)."
+      },
+      {
+        "level": 6,
+        "name": "Shadow Step",
+        "text": "Bonus Action: while in Dim Light or Darkness, teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness; your next melee attack this turn has Advantage."
+      },
+      {
+        "level": 11,
+        "name": "Improved Shadow Step",
+        "text": "Spend 1 Focus Point to use Shadow Step without needing to start and end in dim light or darkness, and make an Unarmed Strike right after teleporting."
+      },
+      {
+        "level": 17,
+        "name": "Cloak of Shadows",
+        "text": "Magic action in dim light or darkness, 3 Focus Points: for 1 minute you are Invisible, can move through occupied spaces as Difficult Terrain, and use Flurry of Blows for free. Ends in Bright Light or if Incapacitated."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "monk-warrior-of-the-elements",
+    "classId": "monk",
+    "name": "Warrior of the Elements",
+    "source": "Player's Handbook",
+    "description": "A Monk who tames elemental energy to extend reach, change damage types and unleash bursts.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Elemental Attunement",
+        "text": "At the start of your turn, spend 1 Focus Point to attune for 10 minutes: Unarmed Strikes gain +10 ft reach and can deal Acid, Cold, Fire, Lightning or Thunder damage, and on a hit you can force a Strength save to move the target up to 10 feet."
+      },
+      {
+        "level": 3,
+        "name": "Manipulate Elements",
+        "text": "You know the Elementalism cantrip, with Wisdom as the spellcasting ability."
+      },
+      {
+        "level": 6,
+        "name": "Elemental Burst",
+        "text": "Magic action, 2 Focus Points: 20-foot-radius Sphere within 120 feet; Dexterity save, 3 Martial Arts dice damage of a chosen elemental type (half on success)."
+      },
+      {
+        "level": 11,
+        "name": "Stride of the Elements",
+        "text": "While Elemental Attunement is active, you gain Fly and Swim speeds equal to your Speed."
+      },
+      {
+        "level": 17,
+        "name": "Elemental Epitome",
+        "text": "While attuned: Resistance to one chosen elemental type (changeable each turn); Step of the Wind adds 20 ft Speed and damages creatures you pass (one Martial Arts die); once per turn an Unarmed Strike adds one Martial Arts die of extra damage."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "paladin-oath-of-glory",
+    "classId": "paladin",
+    "name": "Oath of Glory",
+    "source": "Player's Handbook",
+    "description": "A Paladin who seeks heroic renown and empowers allies to athletic greatness.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Inspiring Smite",
+        "text": "Right after casting Divine Smite, spend a Channel Divinity use to grant Temporary Hit Points totaling 2d8 plus your Paladin level, split among creatures within 30 feet."
+      },
+      {
+        "level": 3,
+        "name": "Peerless Athlete",
+        "text": "Bonus Action, Channel Divinity: for 1 hour, Advantage on Athletics and Acrobatics checks and +10 feet to Long and High Jumps."
+      },
+      {
+        "level": 3,
+        "name": "Oath of Glory Spells",
+        "text": "Always-prepared oath spells (see spell list by level)."
+      },
+      {
+        "level": 7,
+        "name": "Aura of Alacrity",
+        "text": "Your Speed increases by 10 feet, and allies in your Aura of Protection gain +10 feet Speed until the end of their next turn when they enter or start there."
+      },
+      {
+        "level": 15,
+        "name": "Glorious Defense",
+        "text": "Reaction when you or a creature within 10 feet is hit: add your Charisma modifier (min +1) to its AC against that attack; if it misses you may make a weapon attack against the attacker. Charisma-modifier uses per Long Rest."
+      },
+      {
+        "level": 20,
+        "name": "Living Legend",
+        "text": "Bonus Action, 10 minutes: Advantage on Charisma checks, Reaction to reroll a failed save, and once per turn turn a missed weapon attack into a hit. Once per Long Rest, or restore with a level 5 slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Guiding Bolt",
+        "Heroism"
+      ],
+      "5": [
+        "Enhance Ability",
+        "Magic Weapon"
+      ],
+      "9": [
+        "Haste",
+        "Protection from Energy"
+      ],
+      "13": [
+        "Compulsion",
+        "Freedom of Movement"
+      ],
+      "17": [
+        "Legend Lore",
+        "Yolande's Regal Presence"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "glorious-defense",
+        "name": "Glorious Defense",
+        "recharge": "long",
+        "max": "cha"
+      },
+      {
+        "key": "living-legend",
+        "name": "Living Legend",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paladin-oath-of-the-ancients",
+    "classId": "paladin",
+    "name": "Oath of the Ancients",
+    "source": "Player's Handbook",
+    "description": "A Paladin devoted to light, life and beauty who wields nature magic and resists spell energy.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Nature's Wrath",
+        "text": "Magic action, Channel Divinity: creatures of your choice within 15 feet must succeed on a Strength save or be Restrained for 1 minute (repeat save each turn)."
+      },
+      {
+        "level": 3,
+        "name": "Oath of the Ancients Spells",
+        "text": "Always-prepared oath spells (see spell list by level)."
+      },
+      {
+        "level": 7,
+        "name": "Aura of Warding",
+        "text": "You and allies in your Aura of Protection have Resistance to Necrotic, Psychic and Radiant damage."
+      },
+      {
+        "level": 15,
+        "name": "Undying Sentinel",
+        "text": "When reduced to 0 Hit Points (not killed outright), drop to 1 instead and regain 3 times your Paladin level in Hit Points. Once per Long Rest. You also stop visibly aging and can't be magically aged."
+      },
+      {
+        "level": 20,
+        "name": "Elder Champion",
+        "text": "Bonus Action, 1 minute: enemies in your aura have Disadvantage on saves against your spells and Channel Divinity, you regain 10 Hit Points at the start of each turn, and action spells can be cast as Bonus Actions. Once per Long Rest, or restore with a level 5 slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Ensnaring Strike",
+        "Speak with Animals"
+      ],
+      "5": [
+        "Misty Step",
+        "Moonbeam"
+      ],
+      "9": [
+        "Plant Growth",
+        "Protection from Energy"
+      ],
+      "13": [
+        "Ice Storm",
+        "Stoneskin"
+      ],
+      "17": [
+        "Commune with Nature",
+        "Tree Stride"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "undying-sentinel",
+        "name": "Undying Sentinel",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "elder-champion",
+        "name": "Elder Champion",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paladin-oath-of-the-noble-genies",
+    "classId": "paladin",
+    "name": "Oath of the Noble Genies",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A Paladin who channels the four genie types for elemental smites, shielding and flight.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Elemental Smite",
+        "text": "Right after Divine Smite, spend a Channel Divinity use for one effect: Dao's Crush (target Grappled and Restrained), Djinni's Escape (teleport 30 ft and become semi-incorporeal with weapon-damage resistance), Efreeti's Fury (extra 2d4 Fire to the target and to a second creature within 30 ft), or Marid's Surge (Strength save or pushed 15 ft and Prone in a 10-ft Emanation)."
+      },
+      {
+        "level": 3,
+        "name": "Genie Spells",
+        "text": "Always-prepared oath spells (see spell list by level)."
+      },
+      {
+        "level": 3,
+        "name": "Genie's Splendor",
+        "text": "Unarmored AC is 10 plus Dexterity and Charisma modifiers (a Shield is allowed). Gain proficiency in Acrobatics, Intimidation, Performance or Persuasion."
+      },
+      {
+        "level": 7,
+        "name": "Aura of Elemental Shielding",
+        "text": "You and allies in your aura have Resistance to a chosen type among Acid, Cold, Fire, Lightning or Thunder; you can switch it at the start of each turn."
+      },
+      {
+        "level": 15,
+        "name": "Elemental Rebuke",
+        "text": "Reaction when hit: halve the attack's damage and force the attacker to make a Dexterity save or take 2d10 plus your Charisma modifier elemental damage (half on success). Charisma-modifier uses per Long Rest."
+      },
+      {
+        "level": 20,
+        "name": "Noble Scion",
+        "text": "Bonus Action, 10 minutes: Fly Speed 60 ft with hover, and a Reaction to turn a failed D20 Test for you or an ally in your aura into a success. Once per Long Rest, or restore with a level 5 slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Chromatic Orb",
+        "Elementalism",
+        "Thunderous Smite"
+      ],
+      "5": [
+        "Mirror Image",
+        "Phantasmal Force"
+      ],
+      "9": [
+        "Fly",
+        "Gaseous Form"
+      ],
+      "13": [
+        "Conjure Minor Elementals",
+        "Summon Elemental"
+      ],
+      "17": [
+        "Banishing Smite",
+        "Contact Other Plane"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "elemental-rebuke",
+        "name": "Elemental Rebuke",
+        "recharge": "long",
+        "max": "cha"
+      },
+      {
+        "key": "noble-scion",
+        "name": "Noble Scion",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paladin-oath-of-vengeance",
+    "classId": "paladin",
+    "name": "Oath of Vengeance",
+    "source": "Player's Handbook",
+    "description": "A grim Paladin who hunts down grievous evildoers with single-minded focus.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Oath of Vengeance Spells",
+        "text": "Always-prepared oath spells (see spell list by level)."
+      },
+      {
+        "level": 3,
+        "name": "Vow of Enmity",
+        "text": "When you take the Attack action, spend a Channel Divinity use to gain Advantage on attacks against a creature within 30 feet for 1 minute; the vow can transfer if that creature drops to 0 Hit Points."
+      },
+      {
+        "level": 7,
+        "name": "Relentless Avenger",
+        "text": "When you hit with an Opportunity Attack, you can set the target's Speed to 0 for the turn and then move up to half your Speed without provoking."
+      },
+      {
+        "level": 15,
+        "name": "Soul of Vengeance",
+        "text": "Reaction: when a creature under your Vow of Enmity attacks (hit or miss), make a melee attack against it if in range."
+      },
+      {
+        "level": 20,
+        "name": "Avenging Angel",
+        "text": "Bonus Action, 10 minutes: Fly Speed 60 ft with hover, and enemies starting their turn in your aura must make a Wisdom save or be Frightened (attacks against them have Advantage). Once per Long Rest, or restore with a level 5 slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Bane",
+        "Hunter's Mark"
+      ],
+      "5": [
+        "Hold Person",
+        "Misty Step"
+      ],
+      "9": [
+        "Haste",
+        "Protection from Energy"
+      ],
+      "13": [
+        "Banishment",
+        "Dimension Door"
+      ],
+      "17": [
+        "Hold Monster",
+        "Scrying"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "avenging-angel",
+        "name": "Avenging Angel",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ranger-beast-master",
+    "classId": "ranger",
+    "name": "Beast Master",
+    "source": "Player's Handbook",
+    "description": "A Ranger bonded to a primal beast of land, sea or sky that fights beside them.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Primal Companion",
+        "text": "Summon a primal beast (Land, Sea or Sky stat block) that obeys you and acts on your turn, taking only Dodge unless you command it with a Bonus Action. Its Hit Points scale with your Ranger level and its Beast's Strike uses your spell attack bonus and adds your Wisdom modifier. You can revive it with a spell slot within an hour, or summon a different one after a Long Rest."
+      },
+      {
+        "level": 7,
+        "name": "Exceptional Training",
+        "text": "When you Bonus Action command the beast, it can also Dash, Disengage, Dodge or Help as its own Bonus Action, and its damaging hits can deal Force damage instead."
+      },
+      {
+        "level": 11,
+        "name": "Bestial Fury",
+        "text": "Beast's Strike can be used twice per command, and the first hit each turn on a Hunter's Mark target adds Force damage equal to that spell's bonus damage."
+      },
+      {
+        "level": 15,
+        "name": "Share Spells",
+        "text": "When you cast a spell on yourself, it also affects your beast if it is within 30 feet."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "ranger-fey-wanderer",
+    "classId": "ranger",
+    "name": "Fey Wanderer",
+    "source": "Player's Handbook",
+    "description": "A Ranger touched by the Feywild whose charm and psychic strikes unnerve foes.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Dreadful Strikes",
+        "text": "Once per turn, a weapon hit adds 1d4 Psychic damage (1d6 from level 11)."
+      },
+      {
+        "level": 3,
+        "name": "Fey Wanderer Spells",
+        "text": "Always-prepared subclass spells (see spell list by level). You also gain a cosmetic Feywild gift."
+      },
+      {
+        "level": 3,
+        "name": "Otherworldly Glamour",
+        "text": "Add your Wisdom modifier (min +1) to Charisma checks, and gain proficiency in Deception, Performance or Persuasion."
+      },
+      {
+        "level": 7,
+        "name": "Beguiling Twist",
+        "text": "Advantage on saves against Charmed and Frightened. When you or a creature within 120 feet succeeds against one of those, Reaction: force another creature within 120 feet to make a Wisdom save or be Charmed or Frightened for 1 minute."
+      },
+      {
+        "level": 11,
+        "name": "Fey Reinforcements",
+        "text": "Cast Summon Fey once per Long Rest without a slot or Material component, and you may choose to make it non-Concentration with a 1-minute duration."
+      },
+      {
+        "level": 15,
+        "name": "Misty Wanderer",
+        "text": "Cast Misty Step without a slot a number of times equal to your Wisdom modifier per Long Rest, and bring one willing creature within 5 feet along."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Charm Person"
+      ],
+      "5": [
+        "Misty Step"
+      ],
+      "9": [
+        "Summon Fey"
+      ],
+      "13": [
+        "Dimension Door"
+      ],
+      "17": [
+        "Mislead"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "fey-reinforcements",
+        "name": "Fey Reinforcements (free Summon Fey)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "misty-wanderer",
+        "name": "Misty Wanderer (free Misty Step)",
+        "recharge": "long",
+        "max": "wis"
+      }
+    ]
+  },
+  {
+    "id": "ranger-gloom-stalker",
+    "classId": "ranger",
+    "name": "Gloom Stalker",
+    "source": "Player's Handbook",
+    "description": "A Ranger who ambushes foes from the dark with Shadowfell magic.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Dread Ambusher",
+        "text": "Speed +10 feet on your first turn of combat; add your Wisdom modifier to Initiative; once per turn a weapon hit can add 2d6 Psychic damage (Wisdom-modifier uses per Long Rest)."
+      },
+      {
+        "level": 3,
+        "name": "Gloom Stalker Spells",
+        "text": "Always-prepared subclass spells (see spell list by level)."
+      },
+      {
+        "level": 3,
+        "name": "Umbral Sight",
+        "text": "Darkvision 60 ft (or +60 ft if you have it). While in darkness you are Invisible to creatures that rely on Darkvision to see you."
+      },
+      {
+        "level": 7,
+        "name": "Iron Mind",
+        "text": "Gain proficiency in Wisdom saves, or Intelligence or Charisma saves if you already have Wisdom."
+      },
+      {
+        "level": 11,
+        "name": "Stalker's Flurry",
+        "text": "Dreadful Strike damage becomes 2d8, and when you use it you can also make a second attack on another creature within 5 feet of the target (Sudden Strike) or force the target and creatures within 10 feet to make a Wisdom save or be Frightened (Mass Fear)."
+      },
+      {
+        "level": 15,
+        "name": "Shadowy Dodge",
+        "text": "Reaction when targeted by an attack roll: impose Disadvantage on it, then teleport up to 30 feet to a space you can see."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Disguise Self"
+      ],
+      "5": [
+        "Rope Trick"
+      ],
+      "9": [
+        "Fear"
+      ],
+      "13": [
+        "Greater Invisibility"
+      ],
+      "17": [
+        "Seeming"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "dreadful-strike",
+        "name": "Dreadful Strike",
+        "recharge": "long",
+        "max": "wis"
+      }
+    ]
+  },
+  {
+    "id": "ranger-hollow-warden",
+    "classId": "ranger",
+    "name": "Hollow Warden",
+    "source": "Ravenloft: The Horrors Within",
+    "description": "A Ranger who becomes a monstrous guardian by drawing on ancient wild terrors.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Hollow Warden Spells",
+        "text": "Always-prepared subclass spells (see spell list by level)."
+      },
+      {
+        "level": 3,
+        "name": "Wrath of the Wild",
+        "text": "Bonus Action, spend a Favored Enemy use: transform for 1 minute. You gain +1 AC (+2 from level 11), can make an Opportunity Attack when a creature within 5 feet damages you or an ally, and frighten chosen creatures in a 10-foot Emanation (Wisdom save) at the start of each turn."
+      },
+      {
+        "level": 7,
+        "name": "Hungering Might",
+        "text": "Add your Wisdom modifier (min +1) to Constitution saves. While transformed, once per turn a hit while you are Bloodied heals you 1d10 plus your Wisdom modifier."
+      },
+      {
+        "level": 11,
+        "name": "Rot and Violence",
+        "text": "While transformed: creatures that fail your Unnerving Aura save can't regain Hit Points or take Reactions until your next turn start, and weapon hits can use Sap or Slow in addition to another mastery property."
+      },
+      {
+        "level": 15,
+        "name": "Ancient Might",
+        "text": "Hits on Frightened creatures deal extra damage equal to your Wisdom modifier. If reduced to 0 Hit Points while transformed, instead drop to twice your Ranger level in Hit Points (once per Long Rest, or restore with a level 4+ slot). Immunity to Exhaustion."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Wrathful Smite"
+      ],
+      "5": [
+        "Alter Self"
+      ],
+      "9": [
+        "Phantom Steed"
+      ],
+      "13": [
+        "Dominate Beast"
+      ],
+      "17": [
+        "Steel Wind Strike"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "persistent-wrath",
+        "name": "Persistent Wrath",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ranger-winter-walker",
+    "classId": "ranger",
+    "name": "Winter Walker",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A Ranger of frozen wastes who deals cold damage, hampers prey and becomes a ghostly winter terror.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Frigid Explorer",
+        "text": "Your weapon attacks, Ranger spells and features ignore Cold Resistance, you have Cold Resistance, and once per turn a weapon hit adds 1d4 Cold damage (1d6 from level 11)."
+      },
+      {
+        "level": 3,
+        "name": "Hunter's Rime",
+        "text": "Casting Hunter's Mark gives you Temporary Hit Points equal to 1d10 plus your Ranger level, and a marked creature can't take the Disengage action."
+      },
+      {
+        "level": 3,
+        "name": "Winter Walker Spells",
+        "text": "Always-prepared subclass spells (see spell list by level)."
+      },
+      {
+        "level": 7,
+        "name": "Fortifying Soul",
+        "text": "Magic action: up to Wisdom-modifier creatures you can see regain 1d10 plus your Ranger level Hit Points and have Advantage on saves against Frightened for 1 hour. Once per Long Rest."
+      },
+      {
+        "level": 11,
+        "name": "Chilling Retribution",
+        "text": "Reaction when hit by an attack roll: the attacker makes a Wisdom save or is Stunned until the end of your next turn (Speed 0). Wisdom-modifier uses per Long Rest."
+      },
+      {
+        "level": 15,
+        "name": "Frozen Haunt",
+        "text": "When you cast Hunter's Mark, take a ghostly snow form for the spell's duration: Cold immunity, 2d4 Cold damage each turn to creatures in a 15-foot Emanation, immunity to Grappled, Prone and Restrained, and movement through creatures and objects. Once per Long Rest, or restore with a level 4+ slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Ice Knife"
+      ],
+      "5": [
+        "Hold Person"
+      ],
+      "9": [
+        "Remove Curse"
+      ],
+      "13": [
+        "Ice Storm"
+      ],
+      "17": [
+        "Cone of Cold"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "fortifying-soul",
+        "name": "Fortifying Soul",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "chilling-retribution",
+        "name": "Chilling Retribution",
+        "recharge": "long",
+        "max": "wis"
+      },
+      {
+        "key": "frozen-haunt",
+        "name": "Frozen Haunt",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rogue-arcane-trickster",
+    "classId": "rogue",
+    "name": "Arcane Trickster",
+    "source": "Player's Handbook",
+    "description": "A Rogue who adds Wizard spells and Mage Hand tricks to their roguish skills.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Spellcasting",
+        "text": "Cast Wizard spells using Intelligence and an Arcane Focus. Know Mage Hand plus two Wizard cantrips (a fourth at level 10), and prepare level 1+ Wizard spells as the table gives (one-third caster slots; you can swap one cantrip and one spell each level)."
+      },
+      {
+        "level": 3,
+        "name": "Mage Hand Legerdemain",
+        "text": "Cast Mage Hand as a Bonus Action with an Invisible hand, control it as a Bonus Action, and use it for Sleight of Hand checks."
+      },
+      {
+        "level": 9,
+        "name": "Magical Ambush",
+        "text": "If you are Invisible when you cast a spell on a creature, it has Disadvantage on its save against that spell this turn."
+      },
+      {
+        "level": 13,
+        "name": "Versatile Trickster",
+        "text": "When you use the Trip Cunning Strike, you can also trip another creature within 5 feet of your Mage Hand."
+      },
+      {
+        "level": 17,
+        "name": "Spell Thief",
+        "text": "Reaction after a creature casts a spell that targets or affects you: it makes an Intelligence save (your spell DC) or the spell fails against you and you steal it (level 1+, one you could cast) for 8 hours, during which it can't cast it. Once per Long Rest."
+      }
+    ],
+    "spells": {},
+    "spellcasting": {
+      "ability": "int",
+      "progression": "third",
+      "cantrips": [
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "prepared": [
+        0,
+        0,
+        3,
+        4,
+        4,
+        4,
+        5,
+        6,
+        6,
+        7,
+        8,
+        8,
+        9,
+        10,
+        10,
+        11,
+        11,
+        11,
+        12,
+        13
+      ],
+      "ritual": false,
+      "focus": "Arcane Focus"
+    },
+    "resources": [
+      {
+        "key": "spell-thief",
+        "name": "Spell Thief",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rogue-assassin",
+    "classId": "rogue",
+    "name": "Assassin",
+    "source": "Player's Handbook",
+    "description": "A Rogue specializing in ambushes, poison and disguise to eliminate targets quickly.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Assassinate",
+        "text": "Advantage on Initiative. In the first round of combat you have Advantage against creatures that haven't acted, and a Sneak Attack hit that round adds extra damage equal to your Rogue level."
+      },
+      {
+        "level": 3,
+        "name": "Assassin's Tools",
+        "text": "Gain a Disguise Kit and a Poisoner's Kit and proficiency with both."
+      },
+      {
+        "level": 9,
+        "name": "Infiltration Expertise",
+        "text": "Perfectly mimic a person's speech or handwriting after 1 hour of study, and Steady Aim no longer reduces your Speed to 0."
+      },
+      {
+        "level": 13,
+        "name": "Envenom Weapons",
+        "text": "When the Poison Cunning Strike option works, the target also takes 2d6 Poison damage on a failed save, ignoring Resistance."
+      },
+      {
+        "level": 17,
+        "name": "Death Strike",
+        "text": "A Sneak Attack hit in the first round of combat forces a Constitution save (DC 8 plus Dexterity modifier and Proficiency Bonus) or the damage is doubled."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "rogue-phantom",
+    "classId": "rogue",
+    "name": "Phantom",
+    "source": "Ravenloft: The Horrors Within",
+    "description": "A Rogue linked to death who steals knowledge from spirits and moves like a ghost.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Wails from the Grave",
+        "text": "After dealing Sneak Attack damage, hit a second creature within 30 feet for Necrotic damage equal to half your Sneak Attack dice (rounded up). Dexterity-modifier uses per Long Rest."
+      },
+      {
+        "level": 3,
+        "name": "Whispers of the Dead",
+        "text": "After a Short or Long Rest, gain one skill or tool proficiency you lack until you choose a different one."
+      },
+      {
+        "level": 9,
+        "name": "Tokens of the Departed",
+        "text": "Hold two soul trinkets (three at level 13, four at level 17). Destroy one to use Wails from the Grave free, to cast Augury as a Magic action, or ask a spirit one question. Gain Advantage on death saves and Constitution saves while you have one. Gain a new trinket by reacting to a creature dying within 30 feet; refill to two after a Long Rest."
+      },
+      {
+        "level": 9,
+        "name": "Voice of Death",
+        "text": "Cast Speak with Dead without slot or components (Dexterity), once per Short or Long Rest; you can target a soul trinket instead of a corpse."
+      },
+      {
+        "level": 13,
+        "name": "Ghost Walk",
+        "text": "Bonus Action, 10 minutes: Fly Speed 10 ft with hover, attacks against you have Disadvantage, and you move through creatures and objects (1d10 Force damage if you end inside one). Once per Long Rest, or restore by destroying a soul trinket."
+      },
+      {
+        "level": 17,
+        "name": "Death's Friend",
+        "text": "Wails from the Grave deals its Necrotic damage to both creatures, and you gain a soul trinket when you roll Initiative with none."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "wails-from-the-grave",
+        "name": "Wails from the Grave",
+        "recharge": "long",
+        "max": "dex"
+      },
+      {
+        "key": "voice-of-death",
+        "name": "Voice of Death",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "ghost-walk",
+        "name": "Ghost Walk",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rogue-scion-of-the-three",
+    "classId": "rogue",
+    "name": "Scion of the Three",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A Rogue empowered by the Dead Three (Bane, Bhaal, Myrkul) to teleport to wounded foes and terrify them.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Bloodthirst",
+        "text": "Reaction when an enemy within 30 feet becomes Bloodied (not killed): teleport next to it and make a melee attack. Intelligence-modifier uses per Long Rest."
+      },
+      {
+        "level": 3,
+        "name": "Dread Allegiance",
+        "text": "Choose a god (changeable on a Long Rest): Bane gives Psychic Resistance and Minor Illusion, Bhaal gives Poison Resistance and Blade Ward, Myrkul gives Necrotic Resistance and Chill Touch. Intelligence is the cantrip's spellcasting ability."
+      },
+      {
+        "level": 9,
+        "name": "Strike Fear",
+        "text": "New Cunning Strike option Terrify (cost 1d6): Wisdom save or Frightened for 1 minute, and you have Advantage on attacks against it."
+      },
+      {
+        "level": 13,
+        "name": "Aura of Malevolence",
+        "text": "When you teleport with Bloodthirst, creatures of your choice within 10 feet of where you left or arrived take damage equal to your Intelligence modifier of your Dread Allegiance type, ignoring Resistance."
+      },
+      {
+        "level": 17,
+        "name": "Dread Incarnate",
+        "text": "Regain one Bloodthirst use on a Short Rest, and treat Sneak Attack dice rolls of 1 or 2 as 3."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "bloodthirst",
+        "name": "Bloodthirst",
+        "recharge": "long",
+        "max": "int"
+      }
+    ]
+  },
+  {
+    "id": "rogue-soulknife",
+    "classId": "rogue",
+    "name": "Soulknife",
+    "source": "Player's Handbook",
+    "description": "A Rogue who manifests psychic blades and uses Psionic Energy Dice for mental tricks.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Psionic Power",
+        "text": "Gain Psionic Energy Dice (d6 x4 at level 3, d8 x6 at 5, d8 x8 at 9, d10 x8 at 11, d10 x10 at 13, d12 x12 at 17); regain one on a Short Rest and all on a Long Rest. Psi-Bolstered Knack adds a die to a failed proficient check (spent only on success); Psychic Whispers grants telepathy with up to your Proficiency Bonus creatures for hours equal to a die roll."
+      },
+      {
+        "level": 3,
+        "name": "Psychic Blades",
+        "text": "When you Attack or make an Opportunity Attack, manifest a Psychic Blade: Simple Melee, 1d6 plus ability modifier Psychic, Finesse, Thrown (60/120), Vex mastery. A second blade as a Bonus Action deals 1d4."
+      },
+      {
+        "level": 9,
+        "name": "Soul Blades",
+        "text": "Homing Strikes: add a Psionic Energy Die to a missed Psychic Blade attack (die spent only if it then hits). Psychic Teleportation: Bonus Action, spend a die and throw a blade to teleport 10 feet times the roll."
+      },
+      {
+        "level": 13,
+        "name": "Psychic Veil",
+        "text": "Magic action: become Invisible for 1 hour (ends when you deal damage or force a save). Once per Long Rest, or restore by spending a Psionic Energy Die."
+      },
+      {
+        "level": 17,
+        "name": "Rend Mind",
+        "text": "When Psychic Blades deal Sneak Attack damage, force a Wisdom save (DC 8 plus Dexterity modifier and Proficiency Bonus) or the target is Stunned for 1 minute (repeat save each turn). Once per Long Rest, or restore by spending three dice."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "psionic-energy-dice",
+        "name": "Psionic Energy Dice",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          4,
+          4,
+          6,
+          6,
+          6,
+          6,
+          8,
+          8,
+          8,
+          8,
+          10,
+          10,
+          10,
+          10,
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "key": "psychic-veil",
+        "name": "Psychic Veil",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "rend-mind",
+        "name": "Rend Mind",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  }
+]

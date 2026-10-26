@@ -1,0 +1,1657 @@
+[
+ {
+  "id": "aboleth",
+  "name": "Aboleth",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered aboleth, front facing, no humanoid face, a large eel-like fish monster with slimy blue-green skin and four tentacles and three glowing eyes, thematic background"
+ },
+ {
+  "id": "adult-black-dragon",
+  "name": "Adult Black Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult black dragon, front facing, male, a huge dragon with black scales and curved horns and a skull-like face, thematic background"
+ },
+ {
+  "id": "adult-blue-dragon",
+  "name": "Adult Blue Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult blue dragon, front facing, male, a huge dragon with blue scales and a large horn on the snout and frilled ears, thematic background"
+ },
+ {
+  "id": "adult-brass-dragon",
+  "name": "Adult Brass Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult brass dragon, front facing, male, a huge dragon with shining brass scales and a spiny frill and swept-back horns, thematic background"
+ },
+ {
+  "id": "adult-bronze-dragon",
+  "name": "Adult Bronze Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult bronze dragon, front facing, male, a huge dragon with gleaming bronze scales and ridged horns and sea-green eyes, thematic background"
+ },
+ {
+  "id": "adult-copper-dragon",
+  "name": "Adult Copper Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult copper dragon, front facing, male, a huge dragon with burnished copper scales and curving horns and a sly look, thematic background"
+ },
+ {
+  "id": "adult-gold-dragon",
+  "name": "Adult Gold Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult gold dragon, front facing, male, a huge dragon with radiant golden scales and long whiskers and swept-back horns, thematic background"
+ },
+ {
+  "id": "adult-green-dragon",
+  "name": "Adult Green Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult green dragon, front facing, male, a huge dragon with green scales and swept-back horns and a spiny crest, thematic background"
+ },
+ {
+  "id": "adult-red-dragon",
+  "name": "Adult Red Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult red dragon, front facing, male, a huge dragon with red scales and swept-back horns and glowing ember eyes, thematic background"
+ },
+ {
+  "id": "adult-silver-dragon",
+  "name": "Adult Silver Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult silver dragon, front facing, male, a huge dragon with gleaming silver scales and a sleek crest and a noble face, thematic background"
+ },
+ {
+  "id": "adult-white-dragon",
+  "name": "Adult White Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered adult white dragon, front facing, male, a huge dragon with white scales and icy blue eyes and a jagged crest, thematic background"
+ },
+ {
+  "id": "air-elemental",
+  "name": "Air Elemental",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered air elemental, front facing, no humanoid face, a large swirling whirlwind of translucent air with a faint face and crackling wisps, thematic background"
+ },
+ {
+  "id": "allosaurus",
+  "name": "Allosaurus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered allosaurus, front facing, no humanoid face, a large predatory dinosaur with rust-brown scales and a toothy open jaw, thematic background"
+ },
+ {
+  "id": "ancient-black-dragon",
+  "name": "Ancient Black Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient black dragon, front facing, male, a gargantuan dragon with black scales and curved horns and a skull-like face, thematic background"
+ },
+ {
+  "id": "ancient-blue-dragon",
+  "name": "Ancient Blue Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient blue dragon, front facing, male, a gargantuan dragon with blue scales and a large horn on the snout and frilled ears, thematic background"
+ },
+ {
+  "id": "ancient-brass-dragon",
+  "name": "Ancient Brass Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient brass dragon, front facing, male, a gargantuan dragon with shining brass scales and a spiny frill and swept-back horns, thematic background"
+ },
+ {
+  "id": "ancient-bronze-dragon",
+  "name": "Ancient Bronze Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient bronze dragon, front facing, male, a gargantuan dragon with gleaming bronze scales and ridged horns and sea-green eyes, thematic background"
+ },
+ {
+  "id": "ancient-copper-dragon",
+  "name": "Ancient Copper Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient copper dragon, front facing, male, a gargantuan dragon with burnished copper scales and curving horns and a sly look, thematic background"
+ },
+ {
+  "id": "ancient-gold-dragon",
+  "name": "Ancient Gold Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient gold dragon, front facing, male, a gargantuan dragon with radiant golden scales and long whiskers and swept-back horns, thematic background"
+ },
+ {
+  "id": "ancient-green-dragon",
+  "name": "Ancient Green Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient green dragon, front facing, male, a gargantuan dragon with green scales and swept-back horns and a spiny crest, thematic background"
+ },
+ {
+  "id": "ancient-red-dragon",
+  "name": "Ancient Red Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient red dragon, front facing, male, a gargantuan dragon with red scales and swept-back horns and glowing ember eyes, thematic background"
+ },
+ {
+  "id": "ancient-silver-dragon",
+  "name": "Ancient Silver Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient silver dragon, front facing, male, a gargantuan dragon with gleaming silver scales and a sleek crest and a noble face, thematic background"
+ },
+ {
+  "id": "ancient-white-dragon",
+  "name": "Ancient White Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ancient white dragon, front facing, male, a gargantuan dragon with white scales and icy blue eyes and a jagged crest, thematic background"
+ },
+ {
+  "id": "animated-armor",
+  "name": "Animated Armor",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered animated armor, front facing, no humanoid face, a hollow suit of steel plate armor with glowing blue eyes in the helmet, thematic background"
+ },
+ {
+  "id": "animated-flying-sword",
+  "name": "Animated Flying Sword",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered animated flying sword, front facing, no humanoid face, a small enchanted longsword hovering in the air with a faint magical glow, thematic background"
+ },
+ {
+  "id": "animated-rug-of-smothering",
+  "name": "Animated Rug of Smothering",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered animated rug of smothering, front facing, no humanoid face, a large ornate crimson rug with gold tassels rearing up like a cobra, thematic background"
+ },
+ {
+  "id": "ankheg",
+  "name": "Ankheg",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ankheg, front facing, no humanoid face, a large burrowing insect with a brown chitin shell and huge mandibles and acid-dripping jaws, thematic background"
+ },
+ {
+  "id": "ankylosaurus",
+  "name": "Ankylosaurus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ankylosaurus, front facing, no humanoid face, a huge armored dinosaur with bony plates and a spiked back and a heavy clubbed head, thematic background"
+ },
+ {
+  "id": "ape",
+  "name": "Ape",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ape, front facing, no humanoid face, a muscular brown ape with a broad chest and long arms, thematic background"
+ },
+ {
+  "id": "archelon",
+  "name": "Archelon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered archelon, front facing, no humanoid face, a huge ancient sea turtle with a thick leathery shell and a beaked head, thematic background"
+ },
+ {
+  "id": "archmage",
+  "name": "Archmage",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered archmage, front facing, male, an elderly human wizard in flowing blue robes with a glowing staff and a long white beard, thematic background"
+ },
+ {
+  "id": "assassin",
+  "name": "Assassin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered assassin, front facing, female, a hooded human assassin in dark leather with a masked face and a curved dagger, thematic background"
+ },
+ {
+  "id": "avatar-of-death",
+  "name": "Avatar of Death",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered avatar of death, front facing, male, a gaunt skeletal figure in a black hooded robe with glowing eye sockets, thematic background"
+ },
+ {
+  "id": "awakened-shrub",
+  "name": "Awakened Shrub",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered awakened shrub, front facing, no humanoid face, a small walking shrub with twisted branches and leafy green foliage and tiny glowing eyes, thematic background"
+ },
+ {
+  "id": "awakened-tree",
+  "name": "Awakened Tree",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered awakened tree, front facing, no humanoid face, a huge living tree with a gnarled face in its bark and thick branching arms, thematic background"
+ },
+ {
+  "id": "axe-beak",
+  "name": "Axe Beak",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered axe beak, front facing, no humanoid face, a large flightless bird with a tall neck and a heavy axe-shaped beak and rust-colored feathers, thematic background"
+ },
+ {
+  "id": "azer-sentinel",
+  "name": "Azer Sentinel",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered azer sentinel, front facing, no humanoid face, a stocky bronze-skinned dwarf with flaming hair and beard and smoldering metal armor, thematic background"
+ },
+ {
+  "id": "baboon",
+  "name": "Baboon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered baboon, front facing, no humanoid face, a small baboon with gray-brown fur and a long snout and bared fangs, thematic background"
+ },
+ {
+  "id": "badger",
+  "name": "Badger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered badger, front facing, no humanoid face, a tiny badger with a black and white striped face and gray fur, thematic background"
+ },
+ {
+  "id": "balor",
+  "name": "Balor",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered balor, front facing, male, a huge winged demon with red skin and curved horns wreathed in flames and wielding a fiery whip, thematic background"
+ },
+ {
+  "id": "bandit",
+  "name": "Bandit",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bandit, front facing, male, a rough human bandit in a leather vest and hood with a scarred face, thematic background"
+ },
+ {
+  "id": "bandit-captain",
+  "name": "Bandit Captain",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bandit captain, front facing, male, a scarred human bandit captain in a dark coat and feathered hat with a cutlass, thematic background"
+ },
+ {
+  "id": "barbed-devil",
+  "name": "Barbed Devil",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered barbed devil, front facing, male, a spiny red-skinned devil covered in sharp barbs with clawed hands and burning eyes, thematic background"
+ },
+ {
+  "id": "basilisk",
+  "name": "Basilisk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered basilisk, front facing, no humanoid face, a reptilian beast with thick scaly brown hide and glowing green petrifying eyes and a toothy maw, thematic background"
+ },
+ {
+  "id": "bat",
+  "name": "Bat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bat, front facing, no humanoid face, a tiny bat with dark fur and large ears and spread leathery wings, thematic background"
+ },
+ {
+  "id": "bearded-devil",
+  "name": "Bearded Devil",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bearded devil, front facing, male, a red-skinned devil with a writhing beard of tendrils and curved horns and a jagged glaive, thematic background"
+ },
+ {
+  "id": "behir",
+  "name": "Behir",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered behir, front facing, no humanoid face, a huge long-bodied blue reptile with a horned head and crackling lightning in its jaws, thematic background"
+ },
+ {
+  "id": "berserker",
+  "name": "Berserker",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered berserker, front facing, male, a wild-eyed human barbarian with war paint and a bare scarred chest and a great axe, thematic background"
+ },
+ {
+  "id": "black-bear",
+  "name": "Black Bear",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered black bear, front facing, no humanoid face, a black bear with glossy black fur and a tan muzzle, thematic background"
+ },
+ {
+  "id": "black-dragon-wyrmling",
+  "name": "Black Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered black dragon wyrmling, front facing, male, a small dragon with black scales and curved horns and a skull-like face, thematic background"
+ },
+ {
+  "id": "black-pudding",
+  "name": "Black Pudding",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered black pudding, front facing, no humanoid face, a large mass of glistening black ooze with a bubbling surface, thematic background"
+ },
+ {
+  "id": "blink-dog",
+  "name": "Blink Dog",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered blink dog, front facing, male, a sleek fey dog with tawny fur and a faint shimmering magical glow, thematic background"
+ },
+ {
+  "id": "blood-hawk",
+  "name": "Blood Hawk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered blood hawk, front facing, no humanoid face, a small hawk with crimson-tipped feathers and a sharp hooked beak, thematic background"
+ },
+ {
+  "id": "blue-dragon-wyrmling",
+  "name": "Blue Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered blue dragon wyrmling, front facing, male, a small dragon with blue scales and a large horn on the snout and frilled ears, thematic background"
+ },
+ {
+  "id": "boar",
+  "name": "Boar",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered boar, front facing, no humanoid face, a bristly wild boar with curved tusks and coarse brown hair, thematic background"
+ },
+ {
+  "id": "bone-devil",
+  "name": "Bone Devil",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bone devil, front facing, male, a gaunt skeletal devil with scaly gray skin and a horned skull-like face and hooked claws, thematic background"
+ },
+ {
+  "id": "brass-dragon-wyrmling",
+  "name": "Brass Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered brass dragon wyrmling, front facing, male, a small dragon with shining brass scales and a spiny frill and swept-back horns, thematic background"
+ },
+ {
+  "id": "bronze-dragon-wyrmling",
+  "name": "Bronze Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bronze dragon wyrmling, front facing, male, a small dragon with gleaming bronze scales and ridged horns and sea-green eyes, thematic background"
+ },
+ {
+  "id": "brown-bear",
+  "name": "Brown Bear",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered brown bear, front facing, no humanoid face, a large brown bear with shaggy fur and powerful shoulders, thematic background"
+ },
+ {
+  "id": "bugbear-stalker",
+  "name": "Bugbear Stalker",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bugbear stalker, front facing, male, a hulking hairy goblinoid with matted brown fur and yellow eyes and a hooded cloak, thematic background"
+ },
+ {
+  "id": "bugbear-warrior",
+  "name": "Bugbear Warrior",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bugbear warrior, front facing, male, a hulking hairy goblinoid with brown fur and crude leather armor and a spiked mace, thematic background"
+ },
+ {
+  "id": "bulette",
+  "name": "Bulette",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered bulette, front facing, no humanoid face, a large armored land-shark with gray-blue plates and a jagged crest and a gaping toothy maw, thematic background"
+ },
+ {
+  "id": "camel",
+  "name": "Camel",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered camel, front facing, no humanoid face, a large camel with sandy fur and a tall hump and a long neck, thematic background"
+ },
+ {
+  "id": "cat",
+  "name": "Cat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered cat, front facing, no humanoid face, a tiny house cat with soft gray fur and bright green eyes, thematic background"
+ },
+ {
+  "id": "centaur-trooper",
+  "name": "Centaur Trooper",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered centaur trooper, front facing, male, a muscular centaur archer with a bare human torso and chestnut horse body and a longbow, thematic background"
+ },
+ {
+  "id": "chain-devil",
+  "name": "Chain Devil",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered chain devil, front facing, male, a gaunt devil wrapped in spiked chains with a hooded face and sharp hooks, thematic background"
+ },
+ {
+  "id": "chimera",
+  "name": "Chimera",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered chimera, front facing, no humanoid face, a large three-headed beast with a lion head and a goat head and a red dragon head and bat-like wings, thematic background"
+ },
+ {
+  "id": "chuul",
+  "name": "Chuul",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered chuul, front facing, no humanoid face, a large armored crustacean with a green-brown shell and huge pincers and tentacles around its mouth, thematic background"
+ },
+ {
+  "id": "clay-golem",
+  "name": "Clay Golem",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered clay golem, front facing, no humanoid face, a large humanoid golem of cracked red-brown clay with a blank face and thick arms, thematic background"
+ },
+ {
+  "id": "cloaker",
+  "name": "Cloaker",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered cloaker, front facing, no humanoid face, a large manta-like creature with a black leathery cloak body and a toothy maw and red eyes, thematic background"
+ },
+ {
+  "id": "cloud-giant",
+  "name": "Cloud Giant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered cloud giant, front facing, male, a huge giant with pale blue skin and silvery hair and fine billowing robes, thematic background"
+ },
+ {
+  "id": "cockatrice",
+  "name": "Cockatrice",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered cockatrice, front facing, no humanoid face, a small bird-like reptile with a rooster comb and gray-green feathers and leathery wings, thematic background"
+ },
+ {
+  "id": "commoner",
+  "name": "Commoner",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered commoner, front facing, male, a humble human villager in a plain tunic with a weathered friendly face, thematic background"
+ },
+ {
+  "id": "constrictor-snake",
+  "name": "Constrictor Snake",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered constrictor snake, front facing, no humanoid face, a large snake with a thick coiled body of brown and tan patterned scales, thematic background"
+ },
+ {
+  "id": "copper-dragon-wyrmling",
+  "name": "Copper Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered copper dragon wyrmling, front facing, male, a small dragon with burnished copper scales and curving horns and a sly look, thematic background"
+ },
+ {
+  "id": "couatl",
+  "name": "Couatl",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered couatl, front facing, male, a feathered serpent with rainbow plumage and wide wings and a gentle golden gaze, thematic background"
+ },
+ {
+  "id": "crab",
+  "name": "Crab",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered crab, front facing, no humanoid face, a tiny crab with a reddish shell and two small claws, thematic background"
+ },
+ {
+  "id": "crocodile",
+  "name": "Crocodile",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered crocodile, front facing, no humanoid face, a large crocodile with green-brown scales and a long toothy snout, thematic background"
+ },
+ {
+  "id": "cultist",
+  "name": "Cultist",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered cultist, front facing, male, a hooded human cultist in a dark robe with a ritual dagger and a sinister symbol, thematic background"
+ },
+ {
+  "id": "cultist-fanatic",
+  "name": "Cultist Fanatic",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered cultist fanatic, front facing, male, a wild-eyed human fanatic in black ceremonial robes with a ritual mask and a glowing sigil, thematic background"
+ },
+ {
+  "id": "darkmantle",
+  "name": "Darkmantle",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered darkmantle, front facing, no humanoid face, a small squid-like cave creature with a mottled gray hood and short grasping tentacles, thematic background"
+ },
+ {
+  "id": "death-dog",
+  "name": "Death Dog",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered death dog, front facing, no humanoid face, a two-headed mangy hound with gaunt gray fur and glaring red eyes and bared teeth, thematic background"
+ },
+ {
+  "id": "deer",
+  "name": "Deer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered deer, front facing, no humanoid face, a graceful deer with a tawny coat and branching antlers, thematic background"
+ },
+ {
+  "id": "deva",
+  "name": "Deva",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered deva, front facing, male, a radiant angelic being with white feathered wings and luminous eyes and flowing white robes, thematic background"
+ },
+ {
+  "id": "dire-wolf",
+  "name": "Dire Wolf",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered dire wolf, front facing, no humanoid face, a large wolf with dark shaggy gray fur and glowing yellow eyes and long fangs, thematic background"
+ },
+ {
+  "id": "djinni",
+  "name": "Djinni",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered djinni, front facing, no humanoid face, a muscular genie with sky-blue skin and gold jewelry and a swirling cloud of wind and smoke, thematic background"
+ },
+ {
+  "id": "doppelganger",
+  "name": "Doppelganger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered doppelganger, front facing, no humanoid face, a pale gray-skinned humanoid with a smooth featureless face and sly yellow eyes, thematic background"
+ },
+ {
+  "id": "draft-horse",
+  "name": "Draft Horse",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered draft horse, front facing, no humanoid face, a large powerful horse with a thick neck and a feathered mane and a brown coat, thematic background"
+ },
+ {
+  "id": "dragon-turtle",
+  "name": "Dragon Turtle",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered dragon turtle, front facing, male, a gargantuan sea monster with a huge domed shell and a horned dragon head and teal scales, thematic background"
+ },
+ {
+  "id": "dretch",
+  "name": "Dretch",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered dretch, front facing, male, a small pudgy demon with putrid pinkish-gray skin and a bulbous head and sharp teeth, thematic background"
+ },
+ {
+  "id": "drider",
+  "name": "Drider",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered drider, front facing, no humanoid face, a dark-skinned drow elf with white hair and a giant spider body and cruel red eyes, thematic background"
+ },
+ {
+  "id": "druid",
+  "name": "Druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered druid, front facing, female, a wise human druid in a green cloak with leaf and antler adornments and a wooden staff, thematic background"
+ },
+ {
+  "id": "dryad",
+  "name": "Dryad",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered dryad, front facing, female, a graceful tree spirit with green-tinged skin and leafy hair and bark-like arms with blossoms, thematic background"
+ },
+ {
+  "id": "dust-mephit",
+  "name": "Dust Mephit",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered dust mephit, front facing, no humanoid face, a small winged imp made of swirling tan dust with glowing eyes and a sharp grin, thematic background"
+ },
+ {
+  "id": "eagle",
+  "name": "Eagle",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered eagle, front facing, no humanoid face, a small eagle with brown feathers and a white head and a hooked yellow beak, thematic background"
+ },
+ {
+  "id": "earth-elemental",
+  "name": "Earth Elemental",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered earth elemental, front facing, no humanoid face, a large hulking being of jagged brown rock and earth with glowing amber eyes, thematic background"
+ },
+ {
+  "id": "efreeti",
+  "name": "Efreeti",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered efreeti, front facing, no humanoid face, a large genie with molten red skin and curled horns and flames in its hair and gold armbands, thematic background"
+ },
+ {
+  "id": "elephant",
+  "name": "Elephant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered elephant, front facing, no humanoid face, a huge gray elephant with curved ivory tusks and a long trunk and wide ears, thematic background"
+ },
+ {
+  "id": "elk",
+  "name": "Elk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered elk, front facing, no humanoid face, a large elk with a thick neck and broad branching antlers, thematic background"
+ },
+ {
+  "id": "erinyes",
+  "name": "Erinyes",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered erinyes, front facing, female, a fierce winged devil with black feathery wings and red eyes and bronze armor and a bow, thematic background"
+ },
+ {
+  "id": "ettercap",
+  "name": "Ettercap",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ettercap, front facing, male, a hunched humanoid with spidery features and mottled gray skin and fangs and web strands, thematic background"
+ },
+ {
+  "id": "ettin",
+  "name": "Ettin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ettin, front facing, male, a large two-headed giant with grimy gray-brown skin and ugly faces and tattered hides, thematic background"
+ },
+ {
+  "id": "fire-elemental",
+  "name": "Fire Elemental",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered fire elemental, front facing, no humanoid face, a large living blaze shaped like a whirling pillar of orange flames with glowing ember eyes, thematic background"
+ },
+ {
+  "id": "fire-giant",
+  "name": "Fire Giant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered fire giant, front facing, male, a huge giant with ashen dark skin and glowing orange hair and beard and heavy black iron armor, thematic background"
+ },
+ {
+  "id": "flesh-golem",
+  "name": "Flesh Golem",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered flesh golem, front facing, no humanoid face, a stitched-together humanoid of mismatched pale flesh with bolts and scars and a heavy brow, thematic background"
+ },
+ {
+  "id": "flying-snake",
+  "name": "Flying Snake",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered flying snake, front facing, no humanoid face, a tiny snake with bright orange and blue scales and small membranous wings, thematic background"
+ },
+ {
+  "id": "frog",
+  "name": "Frog",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered frog, front facing, no humanoid face, a tiny green frog with big eyes and a bulging throat, thematic background"
+ },
+ {
+  "id": "frost-giant",
+  "name": "Frost Giant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered frost giant, front facing, male, a huge giant with pale blue skin and a braided white beard and fur-trimmed icy armor, thematic background"
+ },
+ {
+  "id": "gargoyle",
+  "name": "Gargoyle",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gargoyle, front facing, no humanoid face, a stone-gray winged demon statue with horns and clawed hands and a snarling face, thematic background"
+ },
+ {
+  "id": "gelatinous-cube",
+  "name": "Gelatinous Cube",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gelatinous cube, front facing, no humanoid face, a large transparent green cube of jelly with bones and debris suspended inside, thematic background"
+ },
+ {
+  "id": "ghast",
+  "name": "Ghast",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ghast, front facing, male, a gaunt undead ghoul with gray rotting skin and a long tongue and a hungry snarl, thematic background"
+ },
+ {
+  "id": "ghost",
+  "name": "Ghost",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ghost, front facing, male, a pale translucent spectral figure in tattered robes with hollow glowing eyes, thematic background"
+ },
+ {
+  "id": "ghoul",
+  "name": "Ghoul",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ghoul, front facing, male, a hunched undead ghoul with sallow gray skin and sharp claws and a gaping fanged mouth, thematic background"
+ },
+ {
+  "id": "giant-ape",
+  "name": "Giant Ape",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant ape, front facing, no humanoid face, a huge gorilla-like ape with dark fur and a massive chest and bared teeth, thematic background"
+ },
+ {
+  "id": "giant-badger",
+  "name": "Giant Badger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant badger, front facing, no humanoid face, a stocky giant badger with gray fur and a black and white striped face and long claws, thematic background"
+ },
+ {
+  "id": "giant-bat",
+  "name": "Giant Bat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant bat, front facing, no humanoid face, a large bat with dark brown fur and huge leathery wings and a fanged mouth, thematic background"
+ },
+ {
+  "id": "giant-boar",
+  "name": "Giant Boar",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant boar, front facing, no humanoid face, a large boar with bristly black fur and huge curved tusks and red eyes, thematic background"
+ },
+ {
+  "id": "giant-centipede",
+  "name": "Giant Centipede",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant centipede, front facing, no humanoid face, a small centipede with a segmented orange-brown body and large venomous pincers, thematic background"
+ },
+ {
+  "id": "giant-constrictor-snake",
+  "name": "Giant Constrictor Snake",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant constrictor snake, front facing, no humanoid face, a huge snake with thick coils of olive green and brown patterned scales, thematic background"
+ },
+ {
+  "id": "giant-crab",
+  "name": "Giant Crab",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant crab, front facing, no humanoid face, a large crab with a hard reddish shell and big claws and eye stalks, thematic background"
+ },
+ {
+  "id": "giant-crocodile",
+  "name": "Giant Crocodile",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant crocodile, front facing, no humanoid face, a huge crocodile with armored dark green hide and a massive toothy jaw, thematic background"
+ },
+ {
+  "id": "giant-eagle",
+  "name": "Giant Eagle",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant eagle, front facing, male, a large golden-brown eagle with majestic wide wings and a sharp beak and intelligent eyes, thematic background"
+ },
+ {
+  "id": "giant-elk",
+  "name": "Giant Elk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant elk, front facing, male, a huge majestic elk with enormous sweeping antlers and a glowing pale coat, thematic background"
+ },
+ {
+  "id": "giant-fire-beetle",
+  "name": "Giant Fire Beetle",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant fire beetle, front facing, no humanoid face, a small beetle with a dark glossy shell and glowing orange glands, thematic background"
+ },
+ {
+  "id": "giant-frog",
+  "name": "Giant Frog",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant frog, front facing, no humanoid face, a large green frog with warty skin and a wide mouth and bulging golden eyes, thematic background"
+ },
+ {
+  "id": "giant-goat",
+  "name": "Giant Goat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant goat, front facing, no humanoid face, a large goat with shaggy gray fur and huge curled horns, thematic background"
+ },
+ {
+  "id": "giant-hyena",
+  "name": "Giant Hyena",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant hyena, front facing, no humanoid face, a large spotted hyena with a sloped back and coarse tan fur and powerful jaws, thematic background"
+ },
+ {
+  "id": "giant-lizard",
+  "name": "Giant Lizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant lizard, front facing, no humanoid face, a large lizard with olive-green scales and a spiny crest and a long snout, thematic background"
+ },
+ {
+  "id": "giant-octopus",
+  "name": "Giant Octopus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant octopus, front facing, no humanoid face, a large purple-red octopus with a bulbous head and eight long suckered tentacles, thematic background"
+ },
+ {
+  "id": "giant-owl",
+  "name": "Giant Owl",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant owl, front facing, male, a large owl with brown and cream feathers and huge amber eyes and wide wings, thematic background"
+ },
+ {
+  "id": "giant-rat",
+  "name": "Giant Rat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant rat, front facing, no humanoid face, a small rat with matted gray-brown fur and long whiskers and yellow teeth, thematic background"
+ },
+ {
+  "id": "giant-scorpion",
+  "name": "Giant Scorpion",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant scorpion, front facing, no humanoid face, a large scorpion with a dark brown armored shell and big pincers and a raised stinger, thematic background"
+ },
+ {
+  "id": "giant-seahorse",
+  "name": "Giant Seahorse",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant seahorse, front facing, no humanoid face, a large seahorse with shimmering blue-green scales and a horse-like head and a spiny crest, thematic background"
+ },
+ {
+  "id": "giant-shark",
+  "name": "Giant Shark",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant shark, front facing, no humanoid face, a huge shark with slate-gray skin and rows of jagged teeth, thematic background"
+ },
+ {
+  "id": "giant-spider",
+  "name": "Giant Spider",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant spider, front facing, no humanoid face, a large black spider with a hairy body and fangs and many glinting eyes, thematic background"
+ },
+ {
+  "id": "giant-toad",
+  "name": "Giant Toad",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant toad, front facing, no humanoid face, a large warty brown toad with a wide mouth and bulging eyes, thematic background"
+ },
+ {
+  "id": "giant-venomous-snake",
+  "name": "Giant Venomous Snake",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant venomous snake, front facing, no humanoid face, a cobra-like snake with olive scales and a flared hood and dripping fangs, thematic background"
+ },
+ {
+  "id": "giant-vulture",
+  "name": "Giant Vulture",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant vulture, front facing, no humanoid face, a large bald vulture with dark ragged feathers and a hooked beak, thematic background"
+ },
+ {
+  "id": "giant-wasp",
+  "name": "Giant Wasp",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant wasp, front facing, no humanoid face, a big wasp with a black and yellow banded body and translucent wings and a stinger, thematic background"
+ },
+ {
+  "id": "giant-weasel",
+  "name": "Giant Weasel",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant weasel, front facing, no humanoid face, a long slender weasel with reddish-brown fur and a cream underside and sharp teeth, thematic background"
+ },
+ {
+  "id": "giant-wolf-spider",
+  "name": "Giant Wolf Spider",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered giant wolf spider, front facing, no humanoid face, a hairy brown spider with striped markings and glinting eyes and fangs, thematic background"
+ },
+ {
+  "id": "gibbering-mouther",
+  "name": "Gibbering Mouther",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gibbering mouther, front facing, no humanoid face, a mass of pink flesh covered in countless mouths and eyes, thematic background"
+ },
+ {
+  "id": "glabrezu",
+  "name": "Glabrezu",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered glabrezu, front facing, male, a large muscular demon with a dog-like head and huge pincer claws and two smaller arms, thematic background"
+ },
+ {
+  "id": "gladiator",
+  "name": "Gladiator",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gladiator, front facing, male, a muscular human gladiator in bronze arena armor with a crested helmet and a round shield, thematic background"
+ },
+ {
+  "id": "gnoll-warrior",
+  "name": "Gnoll Warrior",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gnoll warrior, front facing, male, a hyena-headed humanoid with spotted tawny fur and a mane and a snarling grin and crude armor, thematic background"
+ },
+ {
+  "id": "goat",
+  "name": "Goat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered goat, front facing, no humanoid face, a goat with a shaggy white coat and curved horns and a small beard, thematic background"
+ },
+ {
+  "id": "goblin-boss",
+  "name": "Goblin Boss",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered goblin boss, front facing, male, a small green goblin in scrappy armor with a crown-like helmet and a sneering grin, thematic background"
+ },
+ {
+  "id": "goblin-minion",
+  "name": "Goblin Minion",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered goblin minion, front facing, male, a small green goblin with big pointed ears and yellow eyes and a toothy grin, thematic background"
+ },
+ {
+  "id": "goblin-warrior",
+  "name": "Goblin Warrior",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered goblin warrior, front facing, male, a small green goblin with pointed ears and crude leather armor and a rusty scimitar, thematic background"
+ },
+ {
+  "id": "gold-dragon-wyrmling",
+  "name": "Gold Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gold dragon wyrmling, front facing, male, a small dragon with radiant golden scales and long whiskers and swept-back horns, thematic background"
+ },
+ {
+  "id": "gorgon",
+  "name": "Gorgon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gorgon, front facing, no humanoid face, a large bull-like beast of dark iron plates with steaming nostrils and curved horns, thematic background"
+ },
+ {
+  "id": "gray-ooze",
+  "name": "Gray Ooze",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered gray ooze, front facing, no humanoid face, a medium puddle of dull gray slime rising into a glistening mound, thematic background"
+ },
+ {
+  "id": "green-dragon-wyrmling",
+  "name": "Green Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered green dragon wyrmling, front facing, male, a small dragon with green scales and swept-back horns and a spiny crest, thematic background"
+ },
+ {
+  "id": "green-hag",
+  "name": "Green Hag",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered green hag, front facing, female, a hunched green-skinned hag with warty skin and stringy black hair and long claws and a wicked grin, thematic background"
+ },
+ {
+  "id": "grick",
+  "name": "Grick",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered grick, front facing, no humanoid face, a worm-like creature with a mottled gray body and a ring of beaked tentacles at its head, thematic background"
+ },
+ {
+  "id": "griffon",
+  "name": "Griffon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered griffon, front facing, no humanoid face, a large beast with an eagle head and golden feathered wings and a lion body, thematic background"
+ },
+ {
+  "id": "grimlock",
+  "name": "Grimlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered grimlock, front facing, no humanoid face, a pale blind humanoid with gray leathery skin and no eyes and a sharp-toothed grimace, thematic background"
+ },
+ {
+  "id": "guard",
+  "name": "Guard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered guard, front facing, male, a human city guard in chain mail and a conical helmet with a spear, thematic background"
+ },
+ {
+  "id": "guard-captain",
+  "name": "Guard Captain",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered guard captain, front facing, female, a stern human captain of the guard in polished plate armor and a plumed helm with a tabard, thematic background"
+ },
+ {
+  "id": "guardian-naga",
+  "name": "Guardian Naga",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered guardian naga, front facing, male, a large serpent with golden scales and a human-like face and a colorful frill, thematic background"
+ },
+ {
+  "id": "half-dragon",
+  "name": "Half-Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered half-dragon, front facing, male, a human warrior with scaled skin and small horns and dragon-like eyes and sturdy leather armor, thematic background"
+ },
+ {
+  "id": "harpy",
+  "name": "Harpy",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered harpy, front facing, female, a winged creature with the top half of human and the bottom half of a bird, thematic background"
+ },
+ {
+  "id": "hawk",
+  "name": "Hawk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hawk, front facing, no humanoid face, a tiny hawk with brown and cream feathers and sharp yellow eyes, thematic background"
+ },
+ {
+  "id": "hell-hound",
+  "name": "Hell Hound",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hell hound, front facing, male, a hound with a scorched black-red coat and glowing embers in its mouth and burning eyes, thematic background"
+ },
+ {
+  "id": "hezrou",
+  "name": "Hezrou",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hezrou, front facing, male, a large toad-like demon with warty green-gray skin and a wide fanged mouth and spines, thematic background"
+ },
+ {
+  "id": "hill-giant",
+  "name": "Hill Giant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hill giant, front facing, male, a huge brutish giant with sunburnt skin and shaggy hair and a crude fur tunic, thematic background"
+ },
+ {
+  "id": "hippogriff",
+  "name": "Hippogriff",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hippogriff, front facing, no humanoid face, a large hybrid with an eagle head and wings and a horse body in brown and white feathers, thematic background"
+ },
+ {
+  "id": "hippopotamus",
+  "name": "Hippopotamus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hippopotamus, front facing, no humanoid face, a large gray-brown hippo with a wide mouth and big tusks, thematic background"
+ },
+ {
+  "id": "hobgoblin-captain",
+  "name": "Hobgoblin Captain",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hobgoblin captain, front facing, male, a disciplined orange-skinned goblinoid in red-lacquered plate armor with a plumed helm and a stern scowl, thematic background"
+ },
+ {
+  "id": "hobgoblin-warrior",
+  "name": "Hobgoblin Warrior",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hobgoblin warrior, front facing, male, a disciplined orange-skinned goblinoid in red scale armor and an iron helm with a stern scowl, thematic background"
+ },
+ {
+  "id": "homunculus",
+  "name": "Homunculus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered homunculus, front facing, no humanoid face, a tiny winged imp-like construct with green skin and bat wings and a sharp-toothed grin, thematic background"
+ },
+ {
+  "id": "horned-devil",
+  "name": "Horned Devil",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered horned devil, front facing, male, a large muscular devil with red skin and curved horns and leathery wings and a barbed spear, thematic background"
+ },
+ {
+  "id": "hunter-shark",
+  "name": "Hunter Shark",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hunter shark, front facing, no humanoid face, a large shark with a gray back and white underside and a toothy mouth, thematic background"
+ },
+ {
+  "id": "hydra",
+  "name": "Hydra",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hydra, front facing, no humanoid face, a huge multi-headed serpent with five snarling reptilian heads and green-brown scales, thematic background"
+ },
+ {
+  "id": "hyena",
+  "name": "Hyena",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered hyena, front facing, no humanoid face, a spotted hyena with tawny fur and a sloped back and a wide jaw, thematic background"
+ },
+ {
+  "id": "ice-devil",
+  "name": "Ice Devil",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ice devil, front facing, male, a large insectoid devil with pale blue frosted skin and horns and crystalline spikes, thematic background"
+ },
+ {
+  "id": "ice-mephit",
+  "name": "Ice Mephit",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ice mephit, front facing, no humanoid face, a small winged imp of jagged blue ice with frost vapor and a sneer, thematic background"
+ },
+ {
+  "id": "imp",
+  "name": "Imp",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered imp, front facing, male, a tiny red devil with small horns and bat wings and a mischievous grin, thematic background"
+ },
+ {
+  "id": "incubus",
+  "name": "Incubus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered incubus, front facing, male, a handsome winged fiend with pale skin and curved horns and bat wings and a charming smile, thematic background"
+ },
+ {
+  "id": "invisible-stalker",
+  "name": "Invisible Stalker",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered invisible stalker, front facing, no humanoid face, a large swirling humanoid shape of faint translucent air with barely visible glowing eyes, thematic background"
+ },
+ {
+  "id": "iron-golem",
+  "name": "Iron Golem",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered iron golem, front facing, no humanoid face, a large humanoid golem of riveted dark iron plates with glowing eye slits and heavy fists, thematic background"
+ },
+ {
+  "id": "jackal",
+  "name": "Jackal",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered jackal, front facing, no humanoid face, a small jackal with sandy fur and large pointed ears and a narrow snout, thematic background"
+ },
+ {
+  "id": "killer-whale",
+  "name": "Killer Whale",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered killer whale, front facing, no humanoid face, a huge orca with black and white markings and a tall dorsal fin, thematic background"
+ },
+ {
+  "id": "knight",
+  "name": "Knight",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered knight, front facing, male, a battle-scarred human knight in polished plate armor with a tabard and a plumed helm, thematic background"
+ },
+ {
+  "id": "kobold-warrior",
+  "name": "Kobold Warrior",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered kobold warrior, front facing, male, a small reptilian kobold with rusty red scales and a dog-like snout and small horns and crude armor, thematic background"
+ },
+ {
+  "id": "kraken",
+  "name": "Kraken",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered kraken, front facing, no humanoid face, a gargantuan sea monster with a huge dark-blue head and massive tentacles and glowing eyes, thematic background"
+ },
+ {
+  "id": "lamia",
+  "name": "Lamia",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered lamia, front facing, female, a beautiful horned woman with tawny skin and a lion mane and clawed hands and dark jewelry, thematic background"
+ },
+ {
+  "id": "lemure",
+  "name": "Lemure",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered lemure, front facing, male, a shapeless fiend of grayish molten flesh with a vacant face and stubby arms, thematic background"
+ },
+ {
+  "id": "lich",
+  "name": "Lich",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered lich, front facing, male, a skeletal sorcerer in tattered purple robes with a jeweled crown and glowing blue eyes, thematic background"
+ },
+ {
+  "id": "lion",
+  "name": "Lion",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered lion, front facing, no humanoid face, a large lion with a thick golden mane and amber eyes, thematic background"
+ },
+ {
+  "id": "lizard",
+  "name": "Lizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered lizard, front facing, no humanoid face, a tiny green lizard with fine scales and a darting tongue, thematic background"
+ },
+ {
+  "id": "mage",
+  "name": "Mage",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mage, front facing, female, a human mage in star-patterned blue robes and a pointed hat with a glowing hand, thematic background"
+ },
+ {
+  "id": "magma-mephit",
+  "name": "Magma Mephit",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered magma mephit, front facing, no humanoid face, a small winged imp of molten rock with glowing orange cracks and a fiery grin, thematic background"
+ },
+ {
+  "id": "magmin",
+  "name": "Magmin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered magmin, front facing, no humanoid face, a small humanoid of charred black rock with cracks of glowing magma and flames on its head, thematic background"
+ },
+ {
+  "id": "mammoth",
+  "name": "Mammoth",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mammoth, front facing, no humanoid face, a huge woolly mammoth with shaggy brown fur and long curved tusks, thematic background"
+ },
+ {
+  "id": "manticore",
+  "name": "Manticore",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered manticore, front facing, no humanoid face, a large beast with a leering bearded human face and a lion mane and bat wings, thematic background"
+ },
+ {
+  "id": "marilith",
+  "name": "Marilith",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered marilith, front facing, female, a large six-armed demon woman with red skin and horns and long black hair wielding six swords, thematic background"
+ },
+ {
+  "id": "mastiff",
+  "name": "Mastiff",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mastiff, front facing, no humanoid face, a muscular mastiff with a short tan coat and a black muzzle and wrinkled jowls, thematic background"
+ },
+ {
+  "id": "medusa",
+  "name": "Medusa",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered medusa, front facing, female, a woman with green-tinged skin and a head of writhing snakes and glowing golden eyes, thematic background"
+ },
+ {
+  "id": "merfolk-skirmisher",
+  "name": "Merfolk Skirmisher",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered merfolk skirmisher, front facing, no humanoid face, a sea-dwelling humanoid with teal skin and fins and gills and a trident, thematic background"
+ },
+ {
+  "id": "merrow",
+  "name": "Merrow",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered merrow, front facing, no humanoid face, a large brutish aquatic ogre-like creature with green scaly skin and sharp teeth and a harpoon, thematic background"
+ },
+ {
+  "id": "mimic",
+  "name": "Mimic",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mimic, front facing, no humanoid face, a treasure chest with a toothy mouth and a long tongue and wooden planks with gold bands, thematic background"
+ },
+ {
+  "id": "minotaur-skeleton",
+  "name": "Minotaur Skeleton",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered minotaur skeleton, front facing, male, a large skeletal bull-headed monster with huge curved horns and glowing red eye sockets, thematic background"
+ },
+ {
+  "id": "minotaur-of-baphomet",
+  "name": "Minotaur of Baphomet",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered minotaur of baphomet, front facing, male, a large muscular bull-headed brute with dark fur and curved horns and a snorting nose, thematic background"
+ },
+ {
+  "id": "mule",
+  "name": "Mule",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mule, front facing, no humanoid face, a stubborn mule with a gray-brown coat and long ears, thematic background"
+ },
+ {
+  "id": "mummy",
+  "name": "Mummy",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mummy, front facing, male, an undead figure wrapped in tattered yellowed bandages with glowing eyes and decayed skin, thematic background"
+ },
+ {
+  "id": "mummy-lord",
+  "name": "Mummy Lord",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered mummy lord, front facing, male, a regal undead pharaoh in bandages with a golden crown and a jeweled collar and glowing eyes, thematic background"
+ },
+ {
+  "id": "nalfeshnee",
+  "name": "Nalfeshnee",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered nalfeshnee, front facing, male, a large demon with a boar-like head and a bloated gray body and small wings, thematic background"
+ },
+ {
+  "id": "night-hag",
+  "name": "Night Hag",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered night hag, front facing, female, a gaunt blue-gray hag with long white hair and glowing red eyes and a dark hooded robe, thematic background"
+ },
+ {
+  "id": "nightmare",
+  "name": "Nightmare",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered nightmare, front facing, male, a large demonic black horse with a flaming mane and burning red eyes and smoking nostrils, thematic background"
+ },
+ {
+  "id": "noble",
+  "name": "Noble",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered noble, front facing, female, a refined human noble in embroidered velvet finery with a jeweled circlet, thematic background"
+ },
+ {
+  "id": "ochre-jelly",
+  "name": "Ochre Jelly",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ochre jelly, front facing, no humanoid face, a large oozing mass of yellow-orange jelly with a shiny surface, thematic background"
+ },
+ {
+  "id": "octopus",
+  "name": "Octopus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered octopus, front facing, no humanoid face, a small octopus with mottled orange skin and eight curling arms, thematic background"
+ },
+ {
+  "id": "ogre",
+  "name": "Ogre",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ogre, front facing, male, a large ogre with dark tan skin, thematic background"
+ },
+ {
+  "id": "ogre-zombie",
+  "name": "Ogre Zombie",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered ogre zombie, front facing, male, a large rotting ogre with gray-green decayed skin and stitched wounds and vacant eyes, thematic background"
+ },
+ {
+  "id": "oni",
+  "name": "Oni",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered oni, front facing, male, a large blue-skinned ogre-like demon with horns and a fanged grin and a glaive, thematic background"
+ },
+ {
+  "id": "otyugh",
+  "name": "Otyugh",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered otyugh, front facing, no humanoid face, a large trash-covered aberration with a bulbous body and three tentacles and a toothy maw and an eye stalk, thematic background"
+ },
+ {
+  "id": "owl",
+  "name": "Owl",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered owl, front facing, no humanoid face, a tiny owl with mottled brown feathers and big round yellow eyes, thematic background"
+ },
+ {
+  "id": "owlbear",
+  "name": "Owlbear",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered owlbear, front facing, no humanoid face, a large hybrid of owl and bear with a feathered head and a hooked beak and brown fur and claws, thematic background"
+ },
+ {
+  "id": "panther",
+  "name": "Panther",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered panther, front facing, no humanoid face, a sleek black panther with glowing green eyes and powerful shoulders, thematic background"
+ },
+ {
+  "id": "pegasus",
+  "name": "Pegasus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pegasus, front facing, male, a large white winged horse with feathered wings and a flowing mane, thematic background"
+ },
+ {
+  "id": "phase-spider",
+  "name": "Phase Spider",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered phase spider, front facing, no humanoid face, a large spider with a shimmering blue-black body and many eyes and an ethereal glow, thematic background"
+ },
+ {
+  "id": "piranha",
+  "name": "Piranha",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered piranha, front facing, no humanoid face, a tiny silver fish with a red belly and a jaw full of sharp teeth, thematic background"
+ },
+ {
+  "id": "pirate",
+  "name": "Pirate",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pirate, front facing, male, a rough human pirate with a bandana and an eyepatch and a cutlass and a tattered coat, thematic background"
+ },
+ {
+  "id": "pirate-captain",
+  "name": "Pirate Captain",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pirate captain, front facing, male, a swashbuckling human pirate captain in a feathered tricorn hat and a long coat with a rapier, thematic background"
+ },
+ {
+  "id": "pit-fiend",
+  "name": "Pit Fiend",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pit fiend, front facing, male, a large hulking devil with red scaly skin and curved horns and vast bat wings and a fiery glow, thematic background"
+ },
+ {
+  "id": "planetar",
+  "name": "Planetar",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered planetar, front facing, male, a large muscular angel with emerald skin and white feathered wings and a radiant greatsword, thematic background"
+ },
+ {
+  "id": "plesiosaurus",
+  "name": "Plesiosaurus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered plesiosaurus, front facing, no humanoid face, a large dinosaur-like sea reptile with a long neck and gray-blue skin and flippers, thematic background"
+ },
+ {
+  "id": "polar-bear",
+  "name": "Polar Bear",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered polar bear, front facing, no humanoid face, a large white polar bear with thick fur and a black nose, thematic background"
+ },
+ {
+  "id": "pony",
+  "name": "Pony",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pony, front facing, no humanoid face, a small shaggy pony with a short mane and a brown coat, thematic background"
+ },
+ {
+  "id": "priest",
+  "name": "Priest",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered priest, front facing, female, a human priest in white and gold vestments with a holy symbol and a kind face, thematic background"
+ },
+ {
+  "id": "priest-acolyte",
+  "name": "Priest Acolyte",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered priest acolyte, front facing, male, a young human acolyte in a simple brown robe with a holy symbol and a candle, thematic background"
+ },
+ {
+  "id": "pseudodragon",
+  "name": "Pseudodragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pseudodragon, front facing, male, a tiny dragon with red-brown scales and little horns and bat-like wings and bright eyes, thematic background"
+ },
+ {
+  "id": "pteranodon",
+  "name": "Pteranodon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered pteranodon, front facing, no humanoid face, a flying reptile with a long crested beak and leathery wings and gray-brown skin, thematic background"
+ },
+ {
+  "id": "purple-worm",
+  "name": "Purple Worm",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered purple worm, front facing, no humanoid face, a gargantuan worm with a purple ridged body and a huge round toothed mouth, thematic background"
+ },
+ {
+  "id": "quasit",
+  "name": "Quasit",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered quasit, front facing, male, a tiny green-skinned demon with small horns and clawed hands and bat wings and a wicked grin, thematic background"
+ },
+ {
+  "id": "rakshasa",
+  "name": "Rakshasa",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered rakshasa, front facing, male, a tiger-headed humanoid in rich silk robes with jewels and backward-facing palms, thematic background"
+ },
+ {
+  "id": "rat",
+  "name": "Rat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered rat, front facing, no humanoid face, a tiny rat with brown fur and a pink nose and whiskers, thematic background"
+ },
+ {
+  "id": "raven",
+  "name": "Raven",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered raven, front facing, no humanoid face, a tiny raven with glossy black feathers and a sharp beak, thematic background"
+ },
+ {
+  "id": "red-dragon-wyrmling",
+  "name": "Red Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered red dragon wyrmling, front facing, male, a small dragon with red scales and swept-back horns and glowing ember eyes, thematic background"
+ },
+ {
+  "id": "reef-shark",
+  "name": "Reef Shark",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered reef shark, front facing, no humanoid face, a shark with gray skin and a white belly and pointed teeth, thematic background"
+ },
+ {
+  "id": "remorhaz",
+  "name": "Remorhaz",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered remorhaz, front facing, no humanoid face, a huge centipede-like beast with a glowing hot back and white-blue chitin and a toothy maw, thematic background"
+ },
+ {
+  "id": "rhinoceros",
+  "name": "Rhinoceros",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered rhinoceros, front facing, no humanoid face, a large gray rhino with a thick armored hide and a large horn, thematic background"
+ },
+ {
+  "id": "riding-horse",
+  "name": "Riding Horse",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered riding horse, front facing, no humanoid face, a large chestnut horse with a flowing dark mane and a saddle, thematic background"
+ },
+ {
+  "id": "roc",
+  "name": "Roc",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered roc, front facing, no humanoid face, a gargantuan eagle with golden-brown feathers and enormous wings and a huge hooked beak, thematic background"
+ },
+ {
+  "id": "roper",
+  "name": "Roper",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered roper, front facing, no humanoid face, a large stalagmite-like creature with a mottled gray body and one eye and a fanged mouth and long tendrils, thematic background"
+ },
+ {
+  "id": "rust-monster",
+  "name": "Rust Monster",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered rust monster, front facing, no humanoid face, an armadillo-like beast with a rust-colored plated hide and two feathery antennae, thematic background"
+ },
+ {
+  "id": "saber-toothed-tiger",
+  "name": "Saber-Toothed Tiger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered saber-toothed tiger, front facing, no humanoid face, a large tiger with orange fur and black stripes and huge saber-like fangs, thematic background"
+ },
+ {
+  "id": "sahuagin-warrior",
+  "name": "Sahuagin Warrior",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered sahuagin warrior, front facing, male, a fish-like humanoid with blue-green scaly skin and fins and webbed claws and a trident, thematic background"
+ },
+ {
+  "id": "salamander",
+  "name": "Salamander",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered salamander, front facing, no humanoid face, a large fire creature with red-orange scales and a humanoid torso and a flaming spear, thematic background"
+ },
+ {
+  "id": "satyr",
+  "name": "Satyr",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered satyr, front facing, male, a man with curling horns and pointed ears and shaggy hair and a wooden flute, thematic background"
+ },
+ {
+  "id": "scorpion",
+  "name": "Scorpion",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered scorpion, front facing, no humanoid face, a tiny scorpion with a tan armored shell and small pincers, thematic background"
+ },
+ {
+  "id": "scout",
+  "name": "Scout",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered scout, front facing, male, a hooded human scout in a green cloak with a longbow and a weathered face, thematic background"
+ },
+ {
+  "id": "sea-hag",
+  "name": "Sea Hag",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered sea hag, front facing, female, a hideous hag with sea-green skin and tangled seaweed hair and a ragged barnacle-crusted robe, thematic background"
+ },
+ {
+  "id": "seahorse",
+  "name": "Seahorse",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered seahorse, front facing, no humanoid face, a tiny seahorse with a curved snout and a pale orange body, thematic background"
+ },
+ {
+  "id": "shadow",
+  "name": "Shadow",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered shadow, front facing, male, a dark humanoid silhouette of living shadow with faint glowing eyes, thematic background"
+ },
+ {
+  "id": "shambling-mound",
+  "name": "Shambling Mound",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered shambling mound, front facing, no humanoid face, a large heap of rotting vegetation shaped like a hulking humanoid with vines and moss, thematic background"
+ },
+ {
+  "id": "shield-guardian",
+  "name": "Shield Guardian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered shield guardian, front facing, no humanoid face, a large construct of dark stone and metal with a glowing amulet in its chest, thematic background"
+ },
+ {
+  "id": "shrieker-fungus",
+  "name": "Shrieker Fungus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered shrieker fungus, front facing, no humanoid face, a purple mushroom with a thick stalk and a wide cap and a gaping slit, thematic background"
+ },
+ {
+  "id": "silver-dragon-wyrmling",
+  "name": "Silver Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered silver dragon wyrmling, front facing, male, a small dragon with gleaming silver scales and a sleek crest and a noble face, thematic background"
+ },
+ {
+  "id": "skeleton",
+  "name": "Skeleton",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered skeleton, front facing, male, a skeletal warrior in tattered armor with glowing eye sockets, thematic background"
+ },
+ {
+  "id": "solar",
+  "name": "Solar",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered solar, front facing, male, a large radiant angel with golden skin and great white wings and a glowing halo and a longbow, thematic background"
+ },
+ {
+  "id": "specter",
+  "name": "Specter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered specter, front facing, male, a translucent ghostly figure of wispy white with a screaming face and hollow eyes, thematic background"
+ },
+ {
+  "id": "sphinx-of-lore",
+  "name": "Sphinx of Lore",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered sphinx of lore, front facing, male, a large winged sphinx with a regal human face and a lion mane and golden wings, thematic background"
+ },
+ {
+  "id": "sphinx-of-valor",
+  "name": "Sphinx of Valor",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered sphinx of valor, front facing, male, a large winged sphinx with a stern warrior face and golden wings and a gilded crest, thematic background"
+ },
+ {
+  "id": "sphinx-of-wonder",
+  "name": "Sphinx of Wonder",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered sphinx of wonder, front facing, male, a tiny winged sphinx with a cheerful human face and feathery wings, thematic background"
+ },
+ {
+  "id": "spider",
+  "name": "Spider",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered spider, front facing, no humanoid face, a tiny black spider with a round body and fangs, thematic background"
+ },
+ {
+  "id": "spirit-naga",
+  "name": "Spirit Naga",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered spirit naga, front facing, male, a large serpent with a human-like face and glowing eyes and red and gold coiled scales, thematic background"
+ },
+ {
+  "id": "sprite",
+  "name": "Sprite",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered sprite, front facing, female, a tiny winged fey with dragonfly wings and pointed ears and leaf clothing and a tiny bow, thematic background"
+ },
+ {
+  "id": "spy",
+  "name": "Spy",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered spy, front facing, female, a cloaked human spy with a half-mask and a sly smile and a hidden dagger, thematic background"
+ },
+ {
+  "id": "steam-mephit",
+  "name": "Steam Mephit",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered steam mephit, front facing, no humanoid face, a small winged imp of swirling hot steam with a grinning face and glowing eyes, thematic background"
+ },
+ {
+  "id": "stirge",
+  "name": "Stirge",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered stirge, front facing, no humanoid face, a tiny bat-like insect with a long proboscis and leathery wings and reddish fur, thematic background"
+ },
+ {
+  "id": "stone-giant",
+  "name": "Stone Giant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered stone giant, front facing, male, a huge giant with gray granite skin and a craggy face and heavy brows, thematic background"
+ },
+ {
+  "id": "stone-golem",
+  "name": "Stone Golem",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered stone golem, front facing, no humanoid face, a large humanoid golem carved of gray stone with glowing eyes and cracks and moss, thematic background"
+ },
+ {
+  "id": "storm-giant",
+  "name": "Storm Giant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered storm giant, front facing, male, a huge noble giant with blue-gray skin and flowing dark hair and crackling lightning around the hands, thematic background"
+ },
+ {
+  "id": "succubus",
+  "name": "Succubus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered succubus, front facing, female, a seductive winged fiend with violet skin and curved horns and bat wings and glowing eyes, thematic background"
+ },
+ {
+  "id": "swarm-of-bats",
+  "name": "Swarm of Bats",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of bats, front facing, no humanoid face, a large swarm of dark bats with flapping wings and glinting eyes, thematic background"
+ },
+ {
+  "id": "swarm-of-crawling-claws",
+  "name": "Swarm of Crawling Claws",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of crawling claws, front facing, no humanoid face, a swarm of severed skeletal hands crawling over each other, thematic background"
+ },
+ {
+  "id": "swarm-of-insects",
+  "name": "Swarm of Insects",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of insects, front facing, no humanoid face, a swarm of buzzing black insects with glinting wings, thematic background"
+ },
+ {
+  "id": "swarm-of-piranhas",
+  "name": "Swarm of Piranhas",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of piranhas, front facing, no humanoid face, a swarm of silver piranhas with snapping teeth in churning water, thematic background"
+ },
+ {
+  "id": "swarm-of-rats",
+  "name": "Swarm of Rats",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of rats, front facing, no humanoid face, a swarm of gray rats with gleaming eyes and bared teeth, thematic background"
+ },
+ {
+  "id": "swarm-of-ravens",
+  "name": "Swarm of Ravens",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of ravens, front facing, no humanoid face, a swarm of black ravens with flapping wings, thematic background"
+ },
+ {
+  "id": "swarm-of-venomous-snakes",
+  "name": "Swarm of Venomous Snakes",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered swarm of venomous snakes, front facing, no humanoid face, a writhing swarm of tangled snakes with striped scales and bared fangs, thematic background"
+ },
+ {
+  "id": "tarrasque",
+  "name": "Tarrasque",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered tarrasque, front facing, no humanoid face, a gargantuan horned monster with thick armored plates and a massive jaw and burning eyes, thematic background"
+ },
+ {
+  "id": "tiger",
+  "name": "Tiger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered tiger, front facing, no humanoid face, a large tiger with orange fur and black stripes and amber eyes, thematic background"
+ },
+ {
+  "id": "tough",
+  "name": "Tough",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered tough, front facing, male, a rough human thug in a studded leather vest with scarred knuckles and a club, thematic background"
+ },
+ {
+  "id": "tough-boss",
+  "name": "Tough Boss",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered tough boss, front facing, male, a hulking human thug boss in heavy spiked leather with a scarred face and a flail, thematic background"
+ },
+ {
+  "id": "treant",
+  "name": "Treant",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered treant, front facing, no humanoid face, a huge ancient tree-man with bark skin and mossy branches and glowing green eyes, thematic background"
+ },
+ {
+  "id": "triceratops",
+  "name": "Triceratops",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered triceratops, front facing, no humanoid face, a huge dinosaur with three horns and a bony neck frill and green-gray skin, thematic background"
+ },
+ {
+  "id": "troll",
+  "name": "Troll",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered troll, front facing, male, a large gangly green troll with warty skin and a hooked nose and sharp teeth and long arms, thematic background"
+ },
+ {
+  "id": "troll-limb",
+  "name": "Troll Limb",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered troll limb, front facing, male, a small severed green troll hand with warty skin and long claws, thematic background"
+ },
+ {
+  "id": "tyrannosaurus-rex",
+  "name": "Tyrannosaurus Rex",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered tyrannosaurus rex, front facing, no humanoid face, a huge tyrannosaurus with olive-brown scales and a massive head and rows of teeth, thematic background"
+ },
+ {
+  "id": "unicorn",
+  "name": "Unicorn",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered unicorn, front facing, male, a large white unicorn with a flowing silver mane and a spiraling golden horn, thematic background"
+ },
+ {
+  "id": "vampire",
+  "name": "Vampire",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered vampire, front facing, male, a pale aristocratic vampire in a high-collared black cape with slicked hair and red eyes and fangs, thematic background"
+ },
+ {
+  "id": "vampire-familiar",
+  "name": "Vampire Familiar",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered vampire familiar, front facing, male, a pale human servant in dark garb with sunken eyes and bite marks on the neck, thematic background"
+ },
+ {
+  "id": "vampire-spawn",
+  "name": "Vampire Spawn",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered vampire spawn, front facing, male, a feral pale undead with gaunt features and red eyes and fangs and tattered clothes, thematic background"
+ },
+ {
+  "id": "venomous-snake",
+  "name": "Venomous Snake",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered venomous snake, front facing, no humanoid face, a tiny snake with green and tan scales and a forked tongue, thematic background"
+ },
+ {
+  "id": "violet-fungus",
+  "name": "Violet Fungus",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered violet fungus, front facing, no humanoid face, a purple fungus with tentacle-like violet tendrils and a mottled cap, thematic background"
+ },
+ {
+  "id": "vrock",
+  "name": "Vrock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered vrock, front facing, male, a large vulture-headed demon with gray feathered wings and spindly arms and talons, thematic background"
+ },
+ {
+  "id": "vulture",
+  "name": "Vulture",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered vulture, front facing, no humanoid face, a bald vulture with a hunched dark-feathered body and a hooked beak, thematic background"
+ },
+ {
+  "id": "warhorse",
+  "name": "Warhorse",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered warhorse, front facing, no humanoid face, a large muscular black warhorse in a steel face plate and leather barding, thematic background"
+ },
+ {
+  "id": "warhorse-skeleton",
+  "name": "Warhorse Skeleton",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered warhorse skeleton, front facing, male, a large skeletal horse with exposed ribs and glowing red eyes and tattered barding, thematic background"
+ },
+ {
+  "id": "warrior-infantry",
+  "name": "Warrior Infantry",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered warrior infantry, front facing, male, a human soldier in a steel helm and chain mail with a shield and a spear, thematic background"
+ },
+ {
+  "id": "warrior-veteran",
+  "name": "Warrior Veteran",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered warrior veteran, front facing, male, a grizzled veteran soldier in dented plate armor with a scarred face and a longsword, thematic background"
+ },
+ {
+  "id": "water-elemental",
+  "name": "Water Elemental",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered water elemental, front facing, no humanoid face, a large swirling wave of blue water in a roughly humanoid shape with foam, thematic background"
+ },
+ {
+  "id": "weasel",
+  "name": "Weasel",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered weasel, front facing, no humanoid face, a tiny weasel with russet fur and a cream belly, thematic background"
+ },
+ {
+  "id": "werebear",
+  "name": "Werebear",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered werebear, front facing, male, a hulking bear-man hybrid with brown fur and a bear head and clawed hands, thematic background"
+ },
+ {
+  "id": "wereboar",
+  "name": "Wereboar",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered wereboar, front facing, male, a bristly boar-man hybrid with tusks and coarse black fur and a muscular chest, thematic background"
+ },
+ {
+  "id": "wererat",
+  "name": "Wererat",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered wererat, front facing, male, a rat-man hybrid with matted gray-brown fur and a long snout and yellow teeth and ragged clothes, thematic background"
+ },
+ {
+  "id": "weretiger",
+  "name": "Weretiger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered weretiger, front facing, male, a tiger-man hybrid with orange fur and black stripes and fanged jaws, thematic background"
+ },
+ {
+  "id": "werewolf",
+  "name": "Werewolf",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered werewolf, front facing, male, a wolf-man hybrid with gray fur and a lupine snout and glowing yellow eyes and torn clothes, thematic background"
+ },
+ {
+  "id": "white-dragon-wyrmling",
+  "name": "White Dragon Wyrmling",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered white dragon wyrmling, front facing, male, a small dragon with white scales and icy blue eyes and a jagged crest, thematic background"
+ },
+ {
+  "id": "wight",
+  "name": "Wight",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered wight, front facing, male, a gaunt undead warrior in rusted armor with gray rotted skin and glowing eyes, thematic background"
+ },
+ {
+  "id": "will-o-wisp",
+  "name": "Will-o'-Wisp",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered will-o-wisp, front facing, male, a tiny floating orb of pale spectral light with a flickering ghostly glow, thematic background"
+ },
+ {
+  "id": "winter-wolf",
+  "name": "Winter Wolf",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered winter wolf, front facing, no humanoid face, a large wolf with frosty white-blue fur and icy blue eyes and breath of frost, thematic background"
+ },
+ {
+  "id": "wolf",
+  "name": "Wolf",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered wolf, front facing, no humanoid face, a gray wolf with thick fur and amber eyes and bared fangs, thematic background"
+ },
+ {
+  "id": "worg",
+  "name": "Worg",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered worg, front facing, male, a large dark wolf with coarse black fur and glowing red eyes and a savage snarl, thematic background"
+ },
+ {
+  "id": "wraith",
+  "name": "Wraith",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered wraith, front facing, male, a hooded undead specter in black tatters with a shadowy face and glowing eyes, thematic background"
+ },
+ {
+  "id": "wyvern",
+  "name": "Wyvern",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered wyvern, front facing, male, a large dragon-like beast with brown-green scales and leathery wings and a horned head, thematic background"
+ },
+ {
+  "id": "xorn",
+  "name": "Xorn",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered xorn, front facing, no humanoid face, a rocky creature with a thick body of brown stone and three eyes and three clawed arms, thematic background"
+ },
+ {
+  "id": "young-black-dragon",
+  "name": "Young Black Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young black dragon, front facing, male, a large dragon with black scales and curved horns and a skull-like face, thematic background"
+ },
+ {
+  "id": "young-blue-dragon",
+  "name": "Young Blue Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young blue dragon, front facing, male, a large dragon with blue scales and a large horn on the snout and frilled ears, thematic background"
+ },
+ {
+  "id": "young-brass-dragon",
+  "name": "Young Brass Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young brass dragon, front facing, male, a large dragon with shining brass scales and a spiny frill and swept-back horns, thematic background"
+ },
+ {
+  "id": "young-bronze-dragon",
+  "name": "Young Bronze Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young bronze dragon, front facing, male, a large dragon with gleaming bronze scales and ridged horns and sea-green eyes, thematic background"
+ },
+ {
+  "id": "young-copper-dragon",
+  "name": "Young Copper Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young copper dragon, front facing, male, a large dragon with burnished copper scales and curving horns and a sly look, thematic background"
+ },
+ {
+  "id": "young-gold-dragon",
+  "name": "Young Gold Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young gold dragon, front facing, male, a large dragon with radiant golden scales and long whiskers and swept-back horns, thematic background"
+ },
+ {
+  "id": "young-green-dragon",
+  "name": "Young Green Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young green dragon, front facing, male, a large dragon with green scales and swept-back horns and a spiny crest, thematic background"
+ },
+ {
+  "id": "young-red-dragon",
+  "name": "Young Red Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young red dragon, front facing, male, a large dragon with red scales and swept-back horns and glowing ember eyes, thematic background"
+ },
+ {
+  "id": "young-silver-dragon",
+  "name": "Young Silver Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young silver dragon, front facing, male, a large dragon with gleaming silver scales and a sleek crest and a noble face, thematic background"
+ },
+ {
+  "id": "young-white-dragon",
+  "name": "Young White Dragon",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered young white dragon, front facing, male, a large dragon with white scales and icy blue eyes and a jagged crest, thematic background"
+ },
+ {
+  "id": "zombie",
+  "name": "Zombie",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered zombie, front facing, male, a rotting zombie with gray-green skin and tattered clothes and vacant eyes, thematic background"
+ }
+]

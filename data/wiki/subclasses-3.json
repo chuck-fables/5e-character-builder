@@ -1,0 +1,1686 @@
+[
+  {
+    "id": "sorcerer-aberrant-sorcery",
+    "classId": "sorcerer",
+    "name": "Aberrant Sorcery",
+    "source": "Player's Handbook",
+    "description": "Psionic power from the Far Realm or Astral Plane: telepathy, mind-bending spells and bodily mutation.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Psionic Spells",
+        "text": "Always-prepared psionic spells, gained at the Sorcerer levels shown in the spell list."
+      },
+      {
+        "level": 3,
+        "name": "Telepathic Speech",
+        "text": "Bonus Action: link minds with a creature within 30 ft. You can talk telepathically at a range of Charisma modifier miles (min 1) for a number of minutes equal to your Sorcerer level."
+      },
+      {
+        "level": 6,
+        "name": "Psionic Sorcery",
+        "text": "Cast any level 1+ spell from your Psionic Spells by paying Sorcery Points equal to its level instead of a slot. Doing so removes the Verbal, Somatic and non-costly Material components."
+      },
+      {
+        "level": 6,
+        "name": "Psychic Defenses",
+        "text": "Resistance to Psychic damage and Advantage on saves against being Charmed or Frightened."
+      },
+      {
+        "level": 14,
+        "name": "Revelation in Flesh",
+        "text": "Bonus Action, 1+ Sorcery Points: for 10 minutes gain one benefit per point spent from Swim 2x Speed and water breathing, Fly Speed equal to Speed with hover, seeing Invisible creatures within 60 ft, or squeezing through 1-inch gaps and slipping restraints."
+      },
+      {
+        "level": 18,
+        "name": "Warping Implosion",
+        "text": "Magic action: teleport up to 120 ft. Creatures within 30 ft of where you left make a Strength save or take 3d10 Force damage and get pulled toward that spot (half on a save). Once per Long Rest, or spend 5 Sorcery Points to use it again."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Arms of Hadar",
+        "Calm Emotions",
+        "Detect Thoughts",
+        "Dissonant Whispers",
+        "Mind Sliver"
+      ],
+      "5": [
+        "Hunger of Hadar",
+        "Sending"
+      ],
+      "7": [
+        "Evard's Black Tentacles",
+        "Summon Aberration"
+      ],
+      "9": [
+        "Rary's Telepathic Bond",
+        "Telekinesis"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "warping-implosion",
+        "name": "Warping Implosion",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sorcerer-clockwork-sorcery",
+    "classId": "sorcerer",
+    "name": "Clockwork Sorcery",
+    "source": "Player's Handbook",
+    "description": "Magic of cosmic order from Mechanus: balancing luck, warding allies and bringing chaos to heel.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Clockwork Spells",
+        "text": "Always-prepared order-themed spells, gained at the Sorcerer levels shown in the spell list. You also choose or roll a cosmetic Manifestation of Order whenever you cast Sorcerer spells."
+      },
+      {
+        "level": 3,
+        "name": "Restore Balance",
+        "text": "Reaction: when a creature you see within 60 ft is about to roll a d20 with Advantage or Disadvantage, cancel that Advantage/Disadvantage. Uses equal to your Charisma modifier (min 1) per Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Bastion of Law",
+        "text": "Magic action: spend 1-5 Sorcery Points to ward yourself or a creature within 30 ft with that many d8s. The ward can spend dice to reduce damage taken by the roll. Lasts until a Long Rest or until you use this again."
+      },
+      {
+        "level": 14,
+        "name": "Trance of Order",
+        "text": "Bonus Action: for 1 minute, attacks against you can't have Advantage and you treat d20 rolls of 9 or lower as 10 on D20 Tests. Once per Long Rest, or spend 5 Sorcery Points to use it again."
+      },
+      {
+        "level": 18,
+        "name": "Clockwork Cavalcade",
+        "text": "Magic action: spirits in a 30-ft Cube heal up to 100 HP split among creatures you choose, repair damaged objects and end spells of level 6 or lower you choose. Once per Long Rest, or spend 7 Sorcery Points to use it again."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Aid",
+        "Alarm",
+        "Lesser Restoration",
+        "Protection from Evil and Good"
+      ],
+      "5": [
+        "Dispel Magic",
+        "Protection from Energy"
+      ],
+      "7": [
+        "Freedom of Movement",
+        "Summon Construct"
+      ],
+      "9": [
+        "Greater Restoration",
+        "Wall of Force"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "restore-balance",
+        "name": "Restore Balance",
+        "recharge": "long",
+        "max": "cha"
+      },
+      {
+        "key": "trance-of-order",
+        "name": "Trance of Order",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "clockwork-cavalcade",
+        "name": "Clockwork Cavalcade",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sorcerer-shadow-sorcery",
+    "classId": "sorcerer",
+    "name": "Shadow Sorcery",
+    "source": "Ravenloft: The Horrors Within",
+    "description": "Magic from the Shadowfell: darkvision, death-defying resilience, shadow beasts and shadow-stepping.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Shadow Spells",
+        "text": "Always-prepared shadow and darkness spells, gained at the Sorcerer levels shown in the spell list."
+      },
+      {
+        "level": 3,
+        "name": "Power of Shadow",
+        "text": "Eyes of the Dark: Darkvision 120 ft, Blindsight 10 ft, and you see normally through Darkness from your own spells. Strength of the Grave: when dropped to 0 HP (not killed outright), make a Charisma save (DC 5 + damage) to instead drop to Charisma mod + Sorcerer level HP; once per Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Beasts of Ill Omen",
+        "text": "Spend 3 Sorcery Points to cast Summon Beast as a Bonus Action with no slot, preparation or Material components. The beast is shadowy, enemies near it have Disadvantage on saves against your spells, and you can make the spell non-Concentration (1 minute)."
+      },
+      {
+        "level": 14,
+        "name": "Shadow Walk",
+        "text": "Bonus Action: while in Dim Light or Darkness, teleport up to 120 ft to an unoccupied space you see that is also in Dim Light or Darkness."
+      },
+      {
+        "level": 18,
+        "name": "Umbral Form",
+        "text": "While Innate Sorcery is active you can take shadow form: move through creatures and objects as Difficult Terrain (1d10 Force if you end a turn inside one) and gain Resistance to all damage except Force and Radiant. Once per Long Rest, or spend 6 Sorcery Points to use it again."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Bane",
+        "Darkness",
+        "Inflict Wounds",
+        "Pass Without Trace"
+      ],
+      "5": [
+        "Hunger of Hadar",
+        "Nondetection"
+      ],
+      "7": [
+        "Greater Invisibility",
+        "Phantasmal Killer"
+      ],
+      "9": [
+        "Contagion",
+        "Creation"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "strength-of-the-grave",
+        "name": "Strength of the Grave",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "umbral-form",
+        "name": "Umbral Form",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sorcerer-spellfire-sorcery",
+    "classId": "sorcerer",
+    "name": "Spellfire Sorcery",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "Radiant spellfire from the Weave itself: healing bursts, searing flames and absorbing enemy spells.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Spellfire Burst",
+        "text": "Once per turn, when you spend 1+ Sorcery Points as part of a Magic action or Bonus Action, choose: Bolstering Flames (you or a creature within 30 ft gains 1d4 + Cha mod Temporary HP) or Radiant Fire (a creature within 30 ft takes 1d4 Fire or Radiant damage)."
+      },
+      {
+        "level": 3,
+        "name": "Spellfire Spells",
+        "text": "Always-prepared healing and fire spells, gained at the Sorcerer levels shown in the spell list."
+      },
+      {
+        "level": 6,
+        "name": "Absorb Spells",
+        "text": "You always have Counterspell prepared. When a target fails its save against your Counterspell, you regain 1d4 Sorcery Points."
+      },
+      {
+        "level": 14,
+        "name": "Honed Spellfire",
+        "text": "Bolstering Flames adds your Sorcerer level to the Temporary HP, and Radiant Fire damage becomes 1d8."
+      },
+      {
+        "level": 18,
+        "name": "Crown of Spellfire",
+        "text": "When you use Innate Sorcery you can infuse it with spellfire: spend up to Cha mod Hit Point Dice to reduce an attack's damage once per turn, gain a 60 ft Fly Speed with hover, and take no damage on a successful save against half-damage effects (half on a fail). Once per Long Rest, or spend 5 Sorcery Points to use it again."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Cure Wounds",
+        "Guiding Bolt",
+        "Lesser Restoration",
+        "Scorching Ray"
+      ],
+      "5": [
+        "Aura of Vitality",
+        "Dispel Magic"
+      ],
+      "6": [
+        "Counterspell"
+      ],
+      "7": [
+        "Fire Shield",
+        "Wall of Fire"
+      ],
+      "9": [
+        "Greater Restoration",
+        "Flame Strike"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "crown-of-spellfire",
+        "name": "Crown of Spellfire",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sorcerer-wild-magic-sorcery",
+    "classId": "sorcerer",
+    "name": "Wild Magic Sorcery",
+    "source": "Player's Handbook",
+    "description": "Chaotic magic that can surge unpredictably, with luck-twisting tricks to bend fate.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Wild Magic Surge",
+        "text": "Once per turn after casting a Sorcerer spell with a slot, roll a d20; on a 20, roll on the Wild Magic Surge table. Spell effects from the table can't be changed by Metamagic."
+      },
+      {
+        "level": 3,
+        "name": "Tides of Chaos",
+        "text": "Give yourself Advantage on one D20 Test before rolling. You can't use it again until you cast a Sorcerer spell with a slot (which triggers an automatic Wild Magic Surge roll) or finish a Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Bend Luck",
+        "text": "Reaction, 1 Sorcery Point: after another visible creature rolls a d20 for a D20 Test, roll 1d4 and add or subtract it from that roll."
+      },
+      {
+        "level": 14,
+        "name": "Controlled Chaos",
+        "text": "Whenever you roll on the Wild Magic Surge table, roll twice and use either result."
+      },
+      {
+        "level": 18,
+        "name": "Tamed Surge",
+        "text": "After casting a Sorcerer spell with a slot, choose any effect from the Wild Magic Surge table except the last row instead of rolling. Once per Long Rest."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "tides-of-chaos",
+        "name": "Tides of Chaos",
+        "recharge": "special",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "tamed-surge",
+        "name": "Tamed Surge",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "warlock-archfey-patron",
+    "classId": "warlock",
+    "name": "Archfey Patron",
+    "source": "Player's Handbook",
+    "description": "A pact with a Feywild power, built on teleportation, charm and trickery.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Archfey Spells",
+        "text": "Always-prepared fey spells, gained at the Warlock levels shown in the spell list."
+      },
+      {
+        "level": 3,
+        "name": "Steps of the Fey",
+        "text": "Cast Misty Step free a number of times equal to your Charisma modifier (min 1) per Long Rest. Each cast can add Refreshing Step (1d10 Temporary HP to you or a creature within 10 ft) or Taunting Step (creatures within 5 ft of where you left make a Wisdom save or have Disadvantage on attacks against others)."
+      },
+      {
+        "level": 6,
+        "name": "Misty Escape",
+        "text": "Cast Misty Step as a Reaction when you take damage. Adds Disappearing Step (Invisible until your next turn or you attack, deal damage or cast) and Dreadful Step (2d10 Psychic damage to creatures within 5 ft of your start or end space on a failed Wisdom save)."
+      },
+      {
+        "level": 10,
+        "name": "Beguiling Defenses",
+        "text": "Immune to Charmed. Reaction after being hit: halve the damage and force the attacker to make a Wisdom save or take Psychic damage equal to the damage you take. Once per Long Rest, or expend a Pact Magic slot to restore it."
+      },
+      {
+        "level": 14,
+        "name": "Bewitching Magic",
+        "text": "After casting an Enchantment or Illusion spell with an action and a slot, cast Misty Step as part of that action without a slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Calm Emotions",
+        "Faerie Fire",
+        "Misty Step",
+        "Phantasmal Force",
+        "Sleep"
+      ],
+      "5": [
+        "Blink",
+        "Plant Growth"
+      ],
+      "7": [
+        "Dominate Beast",
+        "Greater Invisibility"
+      ],
+      "9": [
+        "Dominate Person",
+        "Seeming"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "steps-of-the-fey",
+        "name": "Steps of the Fey",
+        "recharge": "long",
+        "max": "cha"
+      },
+      {
+        "key": "beguiling-defenses",
+        "name": "Beguiling Defenses",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "warlock-celestial-patron",
+    "classId": "warlock",
+    "name": "Celestial Patron",
+    "source": "Player's Handbook",
+    "description": "A pact with a radiant being of the Upper Planes, granting healing, radiant power and protective light.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Celestial Spells",
+        "text": "Always-prepared radiant and healing spells, gained at the Warlock levels shown in the spell list."
+      },
+      {
+        "level": 3,
+        "name": "Healing Light",
+        "text": "You have a pool of d6s equal to 1 + your Warlock level. Bonus Action: heal yourself or a creature within 60 ft by spending up to Cha mod dice (min 1). The pool refills on a Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Radiant Soul",
+        "text": "Resistance to Radiant damage. Once per turn, add your Charisma modifier to the Radiant or Fire damage of a Warlock spell against one target."
+      },
+      {
+        "level": 10,
+        "name": "Celestial Resilience",
+        "text": "After a Short or Long Rest or Magical Cunning, you gain Temporary HP equal to Warlock level + Cha mod, and up to five creatures you see gain half your level + Cha mod."
+      },
+      {
+        "level": 14,
+        "name": "Searing Vengeance",
+        "text": "When you or an ally within 60 ft is about to make a Death Saving Throw, the creature regains half its HP maximum and can stand up. Creatures within 30 ft of it take 2d8 + Cha mod Radiant damage and are Blinded until end of turn. Once per Long Rest."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Aid",
+        "Cure Wounds",
+        "Guiding Bolt",
+        "Lesser Restoration",
+        "Light",
+        "Sacred Flame"
+      ],
+      "5": [
+        "Daylight",
+        "Revivify"
+      ],
+      "7": [
+        "Guardian of Faith",
+        "Wall of Fire"
+      ],
+      "9": [
+        "Greater Restoration",
+        "Summon Celestial"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "healing-light",
+        "name": "Healing Light (d6 pool)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "key": "searing-vengeance",
+        "name": "Searing Vengeance",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "warlock-great-old-one-patron",
+    "classId": "warlock",
+    "name": "Great Old One Patron",
+    "source": "Player's Handbook",
+    "description": "A pact with an alien Far Realm entity, giving telepathy, psychic magic and mind-shielding.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Awakened Mind",
+        "text": "Bonus Action: telepathically link with a creature within 30 ft for a number of minutes equal to your Warlock level, communicating at a range of Cha mod miles (min 1)."
+      },
+      {
+        "level": 3,
+        "name": "Great Old One Spells",
+        "text": "Always-prepared mind-warping spells, gained at the Warlock levels shown in the spell list."
+      },
+      {
+        "level": 3,
+        "name": "Psychic Spells",
+        "text": "Warlock spells that deal damage can be changed to Psychic damage, and your Enchantment and Illusion Warlock spells need no Verbal or Somatic components."
+      },
+      {
+        "level": 6,
+        "name": "Clairvoyant Combatant",
+        "text": "When you link with Awakened Mind, the target makes a Wisdom save; on a failure it has Disadvantage on attacks against you and you have Advantage against it for the bond. Once per Short or Long Rest, or expend a Pact Magic slot to restore it."
+      },
+      {
+        "level": 10,
+        "name": "Eldritch Hex",
+        "text": "Hex is always prepared. When you cast it, the target also has Disadvantage on saving throws of the ability you chose."
+      },
+      {
+        "level": 10,
+        "name": "Thought Shield",
+        "text": "Your thoughts can't be read unless you allow it. Resistance to Psychic damage, and creatures that deal Psychic damage to you take the same amount."
+      },
+      {
+        "level": 14,
+        "name": "Create Thrall",
+        "text": "Summon Aberration can skip Concentration (1 minute) and the aberration gets Temporary HP equal to Warlock level + Cha mod. It also deals your Hex bonus damage as Psychic the first time each turn it hits a Hexed target."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Detect Thoughts",
+        "Dissonant Whispers",
+        "Phantasmal Force",
+        "Tasha's Hideous Laughter"
+      ],
+      "5": [
+        "Clairvoyance",
+        "Hunger of Hadar"
+      ],
+      "7": [
+        "Confusion",
+        "Summon Aberration"
+      ],
+      "9": [
+        "Modify Memory",
+        "Telekinesis"
+      ],
+      "10": [
+        "Hex"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "clairvoyant-combatant",
+        "name": "Clairvoyant Combatant",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "warlock-undead-patron",
+    "classId": "warlock",
+    "name": "Undead Patron",
+    "source": "Ravenloft: The Horrors Within",
+    "description": "A pact with a lich, vampire or other undead power, offering a dreadful avatar form and necrotic resilience.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Form of Dread",
+        "text": "Bonus Action: transform for 1 minute, gaining 1d10 + Warlock level Temporary HP, Immunity to Frightened, and once per turn on a hit a Wisdom save or the target is Frightened until end of your next turn. Uses equal to your Charisma modifier (min 1) per Long Rest."
+      },
+      {
+        "level": 3,
+        "name": "Undead Spells",
+        "text": "Always-prepared necromantic spells, gained at the Warlock levels shown in the spell list."
+      },
+      {
+        "level": 6,
+        "name": "Grave Touched",
+        "text": "Your Necrotic damage ignores Resistance, and once per turn you can change a damaged spell's type to Necrotic. In Form of Dread, you can roll one extra Necrotic damage die once per turn on a Necrotic hit. You also don't need sleep and ignore Exhaustion from thirst, hunger or suffocation."
+      },
+      {
+        "level": 10,
+        "name": "Necrotic Husk",
+        "text": "Resistance to Necrotic damage (Immunity in Form of Dread). When dropped to 0 HP, you can erupt: creatures in a 30-ft Emanation make a Constitution save or take 2d10 + Cha mod Necrotic (half on a save), then your HP becomes twice your Warlock level and you gain 1 Exhaustion. Once per Short or Long Rest."
+      },
+      {
+        "level": 14,
+        "name": "Superior Dread",
+        "text": "While in Form of Dread you have Resistance to Bludgeoning, Piercing and Slashing damage, a hovering Fly Speed equal to your Speed that lets you pass through creatures and objects, and your Conjuration and Necromancy Warlock spells skip non-costly components."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Bane",
+        "Blindness/Deafness",
+        "Phantasmal Force",
+        "Ray of Sickness"
+      ],
+      "5": [
+        "Speak with Dead",
+        "Summon Undead"
+      ],
+      "7": [
+        "Greater Invisibility",
+        "Phantasmal Killer"
+      ],
+      "9": [
+        "Antilife Shell",
+        "Cloudkill"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "form-of-dread",
+        "name": "Form of Dread",
+        "recharge": "long",
+        "max": "cha"
+      },
+      {
+        "key": "unholy-resuscitation",
+        "name": "Unholy Resuscitation",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "warlock-vestige-patron",
+    "classId": "warlock",
+    "name": "Vestige Patron",
+    "source": "Arcana Unleashed",
+    "description": "A pact with a dying god, manifested as a Vestige Companion that fights alongside you.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Vestige Companion",
+        "text": "You gain a Small Celestial, Fiend or Undead companion (chosen each Long Rest) that acts on your turn, mostly Dodging unless you command it with a Bonus Action. AC 13 + Cha mod, HP 4 + 4x Warlock level, Vestige's Strike (1d6 + 3 + Cha mod Fire/Necrotic/Radiant, uses your spell attack), and a once-per-day Divine Power by type: Healing Touch, Fiendish Swap or Cursed Invocation. If it drops to 0 HP, a 1-minute ceremony brings it back."
+      },
+      {
+        "level": 3,
+        "name": "Vestige Spells",
+        "text": "Pick one Cleric domain (Life, Light, Trickery or War). Its domain spells become Warlock spells for you and are always prepared at the matching Warlock levels."
+      },
+      {
+        "level": 6,
+        "name": "Vestige Power",
+        "text": "Your companion regains Divine Power after a Short or Long Rest or when you use Magical Cunning. While within 30 ft of it, you share its damage Resistances."
+      },
+      {
+        "level": 10,
+        "name": "Vestige Recovery",
+        "text": "Reaction, expend a Pact Magic slot: when the companion would drop to 0 HP, set it to full HP and teleport it to a space you see within 30 ft of it. Once per Long Rest."
+      },
+      {
+        "level": 14,
+        "name": "Semblance of Life",
+        "text": "Magic action: for 1 hour, shape-shift the companion (within 90 ft) into a Celestial, Fiendish or Undead Spirit of a spell level equal to half your Warlock level (max 9). It gains Temporary HP equal to the spirit's HP. Once per Long Rest."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "divine-power",
+        "name": "Vestige: Divine Power",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "vestige-recovery",
+        "name": "Vestige Recovery",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "semblance-of-life",
+        "name": "Semblance of Life",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-abjurer",
+    "classId": "wizard",
+    "name": "Abjurer",
+    "source": "Player's Handbook",
+    "description": "Specialist in protective and banishing magic, with a damage-absorbing ward.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Abjuration Savant",
+        "text": "Add two Abjuration-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Abjuration spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 3,
+        "name": "Arcane Ward",
+        "text": "Casting an Abjuration spell with a slot creates a ward on you (once per Long Rest) with HP equal to twice your Wizard level + Int mod. It absorbs damage instead of you, and recovers 2x a slot's level when you cast Abjuration spells or spend a slot as a Bonus Action."
+      },
+      {
+        "level": 6,
+        "name": "Projected Ward",
+        "text": "Reaction: when a creature you see within 30 ft takes damage, your Arcane Ward absorbs it instead."
+      },
+      {
+        "level": 10,
+        "name": "Spell Breaker",
+        "text": "Counterspell and Dispel Magic are always prepared. You can cast Dispel Magic as a Bonus Action, add your Proficiency Bonus to its check, and keep the slot if either spell fails to stop a spell."
+      },
+      {
+        "level": 14,
+        "name": "Spell Resistance",
+        "text": "Advantage on saving throws against spells and Resistance to spell damage."
+      }
+    ],
+    "spells": {
+      "10": [
+        "Counterspell",
+        "Dispel Magic"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "arcane-ward",
+        "name": "Arcane Ward",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-bladesinger",
+    "classId": "wizard",
+    "name": "Bladesinger",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A wizard who blends swordplay and magic, with a defensive Bladesong stance.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Bladesong",
+        "text": "Bonus Action (no armor or Shield), 1 minute: add Int mod (min +1) to AC, +10 ft Speed, Advantage on Acrobatics, use Int mod for weapon attack and damage rolls, and add Int mod to Concentration saves. Uses equal to your Int modifier (min 1) per Long Rest; Arcane Recovery restores one use."
+      },
+      {
+        "level": 3,
+        "name": "Training in War and Song",
+        "text": "Proficiency with Martial Melee weapons without Two-Handed or Heavy, use a proficient Melee weapon as a Spellcasting Focus, and one skill from Acrobatics, Athletics, Performance or Persuasion."
+      },
+      {
+        "level": 6,
+        "name": "Extra Attack",
+        "text": "Attack twice with the Attack action, and one of those attacks can be replaced by a one-action Wizard cantrip."
+      },
+      {
+        "level": 10,
+        "name": "Song of Defense",
+        "text": "Reaction while Bladesong is active: expend a spell slot to reduce damage by 5 times the slot's level."
+      },
+      {
+        "level": 14,
+        "name": "Song of Victory",
+        "text": "After casting an action spell, make one weapon attack as a Bonus Action."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "bladesong",
+        "name": "Bladesong",
+        "recharge": "long",
+        "max": "int"
+      }
+    ]
+  },
+  {
+    "id": "wizard-conjurer",
+    "classId": "wizard",
+    "name": "Conjurer",
+    "source": "Arcana Unleashed",
+    "description": "Specialist in teleportation and summoning, making summoned creatures tougher.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Benign Transposition",
+        "text": "Bonus Action: teleport up to 30 ft to a space you see, or swap places with a willing Medium or smaller creature. Uses equal to your Int modifier (min 1) per Long Rest."
+      },
+      {
+        "level": 3,
+        "name": "Conjuration Savant",
+        "text": "Add two Conjuration-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Conjuration spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 6,
+        "name": "Distant Transposition",
+        "text": "Benign Transposition range becomes 60 ft, and you can restore a use by expending a level 3+ spell slot."
+      },
+      {
+        "level": 6,
+        "name": "Durable Summons",
+        "text": "Creatures you summon or create with a Conjuration spell slot gain Temporary HP equal to twice your Wizard level and Resistance to all damage except Force, Necrotic, Psychic and Radiant while those HP last."
+      },
+      {
+        "level": 10,
+        "name": "Focused Conjuration",
+        "text": "Taking damage can't break your Concentration on Conjuration spells."
+      },
+      {
+        "level": 14,
+        "name": "Splintered Summons",
+        "text": "When you cast a summon-spirit Conjuration spell with a slot, you can summon two creatures instead of one, each with half HP. Once per Long Rest, or expend a level 5+ slot to restore it."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "benign-transposition",
+        "name": "Benign Transposition",
+        "recharge": "long",
+        "max": "int"
+      },
+      {
+        "key": "splintered-summons",
+        "name": "Splintered Summons",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-diviner",
+    "classId": "wizard",
+    "name": "Diviner",
+    "source": "Player's Handbook",
+    "description": "Specialist in foresight, using pre-rolled Portent dice to alter fate.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Divination Savant",
+        "text": "Add two Divination-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Divination spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 3,
+        "name": "Portent",
+        "text": "After a Long Rest, roll two d20s. You can replace a D20 Test by you or a creature you see with one of them (once per turn, before the roll). Unused rolls are lost on the next Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Expert Divination",
+        "text": "Casting a Divination spell with a level 2+ slot restores one expended slot of a lower level (max level 5)."
+      },
+      {
+        "level": 10,
+        "name": "The Third Eye",
+        "text": "Bonus Action, once per Short or Long Rest: gain Darkvision 120 ft, the ability to read any language, or See Invisibility cast free, until your next rest."
+      },
+      {
+        "level": 14,
+        "name": "Greater Portent",
+        "text": "Portent now gives three d20s instead of two."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "portent",
+        "name": "Portent Dice",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      },
+      {
+        "key": "third-eye",
+        "name": "The Third Eye",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-enchanter",
+    "classId": "wizard",
+    "name": "Enchanter",
+    "source": "Arcana Unleashed",
+    "description": "Specialist in charm and mind magic, with a hypnotic gaze and memory tampering.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Enchanting Conversationalist",
+        "text": "Gain proficiency in Deception, Intimidation or Persuasion, and add your Int modifier (min +1) to checks with that skill."
+      },
+      {
+        "level": 3,
+        "name": "Enchantment Savant",
+        "text": "Add two Enchantment-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Enchantment spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Presence",
+        "text": "Magic action: a creature within 10 ft that can see or hear you makes a Wisdom save or is Charmed, Incapacitated and has Speed 0 for 1 minute (ends if it takes damage or moves away). Uses equal to your Int modifier (min 1) per Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Split Enchantment",
+        "text": "When casting an Enchantment spell that scales to extra targets with a higher slot, raise its effective level by 1. Uses equal to your Int modifier per Long Rest."
+      },
+      {
+        "level": 10,
+        "name": "Instinctive Charm",
+        "text": "Reaction: when a creature within 30 ft hits you, it makes a Wisdom save or the attack misses and redirects to another creature in range. Once per Long Rest, or restore it by casting an Enchantment spell with a slot."
+      },
+      {
+        "level": 14,
+        "name": "Alter Memories",
+        "text": "A creature Charmed by your Enchantment spell can stay unaware of it, and you can later force an Intelligence save to erase 1 + Int mod hours of its memory."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "hypnotic-presence",
+        "name": "Hypnotic Presence",
+        "recharge": "long",
+        "max": "int"
+      },
+      {
+        "key": "split-enchantment",
+        "name": "Split Enchantment",
+        "recharge": "long",
+        "max": "int"
+      },
+      {
+        "key": "instinctive-charm",
+        "name": "Instinctive Charm",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-illusionist",
+    "classId": "wizard",
+    "name": "Illusionist",
+    "source": "Player's Handbook",
+    "description": "Specialist in illusions, with quieter casting, spectral summons and semi-real creations.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Illusion Savant",
+        "text": "Add two Illusion-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Illusion spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 3,
+        "name": "Improved Illusions",
+        "text": "Cast Illusion spells without Verbal components, and Illusion spells with range 10+ ft gain 60 ft range. You learn Minor Illusion (free, or another cantrip if known), and can create sound and image together as a Bonus Action."
+      },
+      {
+        "level": 6,
+        "name": "Phantasmal Creatures",
+        "text": "Summon Beast and Summon Fey are always prepared. You can cast either as an Illusion once without a slot per Long Rest (creature has half HP)."
+      },
+      {
+        "level": 10,
+        "name": "Illusory Self",
+        "text": "Reaction: when hit by an attack, an illusory duplicate makes it miss automatically. Once per Short or Long Rest, or expend a level 2+ slot to restore it."
+      },
+      {
+        "level": 14,
+        "name": "Illusory Reality",
+        "text": "After casting an Illusion spell with a slot, make one inanimate nonmagical part of it real for 1 minute as a Bonus Action; it can't deal damage or inflict conditions."
+      }
+    ],
+    "spells": {
+      "6": [
+        "Summon Beast",
+        "Summon Fey"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "phantasmal-creatures",
+        "name": "Phantasmal Creatures (free casts)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "key": "illusory-self",
+        "name": "Illusory Self",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-necromancer",
+    "classId": "wizard",
+    "name": "Necromancer",
+    "source": "Arcana Unleashed",
+    "description": "Specialist in death and undeath, with undead minions, necrotic resistance and ravaging explosions.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Necromancy Savant",
+        "text": "Add two Necromancy-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Necromancy spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 3,
+        "name": "Necromancy Spellbook",
+        "text": "Resistance to Necrotic damage. Find Familiar can take Skeleton or Zombie forms or an Undead type, and your familiar can attack by Reaction in place of one of your attacks. Casting a Necromancy spell with a slot heals an Undead you see within 60 ft for the slot's level + your Wizard level."
+      },
+      {
+        "level": 6,
+        "name": "Grave Power",
+        "text": "While holding your spellbook: Arcane Recovery reduces Exhaustion by 1, and your Wizard spells and features ignore Necrotic Resistance."
+      },
+      {
+        "level": 6,
+        "name": "Undead Thralls",
+        "text": "Animate Dead is always prepared and castable once per Long Rest without a slot, at +1 effective level. While holding your spellbook, Undead you create gain bonus max HP equal to Int mod + half your Wizard level, and Undead you control deal extra Necrotic damage equal to your Int modifier (min 1) on hits within 60 ft."
+      },
+      {
+        "level": 10,
+        "name": "Harvest Undead",
+        "text": "Reaction when you become Bloodied but are not reduced to 0 HP: reduce a visible Undead you control to 0 HP and regain HP equal to your Wizard level."
+      },
+      {
+        "level": 14,
+        "name": "Death's Master",
+        "text": "While holding your spellbook: Bonus Action (once per Long Rest) to give your created or summoned Undead within 60 ft Temporary HP equal to your Wizard level; and Undead you see dropping to 0 HP can explode for Necrotic damage (d6s equal to half its unspent Hit Dice, Dexterity save for half) in a 10-ft Emanation, costing a level 5+ slot and a Reaction if you don't control it."
+      }
+    ],
+    "spells": {
+      "6": [
+        "Animate Dead"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "undead-thralls",
+        "name": "Undead Thralls (free Animate Dead)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "bolster-undead",
+        "name": "Bolster Undead",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wizard-transmuter",
+    "classId": "wizard",
+    "name": "Transmuter",
+    "source": "Arcana Unleashed",
+    "description": "Specialist in transformation, with a Transmuter's Stone, Alter Self and Polymorph, and eventual reality-altering feats.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Transmutation Savant",
+        "text": "Add two Transmutation-school Wizard spells of level 2 or lower to your spellbook free, and add one more free Transmutation spell whenever you gain a new level of spell slots."
+      },
+      {
+        "level": 3,
+        "name": "Transmuter's Stone",
+        "text": "After a Long Rest, create a Tiny stone that works as a Spellcasting Focus. Its bearer gains Constitution save proficiency and one chosen benefit: Darkvision 60 ft, Resistance to Acid/Cold/Fire/Lightning/Poison/Thunder, or +10 ft Speed. You can change the benefit when you cast a Transmutation spell with a slot."
+      },
+      {
+        "level": 3,
+        "name": "Wondrous Alteration",
+        "text": "Alter Self is always prepared and castable once per Long Rest without a slot. While it's active you get bonuses for each option: Aquatic Adaptation (Dash as a Bonus Action underwater), Change Appearance (Advantage on Deception), Natural Weapons (2d6 damage and Advantage on Concentration saves)."
+      },
+      {
+        "level": 6,
+        "name": "Empowered Transmutation",
+        "text": "When you cast a Transmutation spell with a slot that has no attack roll or save, raise its effective level by 1. Uses equal to your Int modifier (min 1) per Long Rest."
+      },
+      {
+        "level": 10,
+        "name": "Potent Stone",
+        "text": "Your stone can have up to two benefits (Resistance can repeat with different types), and adds Mighty Build (Advantage on Strength saves, counts as one size larger for carrying) and Tremorsense 30 ft."
+      },
+      {
+        "level": 10,
+        "name": "Shape-Shifter",
+        "text": "Polymorph is always prepared and castable once per Long Rest without a slot. When you target yourself, you can keep your mind, proficiencies, class features and feats and cast Transmutation spells without costly or consumed components. Once per Long Rest."
+      },
+      {
+        "level": 14,
+        "name": "Master Transmuter",
+        "text": "Magic action, consuming your stone (a level 7+ slot saves it): transmute a nonmagical object up to 10 ft Cube (10 minutes handling), heal a creature for half its max HP and cure curses and conditions (Panacea), cast Raise Dead free, or make a willing creature 3d10 years younger and remove Exhaustion."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Alter Self"
+      ],
+      "10": [
+        "Polymorph"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "empowered-transmutation",
+        "name": "Empowered Transmutation",
+        "recharge": "long",
+        "max": "int"
+      },
+      {
+        "key": "wondrous-alteration",
+        "name": "Wondrous Alteration (free Alter Self)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "shape-shifter",
+        "name": "Shape-Shifter (free Polymorph)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  }
+]

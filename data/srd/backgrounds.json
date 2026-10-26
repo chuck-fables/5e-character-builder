@@ -1,0 +1,144 @@
+[
+ {
+  "id": "acolyte",
+  "name": "Acolyte",
+  "source": "SRD 5.2",
+  "abilities": [
+   "int",
+   "wis",
+   "cha"
+  ],
+  "feat": "magic-initiate-cleric",
+  "skills": [
+   "Insight",
+   "Religion"
+  ],
+  "tool": "Calligrapher's Supplies",
+  "equipment": [
+   {
+    "option": "A",
+    "items": [
+     "Calligrapher's Supplies",
+     "Book (prayers)",
+     "Holy Symbol",
+     "Parchment (10 sheets)",
+     "Robe"
+    ],
+    "gp": 8
+   },
+   {
+    "option": "B",
+    "items": [],
+    "gp": 50
+   }
+  ],
+  "text": "You spent your early life in service to a temple, learning rites and lore."
+ },
+ {
+  "id": "criminal",
+  "name": "Criminal",
+  "source": "SRD 5.2",
+  "abilities": [
+   "dex",
+   "con",
+   "int"
+  ],
+  "feat": "alert",
+  "skills": [
+   "Sleight of Hand",
+   "Stealth"
+  ],
+  "tool": "Thieves' Tools",
+  "equipment": [
+   {
+    "option": "A",
+    "items": [
+     "2 Daggers",
+     "Thieves' Tools",
+     "Crowbar",
+     "2 Pouches",
+     "Traveler's Clothes"
+    ],
+    "gp": 16
+   },
+   {
+    "option": "B",
+    "items": [],
+    "gp": 50
+   }
+  ],
+  "text": "You earned your living outside the law and learned to move unseen."
+ },
+ {
+  "id": "sage",
+  "name": "Sage",
+  "source": "SRD 5.2",
+  "abilities": [
+   "con",
+   "int",
+   "wis"
+  ],
+  "feat": "magic-initiate-wizard",
+  "skills": [
+   "Arcana",
+   "History"
+  ],
+  "tool": "Calligrapher's Supplies",
+  "equipment": [
+   {
+    "option": "A",
+    "items": [
+     "Quarterstaff",
+     "Calligrapher's Supplies",
+     "Book (history)",
+     "Parchment (8 sheets)",
+     "Robe"
+    ],
+    "gp": 8
+   },
+   {
+    "option": "B",
+    "items": [],
+    "gp": 50
+   }
+  ],
+  "text": "Years of study in libraries and academies made you a keeper of knowledge."
+ },
+ {
+  "id": "soldier",
+  "name": "Soldier",
+  "source": "SRD 5.2",
+  "abilities": [
+   "str",
+   "dex",
+   "con"
+  ],
+  "feat": "savage-attacker",
+  "skills": [
+   "Athletics",
+   "Intimidation"
+  ],
+  "tool": "Gaming Set (choose one)",
+  "equipment": [
+   {
+    "option": "A",
+    "items": [
+     "Spear",
+     "Shortbow",
+     "20 Arrows",
+     "Gaming Set (same as above)",
+     "Healer's Kit",
+     "Quiver",
+     "Traveler's Clothes"
+    ],
+    "gp": 14
+   },
+   {
+    "option": "B",
+    "items": [],
+    "gp": 50
+   }
+  ],
+  "text": "You trained for war and know discipline, weapons, and life in the ranks."
+ }
+]

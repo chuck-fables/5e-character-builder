@@ -1,0 +1,74 @@
+[
+ {
+  "id": "acid",
+  "prompt": "fantasy painterly anime, fantasy item, centered glass vial of bubbling green acid, no character, item only, solid black background"
+ },
+ {
+  "id": "alchemists-fire",
+  "prompt": "fantasy painterly anime, fantasy item, centered flask of alchemists fire, no character, item only, solid black background"
+ },
+ {
+  "id": "antitoxin",
+  "prompt": "fantasy painterly anime, fantasy item, centered vial of antitoxin, no character, item only, solid black background"
+ },
+ {
+  "id": "holy-water",
+  "prompt": "fantasy painterly anime, fantasy item, centered flask of holy water, no character, item only, solid black background"
+ },
+ {
+  "id": "oil",
+  "prompt": "fantasy painterly anime, fantasy item, centered clay flask of lamp oil, no character, item only, solid black background"
+ },
+ {
+  "id": "basic-poison",
+  "prompt": "fantasy painterly anime, fantasy item, centered vial of basic poison, no character, item only, solid black background"
+ },
+ {
+  "id": "rations",
+  "prompt": "fantasy painterly anime, fantasy item, centered bundle of travel rations, no character, item only, solid black background"
+ },
+ {
+  "id": "spellbook",
+  "prompt": "fantasy painterly anime, fantasy item, centered wizard spellbook, no character, item only, solid black background"
+ },
+ {
+  "id": "artisans-tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered artisans tools, no character, item only, solid black background"
+ },
+ {
+  "id": "arrows",
+  "prompt": "fantasy painterly anime, fantasy ammunition, centered bundle of arrows, no character, item only, solid black background"
+ },
+ {
+  "id": "crossbow-bolts",
+  "prompt": "fantasy painterly anime, fantasy ammunition, centered bundle of crossbow bolts, no character, item only, solid black background"
+ },
+ {
+  "id": "sling-bullets",
+  "prompt": "fantasy painterly anime, fantasy ammunition, centered pile of lead sling bullets, no character, item only, solid black background"
+ },
+ {
+  "id": "blowgun-needles",
+  "prompt": "fantasy painterly anime, fantasy ammunition, centered bundle of blowgun needles, no character, item only, solid black background"
+ },
+ {
+  "id": "firearm-bullets",
+  "prompt": "fantasy painterly anime, fantasy ammunition, centered pile of musket balls, no character, item only, solid black background"
+ },
+ {
+  "id": "form-starry-archer",
+  "prompt": "fantasy painterly anime, centered glowing constellation of an archer made of stars and silver light, no character, night sky background"
+ },
+ {
+  "id": "form-starry-chalice",
+  "prompt": "fantasy painterly anime, centered glowing constellation of a chalice made of stars and silver light, no character, night sky background"
+ },
+ {
+  "id": "form-starry-dragon",
+  "prompt": "fantasy painterly anime, centered glowing constellation of a dragon made of stars and silver light, no character, night sky background"
+ },
+ {
+  "id": "form-wrath-of-the-sea",
+  "prompt": "fantasy painterly anime, centered swirling ring of ocean spray and storm waves crackling with sea magic, no character, stormy ocean background"
+ }
+]

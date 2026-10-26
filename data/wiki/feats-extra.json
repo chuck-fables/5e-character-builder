@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "arcane-artist",
+    "name": "Arcane Artist",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Minor Illusion. When you cast an Illusion spell, one ally within 30 feet gains Heroic Inspiration, once per Long Rest."
+  },
+  {
+    "id": "arcane-eloquence",
+    "name": "Arcane Eloquence",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Vicious Mockery. Add 1d4 to Charisma (Deception, Intimidation or Persuasion) checks."
+  },
+  {
+    "id": "arcane-infiltrator",
+    "name": "Arcane Infiltrator",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Friends. Take the Dodge action as a Bonus Action, a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "arcane-omens",
+    "name": "Arcane Omens",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Guidance. When you or a creature within 30 feet fails a save, add 1d4 to the save as a Reaction, a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "arcane-overload",
+    "name": "Arcane Overload",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Fire Bolt. When you deal damage with an Evocation spell, add your Proficiency Bonus to one damage roll, once per Long Rest."
+  },
+  {
+    "id": "arcane-safeguard",
+    "name": "Arcane Safeguard",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Resistance and cast it as a Bonus Action a number of times equal to your Proficiency Bonus per Long Rest. When you Help an ability check, the ally gains Temporary HP equal to your Proficiency Bonus."
+  },
+  {
+    "id": "arcane-undertaker",
+    "name": "Arcane Undertaker",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn one Cleric or Wizard Necromancy cantrip. Add 1d4 to Intelligence (History) or Wisdom (Medicine) checks. When you Help stabilize a creature at 0 HP, you gain Heroic Inspiration, once per Long Rest."
+  },
+  {
+    "id": "familiar-friend",
+    "name": "Familiar Friend",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Always have Find Familiar prepared, castable free once per Long Rest without Material components. When you cast it, your familiar's maximum and current HP increase by twice your level. Gain Advantage on a skill check you are proficient in while your familiar is within 5 feet, a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "portal-jumper",
+    "name": "Portal Jumper",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain Resistance to Necrotic, Psychic or Radiant damage (your choice). Spend 15 feet of movement to teleport up to 15 feet to a space you can see, once per turn and a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "transmuted-anatomy",
+    "name": "Transmuted Anatomy",
+    "source": "Arcana Unleashed",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Your Speed increases by 5 feet, and you have Advantage on saves against forced shape-shifting. When you fail a Constitution save, add 1d4 to it as a Reaction, a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "abjuration-adept",
+    "name": "Abjuration Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Once you have spell slots of a listed level, you always have that level's spell and lower ones prepared: Shield, Lesser Restoration, Protection from Energy, Banishment, Mass Cure Wounds (1st to 5th). When you cast an Abjuration spell with a slot, you or an ally within 30 feet gains Temporary HP equal to twice the slot level."
+  },
+  {
+    "id": "conjuration-adept",
+    "name": "Conjuration Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Entangle, Misty Step, Conjure Animals, Dimension Door, Conjure Elemental (1st to 5th). While you concentrate on a Conjuration spell, add the raised ability modifier to Constitution saves to keep it."
+  },
+  {
+    "id": "divination-adept",
+    "name": "Divination Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Detect Evil and Good, Mind Spike, Clairvoyance, Divination, Scrying (1st to 5th). Once per Long Rest, when a creature you can see within 60 feet makes a D20 Test, you can use a Reaction to give it Advantage or Disadvantage; casting a Divination spell with a slot restores this use."
+  },
+  {
+    "id": "elemental-familiar",
+    "name": "Elemental Familiar",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Familiar Friend Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). When you cast Find Familiar, choose Acid, Cold, Fire, Lightning or Thunder: your familiar resists that type and can unleash a 5-foot burst of it as a Bonus Action. Creatures in the burst make a Dexterity save (DC 8 + spellcasting modifier + Proficiency Bonus) or take 2d4 damage, and Medium or smaller ones are knocked Prone."
+  },
+  {
+    "id": "enchantment-adept",
+    "name": "Enchantment Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Dissonant Whispers, Enthrall, Hold Person, Dominate Beast, Modify Memory (1st to 5th). Enchantment spells cast with a slot need no Verbal, Somatic or Material components, except consumed or costed ones."
+  },
+  {
+    "id": "evocation-adept",
+    "name": "Evocation Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Chromatic Orb, Shatter, Fireball, Vitriolic Sphere, Wall of Force (1st to 5th). Once per turn, when an Evocation spell deals damage, you can roll up to two Hit Dice and add the total to one of its damage rolls."
+  },
+  {
+    "id": "illusion-adept",
+    "name": "Illusion Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Silent Image, Phantasmal Force, Major Image, Hallucinatory Terrain, Seeming (1st to 5th). Illusion spells cast with a slot need no Verbal, Somatic or Material components, except consumed or costed ones, and creatures have Disadvantage on Investigation checks to see through them."
+  },
+  {
+    "id": "magic-connoisseur",
+    "name": "Magic Connoisseur",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Magic Initiate Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Pick one level 1 and one level 2 spell from your Magic Initiate list; you always have them prepared, each castable free once per Long Rest. You can swap one of them whenever you gain a level."
+  },
+  {
+    "id": "necromancy-adept",
+    "name": "Necromancy Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Inflict Wounds, Ray of Enfeeblement, Vampiric Touch, Blight, Raise Dead (1st to 5th). When you cast a Necromancy spell with a slot, roll up to two Hit Dice and regain HP equal to the total plus the slot level."
+  },
+  {
+    "id": "otherworldly-familiar",
+    "name": "Otherworldly Familiar",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Familiar Friend Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). When you cast Find Familiar, imbue the familiar until you cast it again: it resists one of Necrotic, Poison, Psychic, Radiant or Thunder (your choice) and can move through creatures and objects as Difficult Terrain."
+  },
+  {
+    "id": "soothing-familiar",
+    "name": "Soothing Familiar",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Familiar Friend Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). While your familiar is within 120 feet of you, allies in its 5-foot Emanation can treat a 1 or 2 on their healing dice as a 3."
+  },
+  {
+    "id": "spell-resistant",
+    "name": "Spell Resistant",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Dexterity or Constitution by 1 (max 20). Gain Resistance to one of Necrotic, Psychic, Radiant or Thunder damage (your choice). When you fail a save against a spell or magic effect, add 1d6 to it, a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "spell-subterfuge",
+    "name": "Spell Subterfuge",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). After you cast a spell with an action casting time using a slot, you can take the Dash and Hide actions as a Bonus Action, a number of times equal to the raised ability modifier per Long Rest. Casting a Verbal spell or making a spell attack does not end your Invisibility if you finish your turn behind Three-Quarters or Total Cover."
+  },
+  {
+    "id": "transmutation-adept",
+    "name": "Transmutation Adept",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Always prepared by slot level: Jump, Spider Climb, Slow, Polymorph, Animate Objects (1st to 5th). On your turn, casting a Transmutation spell with a slot raises your Speed by 5 feet per slot level until the end of that turn."
+  },
+  {
+    "id": "warlike-familiar",
+    "name": "Warlike Familiar",
+    "source": "Arcana Unleashed",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Familiar Friend Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Always prepared: Battle Familiar, castable free once per Long Rest. When a creature within 5 feet of your familiar is hit by an attack, your familiar can use a Reaction to add your Proficiency Bonus to that creature's AC against the attack."
+  },
+  {
+    "id": "arcane-warrior",
+    "name": "Arcane Warrior",
+    "source": "Arcana Unleashed",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style Feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn two Wizard cantrips of your choice (Mage Hand and Ray of Frost are recommended), using Intelligence, Wisdom or Charisma for them. Each time you gain a level, you can swap one of them for another Wizard cantrip."
+  },
+  {
+    "id": "boon-of-erupting-spellpower",
+    "name": "Boon of Erupting Spellpower",
+    "source": "Arcana Unleashed",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 30). When a spell you cast with a slot deals damage, treat 1s and 2s on its damage dice as 3s, and creatures it damaged have the Prone condition. Once used, this recharges on Initiative or a Short or Long Rest."
+  },
+  {
+    "id": "boon-of-magic-school-mastery",
+    "name": "Boon of Magic School Mastery",
+    "source": "Arcana Unleashed",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": true,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 30). Choose a school of magic: you always have one level 1 spell from it prepared, castable free without components, and one spell of level 7 or lower from it that you can cast free once per Long Rest. You can take this feat more than once, but each time for a different school."
+  },
+  {
+    "id": "boon-of-the-iron-mind",
+    "name": "Boon of the Iron Mind",
+    "source": "Arcana Unleashed",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 30). You only lose Concentration when you cast or activate another effect that needs it, when you are Petrified or Unconscious, or when you die."
+  },
+  {
+    "id": "aberrant-dragonmark",
+    "name": "Aberrant Dragonmark",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Once per Long Rest, add 1d4 to a failed Constitution save as a Reaction. You know a Sorcerer cantrip and one level 1 Sorcerer spell, castable free once per rest using Constitution; when you cast that spell, spend a Hit Die: an even roll gives you Temporary HP, an odd roll deals that much Force damage to a creature within 30 feet.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-detection",
+    "name": "Mark of Detection",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t have another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Intelligence (Investigation) or Wisdom (Insight) checks. Detect Magic and Detect Poison and Disease are always prepared and castable free once per Long Rest each; See Invisibility joins them at character level 3. The Mark of Detection spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-finding",
+    "name": "Mark of Finding",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t have another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Wisdom (Perception or Survival) checks. Hunter's Mark is always prepared and castable free once per Long Rest; Locate Object joins it at character level 3. The Mark of Finding spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-handling",
+    "name": "Mark of Handling",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t have another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Intelligence (Nature) or Wisdom (Animal Handling) checks. Animal Friendship and Speak with Animals are always prepared and castable free once per Long Rest each. At character level 3 you can target a Monstrosity with Intelligence 3 or lower using those spells.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-healing",
+    "name": "Mark of Healing",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t have another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Wisdom (Medicine) checks and Herbalism Kit checks. Cure Wounds is always prepared and castable free once per Long Rest; Lesser Restoration joins it at character level 3. The Mark of Healing spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-hospitality",
+    "name": "Mark of Hospitality",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t have another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Charisma (Persuasion) checks and checks with Brewer's Supplies or Cook's Utensils. Purify Food and Drink and Unseen Servant are always prepared and castable free once per Long Rest each; Calm Emotions joins them at character level 3.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-making",
+    "name": "Mark of Making",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Intelligence (Arcana) checks and Artisan's Tools checks. You know Mending, and Magic Weapon is always prepared and castable free once per Long Rest. The Mark of Making spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-passage",
+    "name": "Mark of Passage",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t have another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Your Speed increases by 5 feet, and you can add 1d4 to Strength (Athletics) or Dexterity (Acrobatics) checks. Misty Step is always prepared and castable free once per Long Rest. The Mark of Passage spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-scribing",
+    "name": "Mark of Scribing",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Intelligence (History) checks and Calligrapher's Supplies checks. You know Message, and Comprehend Languages is always prepared and castable free once per Long Rest; Magic Mouth joins it at character level 3. The Mark of Scribing spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-sentinel",
+    "name": "Mark of Sentinel",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Wisdom (Insight or Perception) checks. Shield is always prepared and castable free once per Long Rest. As a Reaction you can swap places with a creature you can see within 5 feet that is hit by an attack, taking the hit yourself, a number of times equal to your Proficiency Bonus per Long Rest.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-shadow",
+    "name": "Mark of Shadow",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Dexterity (Stealth) or Charisma (Performance) checks. You know Minor Illusion, and Invisibility is always prepared and castable free once per Long Rest. The Mark of Shadow spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-storm",
+    "name": "Mark of Storm",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "You have Resistance to Lightning damage, and you can add 1d4 to Dexterity (Acrobatics) checks or Navigator's Tools checks. You know Thunderclap, and Gust of Wind is always prepared and castable free once per Long Rest from character level 3. The Mark of Storm spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "mark-of-warding",
+    "name": "Mark of Warding",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Eberron Campaign, Can’t Have Another Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Add 1d4 to Intelligence (Investigation) checks and Thieves' Tools checks. Alarm and Mage Armor are always prepared and castable free once per Long Rest each; Arcane Lock joins them at character level 3. The Mark of Warding spells join your spell list if you have spellcasting.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-aberrant-mark",
+    "name": "Greater Aberrant Mark",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Aberrant Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Constitution by 1 (max 20). Aberrant Fortitude now uses a 1d6 and recharges on a Short or Long Rest. When you cast a cantrip you can spend one or two Hit Dice to gain Temporary HP and deal that much Force damage to a creature within 30 feet, a number of times equal to your Proficiency Bonus per Long Rest.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-detection",
+    "name": "Greater Mark of Detection",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Detection Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Deductive Intuition uses a 1d6 instead of a 1d4. When you cast See Invisibility free from the Mark of Detection, you can also grant it to one creature you can see within 30 feet.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-finding",
+    "name": "Greater Mark of Finding",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Finding Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Hunter's Intuition uses a 1d6. A free Hunter's Mark cast gets double range, and you can stop the target from benefiting from being Invisible.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-handling",
+    "name": "Greater Mark of Handling",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Handling Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20), and Wild Intuition uses a 1d6. While mounted, your mount can react to a melee hit by moving or making one attack. Once per Long Rest per Proficiency Bonus, a Beast or Monstrosity within 30 feet must make a Wisdom save (DC 8 + Wisdom modifier + Proficiency Bonus) or become Frightened until the start of your next turn.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-healing",
+    "name": "Greater Mark of Healing",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Healing Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Medical Intuition uses a 1d6. Cure Wounds can be cast free a number of times equal to your Proficiency Bonus per Long Rest, and when you roll its healing dice, treat each 1 or 2 as a 3.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-hospitality",
+    "name": "Greater Mark of Hospitality",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Hospitality Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Ever Hospitable uses a 1d6. Once per Long Rest, when you cast Purify Food and Drink you can use it on a group within 30 feet instead, lowering each creature's Exhaustion by 1 and giving it Temporary HP equal to your Proficiency Bonus plus your chosen spellcasting modifier.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-making",
+    "name": "Greater Mark of Making",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Making Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Artisan's Intuition uses a 1d6. When you cast Magic Weapon free from Spellsmith, you cast it as its level 3 version.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-passage",
+    "name": "Greater Mark of Passage",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Passage Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Intuitive Motion uses a 1d6. When you cast Misty Step free from the Mark of Passage, you can also bring up to two willing creatures within 30 feet, and each of them can teleport up to 30 feet with a Reaction.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-scribing",
+    "name": "Greater Mark of Scribing",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Scribing Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Gifted Scribe uses a 1d6. When you cast Comprehend Languages you can extend it to up to three willing creatures within 30 feet and link telepathic talk within 1 mile for its duration, once per Long Rest.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-sentinel",
+    "name": "Greater Mark of Sentinel",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Sentinel Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Sentinel's Intuition uses a 1d6. When you use Vigilant Guardian, you can also make one weapon or Unarmed Strike attack as part of that same Reaction.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-shadow",
+    "name": "Greater Mark of Shadow",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Shadow Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Cunning Intuition uses a 1d6. A free Invisibility cast from Shape Shadows is cast as its level 3 version.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-storm",
+    "name": "Greater Mark of Storm",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Storm Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Windwright's Intuition uses a 1d6. A free Gust of Wind cast from Storm Magic also gives you a 60-foot Fly Speed for its duration.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "greater-mark-of-warding",
+    "name": "Greater Mark of Warding",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Mark of Warding Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase one ability by 1 (max 20). Warder's Intuition uses a 1d6. As a Reaction when a creature attacks you or a creature within 30 feet, you can impose Disadvantage on that attack roll, a number of times equal to your Proficiency Bonus per Long Rest.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "potent-dragonmark",
+    "name": "Potent Dragonmark",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Any Dragonmark Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase the spellcasting ability used by your Dragonmark feat by 1 (max 20). You always have the Spells of the Mark prepared. You get one extra spell slot, of a level equal to half your character level (rounded up, max 5), usable only on spells from your Dragonmark feats, and it returns on a Short or Long Rest.",
+    "group": "Dragonmark"
+  },
+  {
+    "id": "fey-pact",
+    "name": "Fey Pact",
+    "source": "D&D Beyond Drops - May 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Can’t Have Another Planar Pact Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Sylvan (or another language if you already know it) and gain Nature proficiency. You know Druidcraft and one Divination or Enchantment cantrip, using Intelligence, Wisdom or Charisma. If a Charisma (Deception or Persuasion) check fails, you can reroll it, and this recharges on a Long Rest once it has turned a failure into a success.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "infernal-pact",
+    "name": "Infernal Pact",
+    "source": "D&D Beyond Drops - May 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Can’t Have Another Planar Pact Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain Resistance to either Fire or Poison damage, plus Darkvision of 30 feet that still works in magical Darkness. You also gain Deception proficiency.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "shadow-pact",
+    "name": "Shadow Pact",
+    "source": "D&D Beyond Drops - October 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Can’t Have Another Planar Pact Feat"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain Darkvision of 60 feet, or add 30 feet to your existing Darkvision. While in Dim Light or Darkness, you can reroll a 1 on Hit Dice healing. Once per Short or Long Rest, use a Bonus Action to create a 5-foot Dim Light emanation for 1 minute.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "fey-sentinel",
+    "name": "Fey Sentinel",
+    "source": "D&D Beyond Drops - May 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Fey Pact Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Once per Long Rest, when an enemy misses you, you can use a Reaction to become Invisible until the start of your next turn. Entangle is always prepared and castable free once per Long Rest, and Plant Growth joins it at character level 5.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "fey-tormentor",
+    "name": "Fey Tormentor",
+    "source": "D&D Beyond Drops - August 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Fey Pact Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). As a Bonus Action, up to three creatures within 60 feet make a Wisdom save (DC 8 + the raised ability modifier + Proficiency Bonus); those who fail lose 10 feet of Speed and take a -2 penalty to AC until the end of your next turn, once per Long Rest. Hex is always prepared, and Bestow Curse joins it at character level 5.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "infernal-bulwark",
+    "name": "Infernal Bulwark",
+    "source": "D&D Beyond Drops - May 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Infernal Pact Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Constitution or Charisma by 1 (max 20). While unarmored and without a Shield, your base AC is 10 + Dexterity modifier + the raised ability modifier. Armor of Agathys is always prepared, castable free once per Long Rest as a level 2 Fire version, and a successful save against a creature within 60 feet lets you deal 1d10 Fire damage as a Reaction, a number of times equal to your Proficiency Bonus per Long Rest.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "infernal-dragoon",
+    "name": "Infernal Dragoon",
+    "source": "D&D Beyond Drops - May 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Infernal Pact Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Constitution or Charisma by 1 (max 20). As a Magic action, create a 30-foot fear aura: creatures that fail a Charisma save (DC 8 + the raised ability modifier + Proficiency Bonus) are Frightened until the end of their next turn. You can add +2 to one D20 Test per Long Rest, and Magic Weapon is always prepared, castable free once per Long Rest with an 8-hour duration.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "shadow-trapper",
+    "name": "Shadow Trapper",
+    "source": "D&D Beyond Drops - October 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Shadow Pact Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "wis"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Strength or Wisdom by 1 (max 20). You have Advantage on attacks against creatures inside your Shroud of Shadows. At the start of its turn, a creature you Grapple must make a Wisdom save or take 1d4 plus the raised ability modifier in Psychic damage.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "shadow-weaver",
+    "name": "Shadow Weaver",
+    "source": "D&D Beyond Drops - October 2026",
+    "category": "origin",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Shadow Pact Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase Intelligence, Wisdom or Charisma by 1 (max 20). Darkness is always prepared and castable free once per Long Rest, using the raised ability for spellcasting. As a Bonus Action you can change a Darkness radius by 5 feet (5 to 25 feet) or move it within 60 feet.",
+    "group": "Planar Pact"
+  },
+  {
+    "id": "aberrant-anatomy",
+    "name": "Aberrant Anatomy",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "You can hold your breath for 1 hour. Gain Perception proficiency and Expertise in it, plus Blindsight out to 15 feet. When you roll a 1 on a D20 Test, a Constitution save (DC 13 + Proficiency Bonus) prevents you from being Stunned until the end of your next turn.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "echoing-soul",
+    "name": "Echoing Soul",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain proficiency in two skills of your choice and Expertise in one skill you already have, which you can change on each Long Rest. Learn one extra language. When you roll a 1 on a D20 Test, a Constitution save (DC 13 + Proficiency Bonus) prevents you from being Incapacitated (with half Speed) until the end of your next turn.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "gathered-whispers",
+    "name": "Gathered Whispers",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Message without components and always have Augury prepared, castable free once per Long Rest. Once per Long Rest per Proficiency Bonus, you can add your Proficiency Bonus to your AC against an attack. When you roll a 1 on a D20 Test, a Wisdom save (DC 13 + Proficiency Bonus) prevents you from being Deafened until the end of your next turn.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "living-shadow",
+    "name": "Living Shadow",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Mage Hand without components. Once per Long Rest per Proficiency Bonus, add 10 feet of reach to a melee attack. When you roll a 1 on a D20 Test, a Wisdom save (DC 13 + Proficiency Bonus) keeps you from being Incapacitated until the start of your next turn, when you roll on the Shadow's Will table to decide your turn.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "mist-walker",
+    "name": "Mist Walker",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Entering the Mists for a domain you name works as if you had a Mist talisman for it. Once per Long Rest per Proficiency Bonus, teleport 15 feet as a Reaction when you take damage or fail a save against Grappled or Restrained. After a Long Rest, Short Rests taken within 10 miles give no benefit unless you pass a Constitution save (DC 13 + Proficiency Bonus).",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "second-skin",
+    "name": "Second Skin",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Always have Alter Self prepared, castable free once per Long Rest without Concentration. The feat rolls on a d6 catalyst table, and when that catalyst happens you must make a Charisma save (DC 13 + Proficiency Bonus) at the start of your next turn, or transform as if you cast Alter Self; if you already used that free cast, you are Stunned instead.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "symbiotic-being",
+    "name": "Symbiotic Being",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Your symbiote cannot be targeted and returns if you return to life. Gain proficiency in one skill from a list of ten and learn one extra language. Once per Long Rest per Proficiency Bonus, add a Hit Die to a failed save, and on a 1 on a D20 Test make a Charisma save (DC 13 + Proficiency Bonus) or be Charmed for 1d12 hours.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "touch-of-death",
+    "name": "Touch of Death",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Chill Touch without components, and its Necrotic damage ignores Resistance. You have Disadvantage on Death Saving Throws.",
+    "group": "Dark Gift"
+  },
+  {
+    "id": "watchers",
+    "name": "Watchers",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": {
+      "level": 1,
+      "text": "Ravenloft Campaign"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Always have Beast Sense and Speak with Animals prepared, castable free once per Long Rest each. Add 1d4 to ability checks made with the Search action, and you have Disadvantage on saves against Scrying. On a 1 on a D20 Test, a Wisdom save (DC 13 + Proficiency Bonus) or Disadvantage on D20 Tests for 1 minute, which you can repeat each turn.",
+    "group": "Dark Gift"
+  }
+]

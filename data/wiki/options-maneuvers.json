@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ambush",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Ambush",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you roll Initiative or a Stealth check, you can spend a Superiority Die and add it to the roll (not while Incapacitated)."
+  },
+  {
+    "id": "bait-and-switch",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Bait and Switch",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "On your turn, spend a Superiority Die and 5 feet of movement to swap places with a willing, non-Incapacitated creature within 5 feet (no Opportunity Attacks). Roll the die: you or that creature gains that bonus to AC until the start of your next turn."
+  },
+  {
+    "id": "commanders-strike",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Commander's Strike",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "Replace one of your attacks in the Attack action and spend a Superiority Die to let a willing creature who can see or hear you use its Reaction for a weapon or Unarmed Strike attack, adding the die to the damage."
+  },
+  {
+    "id": "commanding-presence",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Commanding Presence",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you make an Intimidation, Performance or Persuasion check, you can spend a Superiority Die and add it to the roll."
+  },
+  {
+    "id": "disarming-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Disarming Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit a creature, spend a Superiority Die to add it to the damage; the target must succeed on a Strength save or drop one held object of your choice."
+  },
+  {
+    "id": "distracting-strike",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Distracting Strike",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit a creature, spend a Superiority Die to add it to the damage; the next attack against the target by anyone other than you has Advantage if made before the start of your next turn."
+  },
+  {
+    "id": "evasive-footwork",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Evasive Footwork",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "As a bonus action, spend a Superiority Die to take the Disengage action and add the rolled number to your AC until the start of your next turn."
+  },
+  {
+    "id": "feinting-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Feinting Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "As a bonus action, spend a Superiority Die to feint at a creature within 5 feet; you have Advantage on your next attack against it this turn, and add the die to the damage if it hits."
+  },
+  {
+    "id": "goading-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Goading Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit a creature, spend a Superiority Die to add it to the damage; the target must succeed on a Wisdom save or have Disadvantage on attacks against anyone but you until the end of your next turn."
+  },
+  {
+    "id": "lunging-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Lunging Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "As a bonus action, spend a Superiority Die to Dash. If you then move at least 5 feet in a straight line and hit with a melee attack as part of the Attack action this turn, add the die to the damage."
+  },
+  {
+    "id": "maneuvering-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Maneuvering Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit a creature, spend a Superiority Die to add it to the damage and let a willing creature who can see or hear you use its Reaction to move up to half its Speed without provoking Opportunity Attacks from your target."
+  },
+  {
+    "id": "menacing-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Menacing Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit a creature, spend a Superiority Die to add it to the damage; the target must succeed on a Wisdom save or be Frightened until the end of your next turn."
+  },
+  {
+    "id": "parry",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Parry",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When a creature damages you with a melee attack, use your Reaction and spend a Superiority Die to reduce the damage by the roll + your Strength or Dexterity modifier."
+  },
+  {
+    "id": "precision-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Precision Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you miss with an attack roll, spend a Superiority Die and add it to the roll, which may turn the miss into a hit."
+  },
+  {
+    "id": "pushing-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Pushing Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit with a weapon or Unarmed Strike, spend a Superiority Die to add it to the damage; a Large or smaller target must succeed on a Strength save or be pushed up to 15 feet away from you."
+  },
+  {
+    "id": "rally",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Rally",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "As a bonus action, spend a Superiority Die to give an ally within 30 feet who can see or hear you Temporary Hit Points equal to the roll + half your Fighter level (round down)."
+  },
+  {
+    "id": "riposte",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Riposte",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When a creature misses you with a melee attack, use your Reaction and spend a Superiority Die to make a melee attack against it; on a hit, add the die to the damage."
+  },
+  {
+    "id": "sweeping-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Sweeping Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit with a melee weapon or Unarmed Strike, spend a Superiority Die to hit a second creature within 5 feet of the target and in your reach: if the original attack roll would hit it, it takes damage equal to the die roll, of the same type."
+  },
+  {
+    "id": "tactical-assessment",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Tactical Assessment",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you make a History, Investigation or Insight check, you can spend a Superiority Die and add it to the roll."
+  },
+  {
+    "id": "trip-attack",
+    "type": "maneuver",
+    "classId": "fighter",
+    "name": "Trip Attack",
+    "source": "Player's Handbook",
+    "prereq": "Battle Master subclass",
+    "repeatable": false,
+    "text": "When you hit with a weapon or Unarmed Strike, spend a Superiority Die to add it to the damage; a Large or smaller target must succeed on a Strength save or be knocked Prone."
+  }
+]

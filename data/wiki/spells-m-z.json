@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "mind-sliver",
+    "name": "Mind Sliver",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V",
+    "duration": "1 round",
+    "concentration": false,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Target one creature you can see within range with an Intelligence save. On a failed save it takes 1d6 Psychic damage and takes a 1d4 penalty to the next saving throw it makes before the end of your next turn.",
+    "higherLevels": "The damage dice grow to 2d6, 3d6 and 4d6 at levels 5, 11 and 17."
+  },
+  {
+    "id": "thorn-whip",
+    "name": "Thorn Whip",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "30 feet",
+    "components": "V, S, M (the stem of a thorny plant)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "druid"
+    ],
+    "text": "Make a melee spell attack to lash a creature within 30 feet. On a hit it takes 1d6 Piercing damage, and if the target is Large or smaller you can pull it up to 10 feet toward you.",
+    "higherLevels": "The damage dice grow to 2d6, 3d6 and 4d6 at levels 5, 11 and 17."
+  },
+  {
+    "id": "thunderclap",
+    "name": "Thunderclap",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "bard",
+      "druid",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Each creature in a 5-foot Emanation around you makes a Constitution save or takes 1d6 Thunder damage. The noise can be heard up to 100 feet away.",
+    "higherLevels": "The damage dice grow to 2d6, 3d6 and 4d6 at levels 5, 11 and 17."
+  },
+  {
+    "id": "toll-the-dead",
+    "name": "Toll the Dead",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "cleric",
+      "warlock",
+      "wizard"
+    ],
+    "text": "One creature you can see within 60 feet makes a Wisdom save or takes 1d8 Necrotic damage. If it is already missing any Hit Points, the damage die is a d12 instead.",
+    "higherLevels": "The die count rises at levels 5, 11 and 17 (2d8 or 2d12, then 3d8 or 3d12, then 4d8 or 4d12)."
+  },
+  {
+    "id": "word-of-radiance",
+    "name": "Word of Radiance",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, M (a sunburst token)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "cleric"
+    ],
+    "text": "Radiant light bursts out from you in a 5-foot Emanation. Each creature you choose in it that fails a Constitution save takes 1d6 Radiant damage.",
+    "higherLevels": "The damage dice grow to 2d6, 3d6 and 4d6 at levels 5, 11 and 17."
+  },
+  {
+    "id": "quick-clothier",
+    "name": "Quick Clothier",
+    "source": "D&D Beyond Drops - September 2026",
+    "level": 1,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S, M (a set of clothing)",
+    "duration": "24 Hours",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "bard",
+      "wizard"
+    ],
+    "text": "Change the look of one set of nonmagical clothing that no one is wearing, up to 15 GP in value, for 24 hours. When the spell ends the clothing returns to its original form.",
+    "higherLevels": ""
+  },
+  {
+    "id": "spellfire-flare",
+    "name": "Spellfire Flare",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Make a ranged spell attack against a creature within 60 feet. Half Cover and Three-Quarters Cover do not help the target against this attack. On a hit it takes 2d10 Radiant damage.",
+    "higherLevels": "Each slot level above 1 adds one more blast, and each blast gets its own attack roll. The blasts can hit the same target or different ones."
+  },
+  {
+    "id": "thunderous-smite",
+    "name": "Thunderous Smite",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "paladin"
+    ],
+    "text": "After you hit with a melee attack, the target takes an extra 2d6 Thunder damage. A creature target must Strength save or be pushed 10 feet away and knocked Prone, and the thunder can be heard 300 feet away.",
+    "higherLevels": "The extra damage grows by 1d6 for each spell slot level above 1."
+  },
+  {
+    "id": "wardaway",
+    "name": "Wardaway",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S, M (a miniature clay hand)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "cleric",
+      "paladin",
+      "wizard"
+    ],
+    "text": "One creature within 60 feet makes a Constitution save; Constructs and Undead always succeed. On a failed save it takes 2d4 Force damage, its Speed is halved until your next turn, and on its next turn it can take an action or a Bonus Action but not both. A successful save halves the damage only.",
+    "higherLevels": "The damage increases by 2d4 for each spell slot level above 1."
+  },
+  {
+    "id": "witch-bolt",
+    "name": "Witch Bolt",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S, M (a twig struck by lightning)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Make a ranged spell attack against a creature within 60 feet for 2d12 Lightning damage on a hit. While you concentrate, you can use a Bonus Action on later turns to deal 1d12 Lightning damage to it automatically. The arc ends if the target leaves range or gets Total Cover from you.",
+    "higherLevels": "The initial damage increases by 1d12 for each spell slot level above 1."
+  },
+  {
+    "id": "wrathful-smite",
+    "name": "Wrathful Smite",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Necromancy",
+    "castingTime": "Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "1 minute",
+    "concentration": false,
+    "classes": [
+      "paladin"
+    ],
+    "text": "After you hit with a melee attack, the target takes an extra 1d6 Necrotic damage. It must make a Wisdom save or become Frightened for up to 1 minute, repeating the save at the end of each of its turns to end the effect early.",
+    "higherLevels": "The extra damage increases by 1d6 for each spell slot level above 1."
+  },
+  {
+    "id": "pinky-swear",
+    "name": "Pinky Swear",
+    "source": "D&D Beyond Drops - September 2026",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "24 Hours",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "paladin",
+      "wizard"
+    ],
+    "text": "Touch a creature and make a promise of 25 words or fewer that lasts 24 hours. If you knowingly break it, the target learns of the betrayal within 1 mile and you start burning, taking 1 Fire damage at the start of each of your turns.",
+    "higherLevels": ""
+  },
+  {
+    "id": "searing-orb",
+    "name": "Searing Orb",
+    "source": "D&D Beyond Drops - June 2026",
+    "level": 2,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "S, M (Metallic flakes and a pinch of phosphorus)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "cleric",
+      "paladin"
+    ],
+    "text": "Make a ranged spell attack against a creature within 60 feet for 3d4 Radiant damage on a hit. The orb then flashes, and the target and creatures within 10 feet make a Constitution save or are Blinded until the end of their next turn.",
+    "higherLevels": "The damage increases by 1d4 for each spell slot level above 2."
+  },
+  {
+    "id": "summon-beast",
+    "name": "Summon Beast",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "text": "Summon a Bestial Spirit in an unoccupied space within 90 feet. You choose Air, Land or Water for its form. It acts as your ally, shares your Initiative count right after you, and vanishes at 0 Hit Points or when concentration ends. Lasts up to 1 hour.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "tortoise-shell",
+    "name": "Tortoise Shell",
+    "source": "D&D Beyond Drops - June 2026",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "druid",
+      "ranger"
+    ],
+    "text": "Touch a willing creature to harden its skin into a shell for up to 1 minute of concentration, giving it a +3 bonus to AC. The bonus drops to +1 until the start of its next turn if it moves or takes an action or Reaction that involves moving.",
+    "higherLevels": ""
+  },
+  {
+    "id": "uncertain-footing",
+    "name": "Uncertain Footing",
+    "source": "Arcana Unleashed",
+    "level": 2,
+    "school": "Illusion",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S, M (a distorted lens)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "bard",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Up to three creatures within 120 feet make an Intelligence save. On a failed save a target's Speed is halved and it cannot take the Dash action. It repeats the save at the end of each of its turns to end the effect.",
+    "higherLevels": ""
+  },
+  {
+    "id": "wither-and-bloom",
+    "name": "Wither and Bloom",
+    "source": "Arcana Unleashed",
+    "level": 2,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S, M (a withered vine twisted into a loop)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "druid",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Choose creatures in a 10-foot-radius Sphere within 60 feet. Each makes a Constitution save, taking 3d6 Necrotic damage on a failure or half on a success, and nonmagical plants there wither. One creature in the area may spend a Hit Die to regain HP equal to the roll plus your spellcasting modifier.",
+    "higherLevels": "The damage increases by 1d6 and one more Hit Die can be spent for each spell slot level above 2."
+  },
+  {
+    "id": "summon-fey",
+    "name": "Summon Fey",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a gilded flower worth 300+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Summon a Fey Spirit in an unoccupied space within 90 feet. Choose Fuming, Mirthful or Tricksy for its form. It acts as your ally and shares your Initiative count right after yours, and vanishes at 0 Hit Points or when concentration ends. Lasts up to 1 hour.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "summon-undead",
+    "name": "Summon Undead",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a gilded skull worth 300+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "Summon an Undead Spirit in an unoccupied space within 90 feet. Choose Ghostly, Putrid or Skeletal for its form. It acts as your ally and shares your Initiative count right after yours, and vanishes at 0 Hit Points or when concentration ends. Lasts up to 1 hour.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "sylunes-viper",
+    "name": "Sylune's Viper",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a snake fang)",
+    "duration": "1 hour",
+    "concentration": false,
+    "classes": [
+      "druid",
+      "wizard"
+    ],
+    "text": "Gain 15 Temporary Hit Points and a spectral snake for up to 1 hour. You get a Climb Speed equal to your Speed, and as a Magic action you can bite a creature within 50 feet with a spell attack for 1d6 Force damage, poisoning it until the start of your next turn.",
+    "higherLevels": "Each spell slot level above 3 adds 5 Temporary Hit Points and 1d6 to the bite damage."
+  },
+  {
+    "id": "spellfire-storm",
+    "name": "Spellfire Storm",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 4,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Create a 20-foot-radius, 20-foot-high cylinder of spellfire within 60 feet for up to 1 minute of concentration. Creatures in it make a Constitution save or take 4d10 Radiant damage, and a creature that casts a spell there must make a Constitution save or lose the spell. You can exempt chosen creatures.",
+    "higherLevels": "The damage increases by 1d10 for each spell slot level above 4. Can also be cast as a circle spell with a costly component for a larger area."
+  },
+  {
+    "id": "staggering-smite",
+    "name": "Staggering Smite",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Enchantment",
+    "castingTime": "Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "paladin"
+    ],
+    "text": "After you hit with a melee attack, the target takes an extra 4d6 Psychic damage. It must make a Wisdom save or be Stunned until the end of your next turn.",
+    "higherLevels": "The extra damage increases by 1d6 for each spell slot level above 4."
+  },
+  {
+    "id": "sticks-to-snakes",
+    "name": "Sticks to Snakes",
+    "source": "D&D Beyond Drops - May 2026",
+    "level": 4,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a small piece of bark and several snake scales)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "cleric",
+      "druid",
+      "ranger"
+    ],
+    "text": "Turn up to four nonmagical sticks or similar wooden items within 90 feet into Venomous Snakes for up to 1 minute of concentration. A creature holding one can resist with a Charisma save. You can use a Bonus Action to command the snakes within 500 feet.",
+    "higherLevels": "You can change two more objects for each spell slot level above 4."
+  },
+  {
+    "id": "summon-aberration",
+    "name": "Summon Aberration",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a pickled tentacle and an eyeball in a platinum-inlaid vial worth 400+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "Summon an Aberrant Spirit in an unoccupied space within 90 feet. Choose Beholderkin, Mind Flayer or Slaad for its form. It acts as your ally and shares your Initiative count right after yours, and vanishes at 0 Hit Points or when concentration ends. Lasts up to 1 hour.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "summon-construct",
+    "name": "Summon Construct",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a lockbox worth 400+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "wizard"
+    ],
+    "text": "Summon the spirit of a Construct in an unoccupied space within 90 feet. Choose Clay, Metal or Stone for its form. It acts as your ally and shares your Initiative count right after yours, and vanishes at 0 Hit Points or when concentration ends. Lasts up to 1 hour.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "summon-elemental",
+    "name": "Summon Elemental",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger",
+      "wizard"
+    ],
+    "text": "Summon an Elemental spirit in an unoccupied space within 90 feet. Choose Air, Earth, Fire or Water for its form. It acts as your ally and shares your Initiative count right after yours, and vanishes at 0 Hit Points or when concentration ends. Lasts up to 1 hour.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "zone-of-amicability",
+    "name": "Zone of Amicability",
+    "source": "Arcana Unleashed",
+    "level": 4,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "10 minutes",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "warlock"
+    ],
+    "text": "For 10 minutes, a 60-foot Emanation around you makes people more agreeable. When you use an ability check to influence a creature in the area, you can treat a d20 roll of 9 or lower as a 10.",
+    "higherLevels": ""
+  },
+  {
+    "id": "mordenkainens-lucubration",
+    "name": "Mordenkainen's Lucubration",
+    "source": "Arcana Unleashed",
+    "level": 5,
+    "school": "Divination",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "wizard"
+    ],
+    "text": "Recover up to two expended spell slots of 2nd level or lower.",
+    "higherLevels": "The highest slot level you can recover rises to 3rd if you cast with a 6th or 7th level slot, or to 4th if you use an 8th level or higher slot."
+  },
+  {
+    "id": "negative-energy-flood",
+    "name": "Negative Energy Flood",
+    "source": "Arcana Unleashed",
+    "level": 5,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, M (a broken bone and a square of black silk)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "A creature within 60 feet that is not Undead makes a Constitution save, taking 3d10 + 25 Necrotic damage on a failure or half on a success. A Humanoid killed by it rises as a Zombie that obeys you for 24 hours. An Undead target instead gains 3d10 Temporary Hit Points.",
+    "higherLevels": "The damage increases by 1d10 for each spell slot level above 5."
+  },
+  {
+    "id": "songals-elemental-suffusion",
+    "name": "Songal's Elemental Suffusion",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 5,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a pearl worth 100+ GP)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "For up to 1 minute of concentration, you resist one of Acid, Cold, Fire, Lightning or Thunder damage and gain a 30-foot Fly Speed. Each turn you release a burst in a 15-foot Emanation where creatures make a Dexterity save or take 2d6 damage of your chosen element and fall Prone.",
+    "higherLevels": "Cast as a Circle spell (1 minute, up to 10 minutes) to share the effects with up to nine more creatures, each secondary caster spending a 2nd level or higher slot."
+  },
+  {
+    "id": "spirit-lantern",
+    "name": "Spirit Lantern",
+    "source": "Arcana Unleashed",
+    "level": 5,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a black lantern)",
+    "duration": "10 minutes",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "cleric",
+      "warlock",
+      "wizard"
+    ],
+    "text": "For 10 minutes, a floating black lantern sheds Dim Light in a 60-foot radius and collects soul fragments from enemies that die in it, up to your spellcasting modifier. As a Bonus Action you can spend a fragment to deal 4d8 plus your modifier Necrotic damage (half on a Constitution save), heal an Undead by that much, or give attackers Disadvantage against one creature.",
+    "higherLevels": ""
+  },
+  {
+    "id": "steel-wind-strike",
+    "name": "Steel Wind Strike",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "30 feet",
+    "components": "S, M (a Melee weapon worth 1+ SP)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "ranger",
+      "wizard"
+    ],
+    "text": "Make a melee spell attack against up to five creatures within 30 feet. Each hit deals 6d10 Force damage. Then you teleport to an unoccupied space within 5 feet of one of the targets.",
+    "higherLevels": ""
+  },
+  {
+    "id": "summon-celestial",
+    "name": "Summon Celestial",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a reliquary worth 500+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "cleric",
+      "paladin"
+    ],
+    "text": "Summon a Celestial spirit (Avenger or Defender) in an unoccupied space within 90 feet for up to 1 hour of concentration. It is your ally, acts right after you in initiative, and vanishes at 0 Hit Points.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "summon-plant",
+    "name": "Summon Plant",
+    "source": "Arcana Unleashed",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (herbs worth 500+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "text": "Summon a Plant Spirit (Fungus, Tree or Vine) in an unoccupied space within 90 feet for up to 1 hour of concentration. It is your ally, acts right after you in initiative, and vanishes at 0 Hit Points.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "swift-quiver",
+    "name": "Swift Quiver",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Transmutation",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a Quiver worth 1+ GP)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "ranger"
+    ],
+    "text": "When cast, and then as a Bonus Action each turn while concentrating for up to 1 minute, you can make two attacks with a bow or crossbow. The spell creates each arrow or bolt you need, and it vanishes after hitting or missing.",
+    "higherLevels": ""
+  },
+  {
+    "id": "synaptic-static",
+    "name": "Synaptic Static",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Creatures in a 20-foot-radius Sphere within 120 feet make an Intelligence save, taking 8d6 Psychic damage on a failure or half on a success. Those who fail are muddled for 1 minute, taking a -1d6 penalty to attacks, ability checks and Concentration saves, and can repeat the save at the end of each of their turns.",
+    "higherLevels": ""
+  },
+  {
+    "id": "waves-of-exhaustion",
+    "name": "Waves of Exhaustion",
+    "source": "Arcana Unleashed",
+    "level": 5,
+    "school": "Necromancy",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a piece of dried meat)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "For up to 1 minute of concentration, you can use a Magic action to send a wave of gray light in a 60-foot Cone. Creatures in it make a Constitution save or gain one Exhaustion level, up to a maximum of 4. The Exhaustion is removed when the spell ends.",
+    "higherLevels": ""
+  },
+  {
+    "id": "yolandes-regal-presence",
+    "name": "Yolande's Regal Presence",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a miniature tiara)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "wizard"
+    ],
+    "text": "For up to 1 minute of concentration, a 10-foot Emanation of majesty surrounds you. Creatures that enter it, or that start or end their turn in it while you can see them, make a Wisdom save or take 4d6 Psychic damage and fall Prone, and you can push them up to 10 feet. Half damage on a success; each creature rolls only once per turn.",
+    "higherLevels": ""
+  },
+  {
+    "id": "summon-dinosaur",
+    "name": "Summon Dinosaur",
+    "source": "Arcana Unleashed",
+    "level": 6,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (polished scale worth 600+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "druid"
+    ],
+    "text": "Summon a Dinosaur Spirit (Ankylosaur, Triceratops or Tyrannosaur) in an unoccupied space within 90 feet for up to 1 hour of concentration. It is your ally, acts right after you in initiative, and vanishes at 0 Hit Points.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "summon-fiend",
+    "name": "Summon Fiend",
+    "source": "Player's Handbook",
+    "level": 6,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a bloody vial worth 600+ GP)",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "Summon a Fiendish Spirit (Demon, Devil or Yugoloth) in an unoccupied space within 90 feet for up to 1 hour of concentration. It is your ally, acts right after you in initiative, and vanishes at 0 Hit Points.",
+    "higherLevels": "Use the slot level as the spirit's level when reading its stat block."
+  },
+  {
+    "id": "tashas-bubbling-cauldron",
+    "name": "Tasha's Bubbling Cauldron",
+    "source": "Player's Handbook",
+    "level": 6,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "5 feet",
+    "components": "V, S, M (a gilded ladle worth 500+ GP)",
+    "duration": "10 minutes",
+    "concentration": false,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "A cauldron appears within 5 feet for 10 minutes and brews a Common or Uncommon potion you choose. As a Bonus Action you or an ally can draw out one potion, up to your spellcasting modifier (minimum 1). When the last one is taken, the cauldron and the spell end.",
+    "higherLevels": ""
+  },
+  {
+    "id": "mordenkainens-sword",
+    "name": "Mordenkainen's Sword",
+    "source": "Player's Handbook",
+    "level": 7,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "90 feet",
+    "components": "V, S, M (a miniature sword worth 250+ GP)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "wizard"
+    ],
+    "text": "Create a spectral sword within 90 feet for up to 1 minute of concentration. When it appears it makes a melee spell attack against a creature within 5 feet, dealing 4d12 plus your spellcasting modifier Force damage on a hit. On later turns, as a Bonus Action, you can move it up to 30 feet and attack again.",
+    "higherLevels": ""
+  },
+  {
+    "id": "power-word-fortify",
+    "name": "Power Word Fortify",
+    "source": "Player's Handbook",
+    "level": 7,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 foot",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "cleric"
+    ],
+    "text": "Give up to six creatures you can see within 60 feet a total of 120 Temporary Hit Points, which you split among them however you like.",
+    "higherLevels": ""
+  },
+  {
+    "id": "power-word-pain",
+    "name": "Power Word Pain",
+    "source": "Arcana Unleashed",
+    "level": 7,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V",
+    "duration": "1 minute",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Speak a word of power at one creature within 60 feet. If it has 100 Hit Points or fewer it takes 6d8 Force damage and is Charmed for 1 minute, with its Speed cut to 10 feet and penalties on its non-Constitution D20 Tests. A Charmed target can make a Constitution save each turn to end the effect.",
+    "higherLevels": ""
+  },
+  {
+    "id": "reweave-fate",
+    "name": "Reweave Fate",
+    "source": "Arcana Unleashed",
+    "level": 7,
+    "school": "Divination",
+    "castingTime": "Reaction, which you take when a creature you can see within 60 feet of you fails a D20 Test",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "cleric",
+      "warlock",
+      "wizard"
+    ],
+    "text": "As a Reaction when a creature you can see within 60 feet fails a D20 Test, it rerolls with Advantage and must use the new result. If the reroll succeeds, it also gains 6d10 Temporary Hit Points.",
+    "higherLevels": ""
+  },
+  {
+    "id": "simbuls-synostodweomer",
+    "name": "Simbul's Synostodweomer",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 7,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "1 hour",
+    "concentration": false,
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Touch a creature to give it healing energy for 1 hour. Each time it casts a spell using a spell slot, it can roll unspent Hit Point Dice up to the slot's level and regain the total plus your spellcasting modifier.",
+    "higherLevels": ""
+  },
+  {
+    "id": "transfix",
+    "name": "Transfix",
+    "source": "Arcana Unleashed",
+    "level": 7,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "warlock",
+      "wizard"
+    ],
+    "text": "For up to 1 minute of concentration, your appearance becomes alluring. One creature within 60 feet makes a Charisma save or is Charmed and Incapacitated. While it is more than 5 feet away it moves toward you, it takes 4d8 Psychic damage if it ends a turn within 5 feet, and it can repeat the save before entering damaging terrain.",
+    "higherLevels": "The damage increases by 1d8 for each spell slot level above 7."
+  },
+  {
+    "id": "void-star",
+    "name": "Void Star",
+    "source": "D&D Beyond Drops - June 2026",
+    "level": 7,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S, M (a fragment of a meteor)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "Make a ranged spell attack against a creature within 120 feet. On a hit it takes 6d12 Necrotic damage. Hit or miss, it takes 3d12 Necrotic damage at the end of its next turn, and you regain Hit Points equal to that amount.",
+    "higherLevels": "The initial and delayed damage each increase by 1d12 for each spell slot level above 7."
+  },
+  {
+    "id": "moment-of-prescience",
+    "name": "Moment of Prescience",
+    "source": "Arcana Unleashed",
+    "level": 8,
+    "school": "Divination",
+    "castingTime": "Reaction, which you take when you fail a D20 Test or when a creature hits you with an attack roll",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "wizard"
+    ],
+    "text": "As a Reaction when you fail a D20 Test or a creature hits you with an attack, you can change the roll to a 20 for your test, or to a 1 for the attack.",
+    "higherLevels": ""
+  },
+  {
+    "id": "telepathy",
+    "name": "Telepathy",
+    "source": "Player's Handbook",
+    "level": 8,
+    "school": "Divination",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Unlimited",
+    "components": "V, S, M (a pair of linked silver rings)",
+    "duration": "24 hours",
+    "concentration": false,
+    "classes": [
+      "wizard"
+    ],
+    "text": "For 24 hours, you create a telepathic link with a willing creature you know that is anywhere on your plane. You can share words, images and sounds instantly, and the creature understands your messages. The link ends if either of you leaves the plane.",
+    "higherLevels": ""
+  },
+  {
+    "id": "vision-of-elapsing-eons",
+    "name": "Vision of Elapsing Eons",
+    "source": "Arcana Unleashed",
+    "level": 9,
+    "school": "Illusion",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S",
+    "duration": "1 minute",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "A creature within 120 feet makes an Intelligence save or takes 10d12 Psychic damage and is Paralyzed. It repeats the save at the end of each of its turns, gaining an Exhaustion level on a failure and ending the spell on a success. Someone within 5 feet can use an action to shake it free.",
+    "higherLevels": ""
+  },
+  {
+    "id": "wail-of-the-banshee",
+    "name": "Wail of the Banshee",
+    "source": "Arcana Unleashed",
+    "level": 9,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Scream at up to ten creatures within 60 feet. Any target with 50 Hit Points or fewer dies. Targets with more make a Constitution save and take 12d10 Psychic damage and become Deafened for 1 hour on a failure, or half damage on a success. Creatures that cannot hear you are unaffected.",
+    "higherLevels": ""
+  }
+]

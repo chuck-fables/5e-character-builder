@@ -1,0 +1,762 @@
+[
+ {
+  "id": "battleaxe",
+  "name": "Battleaxe",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered battleaxe, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "blowgun",
+  "name": "Blowgun",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered blowgun, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "club",
+  "name": "Club",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered club, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "dagger",
+  "name": "Dagger",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered dagger, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "dart",
+  "name": "Dart",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered dart, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "flail",
+  "name": "Flail",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered flail, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "glaive",
+  "name": "Glaive",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered glaive, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "greataxe",
+  "name": "Greataxe",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered greataxe, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "greatclub",
+  "name": "Greatclub",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered greatclub, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "greatsword",
+  "name": "Greatsword",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered greatsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "halberd",
+  "name": "Halberd",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered halberd, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "hand-crossbow",
+  "name": "Hand Crossbow",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered hand crossbow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "handaxe",
+  "name": "Handaxe",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered handaxe, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "heavy-crossbow",
+  "name": "Heavy Crossbow",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered heavy crossbow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "javelin",
+  "name": "Javelin",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered javelin, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "lance",
+  "name": "Lance",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered lance, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "light-crossbow",
+  "name": "Light Crossbow",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered light crossbow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "light-hammer",
+  "name": "Light Hammer",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered light hammer, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "longbow",
+  "name": "Longbow",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered longbow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "longsword",
+  "name": "Longsword",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mace",
+  "name": "Mace",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered mace, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "maul",
+  "name": "Maul",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered maul, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "morningstar",
+  "name": "Morningstar",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered morningstar, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "musket",
+  "name": "Musket",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered musket, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "pike",
+  "name": "Pike",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered pike, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "pistol",
+  "name": "Pistol",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered pistol, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "quarterstaff",
+  "name": "Quarterstaff",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered quarterstaff, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "rapier",
+  "name": "Rapier",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered rapier, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "scimitar",
+  "name": "Scimitar",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered scimitar, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "shortbow",
+  "name": "Shortbow",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered shortbow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "shortsword",
+  "name": "Shortsword",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered shortsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sickle",
+  "name": "Sickle",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered sickle, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sling",
+  "name": "Sling",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered sling, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "spear",
+  "name": "Spear",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered spear, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "trident",
+  "name": "Trident",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered trident, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "war-pick",
+  "name": "War Pick",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered war pick, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "warhammer",
+  "name": "Warhammer",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered warhammer, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "whip",
+  "name": "Whip",
+  "prompt": "fantasy painterly anime, fantasy weapon, centered whip, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "breastplate",
+  "name": "Breastplate",
+  "prompt": "fantasy painterly anime, fantasy armor, centered breastplate, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "chain-mail",
+  "name": "Chain Mail",
+  "prompt": "fantasy painterly anime, fantasy armor, centered chain mail, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "chain-shirt",
+  "name": "Chain Shirt",
+  "prompt": "fantasy painterly anime, fantasy armor, centered chain shirt, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "half-plate-armor",
+  "name": "Half Plate Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered half plate armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hide-armor",
+  "name": "Hide Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered hide armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "leather-armor",
+  "name": "Leather Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered leather armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "padded-armor",
+  "name": "Padded Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered padded armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plate-armor",
+  "name": "Plate Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered plate armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-mail",
+  "name": "Ring Mail",
+  "prompt": "fantasy painterly anime, fantasy armor, centered ring mail, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "scale-mail",
+  "name": "Scale Mail",
+  "prompt": "fantasy painterly anime, fantasy armor, centered scale mail, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "shield",
+  "name": "Shield",
+  "prompt": "fantasy painterly anime, fantasy shield, centered shield, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "splint-armor",
+  "name": "Splint Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered splint armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "studded-leather-armor",
+  "name": "Studded Leather Armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered studded leather armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "ammunition",
+  "name": "Ammunition",
+  "prompt": "fantasy painterly anime, fantasy item, centered arrows and crossbow bolts, no character, item only, solid black background"
+ },
+ {
+  "id": "arcane-focus",
+  "name": "Arcane Focus",
+  "prompt": "fantasy painterly anime, fantasy item, centered arcane focus, no character, item only, solid black background"
+ },
+ {
+  "id": "backpack",
+  "name": "Backpack",
+  "prompt": "fantasy painterly anime, fantasy item, centered backpack, no character, item only, solid black background"
+ },
+ {
+  "id": "ball-bearings",
+  "name": "Ball Bearings",
+  "prompt": "fantasy painterly anime, fantasy item, centered ball bearings, no character, item only, solid black background"
+ },
+ {
+  "id": "barrel",
+  "name": "Barrel",
+  "prompt": "fantasy painterly anime, fantasy item, centered barrel, no character, item only, solid black background"
+ },
+ {
+  "id": "basket",
+  "name": "Basket",
+  "prompt": "fantasy painterly anime, fantasy item, centered basket, no character, item only, solid black background"
+ },
+ {
+  "id": "bedroll",
+  "name": "Bedroll",
+  "prompt": "fantasy painterly anime, fantasy item, centered bedroll, no character, item only, solid black background"
+ },
+ {
+  "id": "bell",
+  "name": "Bell",
+  "prompt": "fantasy painterly anime, fantasy item, centered bell, no character, item only, solid black background"
+ },
+ {
+  "id": "blanket",
+  "name": "Blanket",
+  "prompt": "fantasy painterly anime, fantasy item, centered blanket, no character, item only, solid black background"
+ },
+ {
+  "id": "block-and-tackle",
+  "name": "Block and Tackle",
+  "prompt": "fantasy painterly anime, fantasy item, centered block and tackle, no character, item only, solid black background"
+ },
+ {
+  "id": "book",
+  "name": "Book",
+  "prompt": "fantasy painterly anime, fantasy item, centered leather-bound book, no character, item only, solid black background"
+ },
+ {
+  "id": "bottle-glass",
+  "name": "Bottle, Glass",
+  "prompt": "fantasy painterly anime, fantasy item, centered glass bottle, no character, item only, solid black background"
+ },
+ {
+  "id": "bucket",
+  "name": "Bucket",
+  "prompt": "fantasy painterly anime, fantasy item, centered bucket, no character, item only, solid black background"
+ },
+ {
+  "id": "burglars-pack",
+  "name": "Burglar's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered burglars pack, no character, item only, solid black background"
+ },
+ {
+  "id": "caltrops",
+  "name": "Caltrops",
+  "prompt": "fantasy painterly anime, fantasy item, centered caltrops, no character, item only, solid black background"
+ },
+ {
+  "id": "candle",
+  "name": "Candle",
+  "prompt": "fantasy painterly anime, fantasy item, centered candle, no character, item only, solid black background"
+ },
+ {
+  "id": "case-crossbow-bolt",
+  "name": "Case, Crossbow Bolt",
+  "prompt": "fantasy painterly anime, fantasy item, centered crossbow bolt case, no character, item only, solid black background"
+ },
+ {
+  "id": "case-map-or-scroll",
+  "name": "Case, Map or Scroll",
+  "prompt": "fantasy painterly anime, fantasy item, centered map or scroll case, no character, item only, solid black background"
+ },
+ {
+  "id": "chain",
+  "name": "Chain",
+  "prompt": "fantasy painterly anime, fantasy item, centered chain, no character, item only, solid black background"
+ },
+ {
+  "id": "chest",
+  "name": "Chest",
+  "prompt": "fantasy painterly anime, fantasy item, centered chest, no character, item only, solid black background"
+ },
+ {
+  "id": "climbers-kit",
+  "name": "Climber's Kit",
+  "prompt": "fantasy painterly anime, fantasy item, centered climbers kit, no character, item only, solid black background"
+ },
+ {
+  "id": "clothes-fine",
+  "name": "Clothes, Fine",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered fine clothes, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "clothes-travelers",
+  "name": "Clothes, Traveler's",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered travelers clothes, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "component-pouch",
+  "name": "Component Pouch",
+  "prompt": "fantasy painterly anime, fantasy item, centered component pouch, no character, item only, solid black background"
+ },
+ {
+  "id": "costume",
+  "name": "Costume",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered costume, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "crowbar",
+  "name": "Crowbar",
+  "prompt": "fantasy painterly anime, fantasy item, centered crowbar, no character, item only, solid black background"
+ },
+ {
+  "id": "diplomats-pack",
+  "name": "Diplomat's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered diplomats pack, no character, item only, solid black background"
+ },
+ {
+  "id": "druidic-focus",
+  "name": "Druidic Focus",
+  "prompt": "fantasy painterly anime, fantasy item, centered druidic focus, no character, item only, solid black background"
+ },
+ {
+  "id": "dungeoneers-pack",
+  "name": "Dungeoneer's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered dungeoneers pack, no character, item only, solid black background"
+ },
+ {
+  "id": "entertainers-pack",
+  "name": "Entertainer's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered entertainers pack, no character, item only, solid black background"
+ },
+ {
+  "id": "explorers-pack",
+  "name": "Explorer's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered explorers pack, no character, item only, solid black background"
+ },
+ {
+  "id": "flask",
+  "name": "Flask",
+  "prompt": "fantasy painterly anime, fantasy item, centered flask, no character, item only, solid black background"
+ },
+ {
+  "id": "grappling-hook",
+  "name": "Grappling Hook",
+  "prompt": "fantasy painterly anime, fantasy item, centered grappling hook, no character, item only, solid black background"
+ },
+ {
+  "id": "healers-kit",
+  "name": "Healer's Kit",
+  "prompt": "fantasy painterly anime, fantasy item, centered healers kit, no character, item only, solid black background"
+ },
+ {
+  "id": "holy-symbol",
+  "name": "Holy Symbol",
+  "prompt": "fantasy painterly anime, fantasy item, centered holy symbol, no character, item only, solid black background"
+ },
+ {
+  "id": "hunting-trap",
+  "name": "Hunting Trap",
+  "prompt": "fantasy painterly anime, fantasy item, centered hunting trap, no character, item only, solid black background"
+ },
+ {
+  "id": "ink",
+  "name": "Ink",
+  "prompt": "fantasy painterly anime, fantasy item, centered ink, no character, item only, solid black background"
+ },
+ {
+  "id": "ink-pen",
+  "name": "Ink Pen",
+  "prompt": "fantasy painterly anime, fantasy item, centered ink pen, no character, item only, solid black background"
+ },
+ {
+  "id": "jug",
+  "name": "Jug",
+  "prompt": "fantasy painterly anime, fantasy item, centered jug, no character, item only, solid black background"
+ },
+ {
+  "id": "ladder",
+  "name": "Ladder",
+  "prompt": "fantasy painterly anime, fantasy item, centered ladder, no character, item only, solid black background"
+ },
+ {
+  "id": "lamp",
+  "name": "Lamp",
+  "prompt": "fantasy painterly anime, fantasy item, centered lamp, no character, item only, solid black background"
+ },
+ {
+  "id": "lantern-bullseye",
+  "name": "Lantern, Bullseye",
+  "prompt": "fantasy painterly anime, fantasy item, centered bullseye lantern, no character, item only, solid black background"
+ },
+ {
+  "id": "lantern-hooded",
+  "name": "Lantern, Hooded",
+  "prompt": "fantasy painterly anime, fantasy item, centered hooded lantern, no character, item only, solid black background"
+ },
+ {
+  "id": "lock",
+  "name": "Lock",
+  "prompt": "fantasy painterly anime, fantasy item, centered lock, no character, item only, solid black background"
+ },
+ {
+  "id": "magnifying-glass",
+  "name": "Magnifying Glass",
+  "prompt": "fantasy painterly anime, fantasy item, centered magnifying glass, no character, item only, solid black background"
+ },
+ {
+  "id": "manacles",
+  "name": "Manacles",
+  "prompt": "fantasy painterly anime, fantasy item, centered manacles, no character, item only, solid black background"
+ },
+ {
+  "id": "map",
+  "name": "Map",
+  "prompt": "fantasy painterly anime, fantasy item, centered rolled map, no character, item only, solid black background"
+ },
+ {
+  "id": "mirror",
+  "name": "Mirror",
+  "prompt": "fantasy painterly anime, fantasy item, centered mirror, no character, item only, solid black background"
+ },
+ {
+  "id": "net",
+  "name": "Net",
+  "prompt": "fantasy painterly anime, fantasy item, centered net, no character, item only, solid black background"
+ },
+ {
+  "id": "paper",
+  "name": "Paper",
+  "prompt": "fantasy painterly anime, fantasy item, centered paper, no character, item only, solid black background"
+ },
+ {
+  "id": "parchment",
+  "name": "Parchment",
+  "prompt": "fantasy painterly anime, fantasy item, centered parchment, no character, item only, solid black background"
+ },
+ {
+  "id": "perfume",
+  "name": "Perfume",
+  "prompt": "fantasy painterly anime, fantasy item, centered perfume, no character, item only, solid black background"
+ },
+ {
+  "id": "pole",
+  "name": "Pole",
+  "prompt": "fantasy painterly anime, fantasy item, centered pole, no character, item only, solid black background"
+ },
+ {
+  "id": "pot-iron",
+  "name": "Pot, Iron",
+  "prompt": "fantasy painterly anime, fantasy item, centered iron pot, no character, item only, solid black background"
+ },
+ {
+  "id": "pouch",
+  "name": "Pouch",
+  "prompt": "fantasy painterly anime, fantasy item, centered pouch, no character, item only, solid black background"
+ },
+ {
+  "id": "priests-pack",
+  "name": "Priest's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered priests pack, no character, item only, solid black background"
+ },
+ {
+  "id": "quiver",
+  "name": "Quiver",
+  "prompt": "fantasy painterly anime, fantasy item, centered quiver, no character, item only, solid black background"
+ },
+ {
+  "id": "ram-portable",
+  "name": "Ram, Portable",
+  "prompt": "fantasy painterly anime, fantasy item, centered portable ram, no character, item only, solid black background"
+ },
+ {
+  "id": "robe",
+  "name": "Robe",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered robe, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "rope",
+  "name": "Rope",
+  "prompt": "fantasy painterly anime, fantasy item, centered rope, no character, item only, solid black background"
+ },
+ {
+  "id": "sack",
+  "name": "Sack",
+  "prompt": "fantasy painterly anime, fantasy item, centered sack, no character, item only, solid black background"
+ },
+ {
+  "id": "saddle",
+  "name": "Saddle",
+  "prompt": "fantasy painterly anime, fantasy item, centered saddle, no character, item only, solid black background"
+ },
+ {
+  "id": "saddle-exotic",
+  "name": "Saddle, Exotic",
+  "prompt": "fantasy painterly anime, fantasy item, centered exotic saddle, no character, item only, solid black background"
+ },
+ {
+  "id": "saddle-military",
+  "name": "Saddle, Military",
+  "prompt": "fantasy painterly anime, fantasy item, centered military saddle, no character, item only, solid black background"
+ },
+ {
+  "id": "saddle-riding",
+  "name": "Saddle, Riding",
+  "prompt": "fantasy painterly anime, fantasy item, centered riding saddle, no character, item only, solid black background"
+ },
+ {
+  "id": "scholars-pack",
+  "name": "Scholar's Pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered scholars pack, no character, item only, solid black background"
+ },
+ {
+  "id": "shovel",
+  "name": "Shovel",
+  "prompt": "fantasy painterly anime, fantasy item, centered shovel, no character, item only, solid black background"
+ },
+ {
+  "id": "signal-whistle",
+  "name": "Signal Whistle",
+  "prompt": "fantasy painterly anime, fantasy item, centered signal whistle, no character, item only, solid black background"
+ },
+ {
+  "id": "spikes-iron",
+  "name": "Spikes, Iron",
+  "prompt": "fantasy painterly anime, fantasy item, centered iron spikes, no character, item only, solid black background"
+ },
+ {
+  "id": "spyglass",
+  "name": "Spyglass",
+  "prompt": "fantasy painterly anime, fantasy item, centered spyglass, no character, item only, solid black background"
+ },
+ {
+  "id": "string",
+  "name": "String",
+  "prompt": "fantasy painterly anime, fantasy item, centered string, no character, item only, solid black background"
+ },
+ {
+  "id": "tent",
+  "name": "Tent",
+  "prompt": "fantasy painterly anime, fantasy item, centered tent, no character, item only, solid black background"
+ },
+ {
+  "id": "tinderbox",
+  "name": "Tinderbox",
+  "prompt": "fantasy painterly anime, fantasy item, centered tinderbox, no character, item only, solid black background"
+ },
+ {
+  "id": "torch",
+  "name": "Torch",
+  "prompt": "fantasy painterly anime, fantasy item, centered torch, no character, item only, solid black background"
+ },
+ {
+  "id": "vial",
+  "name": "Vial",
+  "prompt": "fantasy painterly anime, fantasy item, centered vial, no character, item only, solid black background"
+ },
+ {
+  "id": "waterskin",
+  "name": "Waterskin",
+  "prompt": "fantasy painterly anime, fantasy item, centered waterskin, no character, item only, solid black background"
+ },
+ {
+  "id": "alchemists-supplies",
+  "name": "Alchemist's Supplies",
+  "prompt": "fantasy painterly anime, fantasy tools, centered alchemists supplies, no character, item only, solid black background"
+ },
+ {
+  "id": "brewers-supplies",
+  "name": "Brewer's Supplies",
+  "prompt": "fantasy painterly anime, fantasy tools, centered brewers supplies, no character, item only, solid black background"
+ },
+ {
+  "id": "calligraphers-supplies",
+  "name": "Calligrapher's Supplies",
+  "prompt": "fantasy painterly anime, fantasy tools, centered calligraphers supplies, no character, item only, solid black background"
+ },
+ {
+  "id": "carpenters-tools",
+  "name": "Carpenter's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered carpenters tools, no character, item only, solid black background"
+ },
+ {
+  "id": "cartographers-tools",
+  "name": "Cartographer's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered cartographers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "cobblers-tools",
+  "name": "Cobbler's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered cobblers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "cooks-utensils",
+  "name": "Cook's Utensils",
+  "prompt": "fantasy painterly anime, fantasy tools, centered cooks utensils, no character, item only, solid black background"
+ },
+ {
+  "id": "disguise-kit",
+  "name": "Disguise Kit",
+  "prompt": "fantasy painterly anime, fantasy tools, centered disguise kit, no character, item only, solid black background"
+ },
+ {
+  "id": "forgery-kit",
+  "name": "Forgery Kit",
+  "prompt": "fantasy painterly anime, fantasy tools, centered forgery kit, no character, item only, solid black background"
+ },
+ {
+  "id": "gaming-set",
+  "name": "Gaming Set",
+  "prompt": "fantasy painterly anime, fantasy tools, centered gaming set, no character, item only, solid black background"
+ },
+ {
+  "id": "glassblowers-tools",
+  "name": "Glassblower's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered glassblowers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "herbalism-kit",
+  "name": "Herbalism Kit",
+  "prompt": "fantasy painterly anime, fantasy tools, centered herbalism kit, no character, item only, solid black background"
+ },
+ {
+  "id": "jewelers-tools",
+  "name": "Jeweler's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered jewelers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "leatherworkers-tools",
+  "name": "Leatherworker's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered leatherworkers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "masons-tools",
+  "name": "Mason's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered masons tools, no character, item only, solid black background"
+ },
+ {
+  "id": "musical-instrument",
+  "name": "Musical Instrument",
+  "prompt": "fantasy painterly anime, fantasy tools, centered musical instrument, no character, item only, solid black background"
+ },
+ {
+  "id": "navigators-tools",
+  "name": "Navigator's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered navigators tools, no character, item only, solid black background"
+ },
+ {
+  "id": "painters-supplies",
+  "name": "Painter's Supplies",
+  "prompt": "fantasy painterly anime, fantasy tools, centered painters supplies, no character, item only, solid black background"
+ },
+ {
+  "id": "poisoners-kit",
+  "name": "Poisoner's Kit",
+  "prompt": "fantasy painterly anime, fantasy tools, centered poisoners kit, no character, item only, solid black background"
+ },
+ {
+  "id": "potters-tools",
+  "name": "Potter's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered potters tools, no character, item only, solid black background"
+ },
+ {
+  "id": "smiths-tools",
+  "name": "Smith's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered smiths tools, no character, item only, solid black background"
+ },
+ {
+  "id": "thieves-tools",
+  "name": "Thieves' Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered thieves tools, no character, item only, solid black background"
+ },
+ {
+  "id": "tinkers-tools",
+  "name": "Tinker's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered tinkers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "weavers-tools",
+  "name": "Weaver's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered weavers tools, no character, item only, solid black background"
+ },
+ {
+  "id": "woodcarvers-tools",
+  "name": "Woodcarver's Tools",
+  "prompt": "fantasy painterly anime, fantasy tools, centered woodcarvers tools, no character, item only, solid black background"
+ }
+]

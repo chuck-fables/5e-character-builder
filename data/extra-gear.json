@@ -1,0 +1,100 @@
+[
+ {
+  "name": "Acid",
+  "cost": "25 GP",
+  "weight": 1,
+  "text": "When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Alchemist's Fire",
+  "cost": "50 GP",
+  "weight": 1,
+  "text": "When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Antitoxin",
+  "cost": "50 GP",
+  "weight": 0,
+  "text": "As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Holy Water",
+  "cost": "25 GP",
+  "weight": 1,
+  "text": "When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Oil",
+  "cost": "1 SP",
+  "weight": 1,
+  "text": "You can douse a creature, object, or space with Oil or use it as fuel, as detailed below.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Basic Poison",
+  "cost": "100 GP",
+  "weight": 0,
+  "text": "As a Bonus Action, you can use a vial of Basic Poison to coat one weapon or up to three pieces of ammunition.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Rations",
+  "cost": "5 SP",
+  "weight": 2,
+  "text": "Rations consist of travel ready food, including jerky, dried fruit, hardtack, and nuts.",
+  "source": "SRD 5.2"
+ },
+ {
+  "name": "Spellbook",
+  "cost": "50 GP",
+  "weight": 3,
+  "source": "SRD 5.2",
+  "text": "A leather-bound book with 100 blank vellum pages, used by wizards to record the spells they know."
+ },
+ {
+  "name": "Artisan's Tools",
+  "cost": "Varies",
+  "weight": 5,
+  "source": "SRD 5.2",
+  "text": "One set of artisan's tools of your choice (for example Carpenter's, Smith's or Weaver's Tools). Rename it to the kind you picked."
+ },
+ {
+  "name": "Arrows",
+  "cost": "1 GP per 20",
+  "weight": 0.05,
+  "source": "SRD 5.2",
+  "text": "Ammunition for a Longbow or Shortbow. A quiver holds 20."
+ },
+ {
+  "name": "Crossbow Bolts",
+  "cost": "1 GP per 20",
+  "weight": 0.075,
+  "source": "SRD 5.2",
+  "text": "Ammunition for a crossbow. A bolt case holds 20."
+ },
+ {
+  "name": "Sling Bullets",
+  "cost": "4 CP per 20",
+  "weight": 0.075,
+  "source": "SRD 5.2",
+  "text": "Ammunition for a Sling. A pouch holds 20."
+ },
+ {
+  "name": "Blowgun Needles",
+  "cost": "1 GP per 50",
+  "weight": 0.02,
+  "source": "SRD 5.2",
+  "text": "Ammunition for a Blowgun. A pouch holds 50."
+ },
+ {
+  "name": "Firearm Bullets",
+  "cost": "3 GP per 10",
+  "weight": 0.2,
+  "source": "SRD 5.2",
+  "text": "Ammunition for a Musket or Pistol. A pouch holds 10."
+ }
+]

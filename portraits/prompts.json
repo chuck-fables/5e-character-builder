@@ -1,0 +1,2802 @@
+[
+ {
+  "id": "p001",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with purple skin and curved horns, curly black hair, solid red eyes, grey ranger garments, thematic background"
+ },
+ {
+  "id": "p002",
+  "gender": "male",
+  "race": "human",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short brown hair, hazel eyes, midnight blue ranger garments, thematic background"
+ },
+ {
+  "id": "p003",
+  "gender": "female",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, short red hair, brown eyes, midnight blue paladin garments, thematic background"
+ },
+ {
+  "id": "p004",
+  "gender": "male",
+  "race": "human",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, wavy red hair, amber eyes, bronze druid garments, thematic background"
+ },
+ {
+  "id": "p005",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with ash grey skin and ram horns, short dark red hair, solid silver eyes, bronze ranger garments, thematic background"
+ },
+ {
+  "id": "p006",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, cropped ginger hair and a thick ginger beard, green eyes, rust red warlock garments, thematic background"
+ },
+ {
+  "id": "p007",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with copper scales, long backswept horns, green eyes, bronze warlock garments, thematic background"
+ },
+ {
+  "id": "p008",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with purple skin and ram horns, long midnight blue hair, violet eyes, teal sorcerer garments, thematic background"
+ },
+ {
+  "id": "p009",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, tied-back black hair and stubble, grey eyes, crimson artificer garments, thematic background"
+ },
+ {
+  "id": "p010",
+  "gender": "male",
+  "race": "halfling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, tied-back black hair, light blue eyes, dark green cleric garments, thematic background"
+ },
+ {
+  "id": "p011",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, shoulder-length brown hair and a thick brown beard, dark brown eyes, silver bard garments, thematic background"
+ },
+ {
+  "id": "p012",
+  "gender": "male",
+  "race": "gnome",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, messy white hair, bright blue eyes, purple bard garments, thematic background"
+ },
+ {
+  "id": "p013",
+  "gender": "female",
+  "race": "goliath",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, goliath with grey stone-marked skin, long black braid, amber eyes, silver wizard garments, thematic background"
+ },
+ {
+  "id": "p014",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with deep blue skin and tall straight horns, flowing white hair, solid silver eyes, brown leather rogue garments, thematic background"
+ },
+ {
+  "id": "p015",
+  "gender": "male",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, curly brown hair, dark brown eyes, forest green paladin garments, thematic background"
+ },
+ {
+  "id": "p016",
+  "gender": "male",
+  "race": "gnome",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, curly teal hair, violet eyes, white and gold druid garments, thematic background"
+ },
+ {
+  "id": "p017",
+  "gender": "male",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, curly auburn hair and a trimmed beard, hazel eyes, silver sorcerer garments, thematic background"
+ },
+ {
+  "id": "p018",
+  "gender": "female",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, braided red hair, green eyes, ivory warlock garments, thematic background"
+ },
+ {
+  "id": "p019",
+  "gender": "male",
+  "race": "halfling",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, short auburn hair, amber eyes, brown leather druid garments, thematic background"
+ },
+ {
+  "id": "p020",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with gold scales, swept-back horns and a scaled crest, amber eyes, crimson fighter garments, thematic background"
+ },
+ {
+  "id": "p021",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, curly blond hair, hazel eyes, bronze rogue garments, thematic background"
+ },
+ {
+  "id": "p022",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, messy platinum blond hair, brown eyes, forest green artificer garments, thematic background"
+ },
+ {
+  "id": "p023",
+  "gender": "female",
+  "race": "halfling",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, shoulder-length sandy hair, dark brown eyes, crimson barbarian garments, thematic background"
+ },
+ {
+  "id": "p024",
+  "gender": "female",
+  "race": "human",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, curly ash blond hair, brown eyes, ivory druid garments, thematic background"
+ },
+ {
+  "id": "p025",
+  "gender": "female",
+  "race": "gnome",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, gnome, short lavender hair, green eyes, rust red paladin garments, thematic background"
+ },
+ {
+  "id": "p026",
+  "gender": "male",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, shoulder-length dark brown hair, grey eyes, teal rogue garments, thematic background"
+ },
+ {
+  "id": "p027",
+  "gender": "male",
+  "race": "halfling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, messy honey blond hair, hazel eyes, grey paladin garments, thematic background"
+ },
+ {
+  "id": "p028",
+  "gender": "male",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, flowing brown hair and stubble, brown eyes, deep blue sorcerer garments, thematic background"
+ },
+ {
+  "id": "p029",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with bronze scales, long backswept horns, copper eyes, silver artificer garments, thematic background"
+ },
+ {
+  "id": "p030",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, curly silver hair, light blue eyes, black barbarian garments, thematic background"
+ },
+ {
+  "id": "p031",
+  "gender": "male",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back ash blond hair, green eyes, bronze sorcerer garments, thematic background"
+ },
+ {
+  "id": "p032",
+  "gender": "female",
+  "race": "halfling",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, flowing honey blond hair, green eyes, deep blue barbarian garments, thematic background"
+ },
+ {
+  "id": "p033",
+  "gender": "male",
+  "race": "elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, braided golden hair, silver eyes, silver sorcerer garments, thematic background"
+ },
+ {
+  "id": "p034",
+  "gender": "male",
+  "race": "elf",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, shoulder-length copper hair, gold eyes, black monk garments, thematic background"
+ },
+ {
+  "id": "p035",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, wavy red hair, blue eyes, bronze cleric garments, thematic background"
+ },
+ {
+  "id": "p036",
+  "gender": "male",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, long auburn hair, blue eyes, rust red fighter garments, thematic background"
+ },
+ {
+  "id": "p037",
+  "gender": "male",
+  "race": "human",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, long black hair and a short beard, amber eyes, rust red ranger garments, thematic background"
+ },
+ {
+  "id": "p038",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, long black hair, brown eyes, rust red druid garments, thematic background"
+ },
+ {
+  "id": "p039",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, flowing white hair, brown eyes, ivory wizard garments, thematic background"
+ },
+ {
+  "id": "p040",
+  "gender": "male",
+  "race": "halfling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, curly brown hair, hazel eyes, black paladin garments, thematic background"
+ },
+ {
+  "id": "p041",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey skin and small tusks, black topknot, amber eyes, brown leather barbarian garments, thematic background"
+ },
+ {
+  "id": "p042",
+  "gender": "male",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, flowing ash blond hair and a trimmed beard, grey eyes, midnight blue rogue garments, thematic background"
+ },
+ {
+  "id": "p043",
+  "gender": "female",
+  "race": "human",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, braided brown hair, brown eyes, silver bard garments, thematic background"
+ },
+ {
+  "id": "p044",
+  "gender": "female",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, messy brown hair, grey eyes, black rogue garments, thematic background"
+ },
+ {
+  "id": "p045",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with ash grey skin and swept-back horns, shoulder-length dark red hair, violet eyes, ivory artificer garments, thematic background"
+ },
+ {
+  "id": "p046",
+  "gender": "male",
+  "race": "gnome",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, tied-back white hair, hazel eyes, dark green warlock garments, thematic background"
+ },
+ {
+  "id": "p047",
+  "gender": "female",
+  "race": "elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, drow elf with dark grey skin, braided white hair, blue eyes, teal bard garments, thematic background"
+ },
+ {
+  "id": "p048",
+  "gender": "male",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, cropped dark brown hair, dark brown eyes, dark green fighter garments, thematic background"
+ },
+ {
+  "id": "p049",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, shoulder-length copper hair, brown eyes, ivory artificer garments, thematic background"
+ },
+ {
+  "id": "p050",
+  "gender": "male",
+  "race": "goliath",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, shaved head, light blue eyes, ivory bard garments, thematic background"
+ },
+ {
+  "id": "p051",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with gold scales, short horns and a frilled crest, silver eyes, black barbarian garments, thematic background"
+ },
+ {
+  "id": "p052",
+  "gender": "male",
+  "race": "elf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, braided copper hair, green eyes, white and gold cleric garments, thematic background"
+ },
+ {
+  "id": "p053",
+  "gender": "male",
+  "race": "gnome",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, short white hair, amber eyes, midnight blue cleric garments, thematic background"
+ },
+ {
+  "id": "p054",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with deep blue skin and swept-back horns, messy dark purple hair, solid gold eyes, midnight blue cleric garments, thematic background"
+ },
+ {
+  "id": "p055",
+  "gender": "female",
+  "race": "halfling",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, braided black hair, hazel eyes, rust red warlock garments, thematic background"
+ },
+ {
+  "id": "p056",
+  "gender": "male",
+  "race": "halfling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, tied-back honey blond hair, dark brown eyes, crimson sorcerer garments, thematic background"
+ },
+ {
+  "id": "p057",
+  "gender": "female",
+  "race": "elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, short dark brown hair, violet eyes, black artificer garments, thematic background"
+ },
+ {
+  "id": "p058",
+  "gender": "female",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, tied-back dark brown hair, green eyes, purple paladin garments, thematic background"
+ },
+ {
+  "id": "p059",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, messy chestnut hair, grey eyes, black wizard garments, thematic background"
+ },
+ {
+  "id": "p060",
+  "gender": "male",
+  "race": "goliath",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, short dark hair, grey eyes, deep blue rogue garments, thematic background"
+ },
+ {
+  "id": "p061",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, messy copper hair and a long copper beard, hazel eyes, purple warlock garments, thematic background"
+ },
+ {
+  "id": "p062",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey skin and small tusks, short black hair, amber eyes, earth-toned druid garments, thematic background"
+ },
+ {
+  "id": "p063",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with red skin and tall straight horns, flowing midnight blue hair, solid gold eyes, forest green fighter garments, thematic background"
+ },
+ {
+  "id": "p064",
+  "gender": "female",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, long brown hair, grey eyes, grey monk garments, thematic background"
+ },
+ {
+  "id": "p065",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with crimson skin and ram horns, braided white hair, solid silver eyes, black wizard garments, thematic background"
+ },
+ {
+  "id": "p066",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with deep blue skin and swept-back horns, long crimson hair, glowing amber eyes, purple monk garments, thematic background"
+ },
+ {
+  "id": "p067",
+  "gender": "female",
+  "race": "aasimar",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, aasimar with a faint radiant glow, messy white hair, glowing gold eyes, silver cleric garments, thematic background"
+ },
+ {
+  "id": "p068",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, short blond hair and a long blond beard, green eyes, midnight blue ranger garments, thematic background"
+ },
+ {
+  "id": "p069",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with red scales, long backswept horns, red eyes, teal warlock garments, thematic background"
+ },
+ {
+  "id": "p070",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with black scales, short horns and a frilled crest, green eyes, teal paladin garments, thematic background"
+ },
+ {
+  "id": "p071",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with crimson skin and tall straight horns, braided dark red hair, solid gold eyes, dark green monk garments, thematic background"
+ },
+ {
+  "id": "p072",
+  "gender": "male",
+  "race": "gnome",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, shoulder-length brown hair, bright blue eyes, black wizard garments, thematic background"
+ },
+ {
+  "id": "p073",
+  "gender": "male",
+  "race": "elf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, tied-back platinum blond hair, green eyes, crimson druid garments, thematic background"
+ },
+ {
+  "id": "p074",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, short silver hair, green eyes, rust red barbarian garments, thematic background"
+ },
+ {
+  "id": "p075",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, flowing black hair, pale blue eyes, deep blue druid garments, thematic background"
+ },
+ {
+  "id": "p076",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, tied-back brown hair, dark brown eyes, deep blue wizard garments, thematic background"
+ },
+ {
+  "id": "p077",
+  "gender": "male",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, long pale blond hair, green eyes, bronze wizard garments, thematic background"
+ },
+ {
+  "id": "p078",
+  "gender": "male",
+  "race": "elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, messy silver hair, violet eyes, ivory rogue garments, thematic background"
+ },
+ {
+  "id": "p079",
+  "gender": "female",
+  "race": "elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, shoulder-length black hair, amber eyes, black sorcerer garments, thematic background"
+ },
+ {
+  "id": "p080",
+  "gender": "female",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, messy brown hair, brown eyes, dark green wizard garments, thematic background"
+ },
+ {
+  "id": "p081",
+  "gender": "male",
+  "race": "elf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, shoulder-length white hair, violet eyes, midnight blue druid garments, thematic background"
+ },
+ {
+  "id": "p082",
+  "gender": "male",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, shoulder-length golden hair, silver eyes, crimson wizard garments, thematic background"
+ },
+ {
+  "id": "p083",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with brass scales, swept-back horns and a scaled crest, silver eyes, grey bard garments, thematic background"
+ },
+ {
+  "id": "p084",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, short red hair, hazel eyes, brown leather monk garments, thematic background"
+ },
+ {
+  "id": "p085",
+  "gender": "male",
+  "race": "elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, tied-back auburn hair, blue eyes, forest green bard garments, thematic background"
+ },
+ {
+  "id": "p086",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with crimson skin and tall straight horns, long dark purple hair, solid gold eyes, midnight blue paladin garments, thematic background"
+ },
+ {
+  "id": "p087",
+  "gender": "male",
+  "race": "halfling",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, tied-back black hair, amber eyes, brown leather bard garments, thematic background"
+ },
+ {
+  "id": "p088",
+  "gender": "male",
+  "race": "human",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, cropped ash blond hair and a trimmed beard, blue eyes, rust red ranger garments, thematic background"
+ },
+ {
+  "id": "p089",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with mossy green skin and small tusks, long brown hair, amber eyes, dark green paladin garments, thematic background"
+ },
+ {
+  "id": "p090",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, short grey hair, blue eyes, white and gold ranger garments, thematic background"
+ },
+ {
+  "id": "p091",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, wavy grey hair and a trimmed beard, amber eyes, teal rogue garments, thematic background"
+ },
+ {
+  "id": "p092",
+  "gender": "female",
+  "race": "halfling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, long honey blond hair, brown eyes, deep blue cleric garments, thematic background"
+ },
+ {
+  "id": "p093",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey-green skin and small tusks, tied-back dark brown hair and a short beard, grey eyes, grey druid garments, thematic background"
+ },
+ {
+  "id": "p094",
+  "gender": "female",
+  "race": "human",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, shoulder-length chestnut hair, dark brown eyes, black cleric garments, thematic background"
+ },
+ {
+  "id": "p095",
+  "gender": "male",
+  "race": "elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, long dark brown hair, silver eyes, white and gold rogue garments, thematic background"
+ },
+ {
+  "id": "p096",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, short copper hair and a long copper beard, brown eyes, silver warlock garments, thematic background"
+ },
+ {
+  "id": "p097",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, long copper hair, light blue eyes, rust red druid garments, thematic background"
+ },
+ {
+  "id": "p098",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with copper scales, swept-back horns and a scaled crest, red eyes, black wizard garments, thematic background"
+ },
+ {
+  "id": "p099",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with lavender skin and ram horns, flowing crimson hair, violet eyes, ivory fighter garments, thematic background"
+ },
+ {
+  "id": "p100",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with mossy green skin and small tusks, flowing black hair, yellow eyes, black bard garments, thematic background"
+ },
+ {
+  "id": "p101",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, tied-back copper hair, green eyes, purple rogue garments, thematic background"
+ },
+ {
+  "id": "p102",
+  "gender": "male",
+  "race": "human",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short dark brown hair, blue eyes, brown leather artificer garments, thematic background"
+ },
+ {
+  "id": "p103",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, braided brown hair and a forked brown beard, amber eyes, rust red artificer garments, thematic background"
+ },
+ {
+  "id": "p104",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, braided brown hair, brown eyes, rust red monk garments, thematic background"
+ },
+ {
+  "id": "p105",
+  "gender": "female",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, short copper hair, hazel eyes, forest green fighter garments, thematic background"
+ },
+ {
+  "id": "p106",
+  "gender": "male",
+  "race": "goliath",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, bald head, light blue eyes, bronze druid garments, thematic background"
+ },
+ {
+  "id": "p107",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with blue scales, long backswept horns, red eyes, forest green barbarian garments, thematic background"
+ },
+ {
+  "id": "p108",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, braided black hair and a braided black beard, amber eyes, purple ranger garments, thematic background"
+ },
+ {
+  "id": "p109",
+  "gender": "female",
+  "race": "human",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, short blond hair, blue eyes, forest green artificer garments, thematic background"
+ },
+ {
+  "id": "p110",
+  "gender": "female",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, wavy auburn hair, green eyes, forest green barbarian garments, thematic background"
+ },
+ {
+  "id": "p111",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back brown hair and stubble, brown eyes, silver warlock garments, thematic background"
+ },
+ {
+  "id": "p112",
+  "gender": "male",
+  "race": "gnome",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, wavy brown hair, hazel eyes, silver cleric garments, thematic background"
+ },
+ {
+  "id": "p113",
+  "gender": "female",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, cropped blond hair, grey eyes, midnight blue barbarian garments, thematic background"
+ },
+ {
+  "id": "p114",
+  "gender": "male",
+  "race": "gnome",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, braided copper hair, bright blue eyes, bronze fighter garments, thematic background"
+ },
+ {
+  "id": "p115",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with bronze scales, long backswept horns, gold eyes, brown leather monk garments, thematic background"
+ },
+ {
+  "id": "p116",
+  "gender": "male",
+  "race": "halfling",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, cropped sandy hair, light blue eyes, teal monk garments, thematic background"
+ },
+ {
+  "id": "p117",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with blue scales, swept-back horns and a scaled crest, copper eyes, rust red druid garments, thematic background"
+ },
+ {
+  "id": "p118",
+  "gender": "female",
+  "race": "elf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, elf, cropped black hair, amber eyes, brown leather ranger garments, thematic background"
+ },
+ {
+  "id": "p119",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with white scales, short horns and a frilled crest, copper eyes, grey warlock garments, thematic background"
+ },
+ {
+  "id": "p120",
+  "gender": "male",
+  "race": "gnome",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, messy white hair, violet eyes, grey cleric garments, thematic background"
+ },
+ {
+  "id": "p121",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, long chestnut hair, blue eyes, silver rogue garments, thematic background"
+ },
+ {
+  "id": "p122",
+  "gender": "male",
+  "race": "gnome",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, shoulder-length white hair, green eyes, earth-toned barbarian garments, thematic background"
+ },
+ {
+  "id": "p123",
+  "gender": "female",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, messy grey hair, hazel eyes, crimson barbarian garments, thematic background"
+ },
+ {
+  "id": "p124",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey-green skin and small tusks, braided grey hair, brown eyes, brown leather rogue garments, thematic background"
+ },
+ {
+  "id": "p125",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, flowing chestnut hair and a trimmed beard, amber eyes, black warlock garments, thematic background"
+ },
+ {
+  "id": "p126",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, short copper hair, hazel eyes, ivory rogue garments, thematic background"
+ },
+ {
+  "id": "p127",
+  "gender": "female",
+  "race": "elf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, cropped golden hair, green eyes, grey cleric garments, thematic background"
+ },
+ {
+  "id": "p128",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, tied-back platinum blond hair, dark brown eyes, deep blue druid garments, thematic background"
+ },
+ {
+  "id": "p129",
+  "gender": "female",
+  "race": "halfling",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, short honey blond hair, green eyes, bronze warlock garments, thematic background"
+ },
+ {
+  "id": "p130",
+  "gender": "male",
+  "race": "halfling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, curly sandy hair, brown eyes, brown leather paladin garments, thematic background"
+ },
+ {
+  "id": "p131",
+  "gender": "female",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, tied-back black hair, amber eyes, earth-toned rogue garments, thematic background"
+ },
+ {
+  "id": "p132",
+  "gender": "male",
+  "race": "human",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, wavy chestnut hair, amber eyes, black artificer garments, thematic background"
+ },
+ {
+  "id": "p133",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, braided black hair, light blue eyes, forest green artificer garments, thematic background"
+ },
+ {
+  "id": "p134",
+  "gender": "female",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, cropped blond hair, green eyes, rust red rogue garments, thematic background"
+ },
+ {
+  "id": "p135",
+  "gender": "female",
+  "race": "halfling",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, cropped honey blond hair, dark brown eyes, white and gold druid garments, thematic background"
+ },
+ {
+  "id": "p136",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, short ginger hair, brown eyes, bronze barbarian garments, thematic background"
+ },
+ {
+  "id": "p137",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, tied-back black hair and a forked black beard, brown eyes, rust red ranger garments, thematic background"
+ },
+ {
+  "id": "p138",
+  "gender": "male",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short brown hair, dark brown eyes, earth-toned fighter garments, thematic background"
+ },
+ {
+  "id": "p139",
+  "gender": "male",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, flowing black hair, blue eyes, dark green sorcerer garments, thematic background"
+ },
+ {
+  "id": "p140",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, long platinum blond hair, pale blue eyes, purple bard garments, thematic background"
+ },
+ {
+  "id": "p141",
+  "gender": "female",
+  "race": "gnome",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, gnome, short copper hair, hazel eyes, deep blue barbarian garments, thematic background"
+ },
+ {
+  "id": "p142",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with bronze scales, short horns and a frilled crest, green eyes, black sorcerer garments, thematic background"
+ },
+ {
+  "id": "p143",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, long auburn hair, glowing gold eyes, purple ranger garments, thematic background"
+ },
+ {
+  "id": "p144",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with crimson skin and tall straight horns, messy dark red hair, violet eyes, silver wizard garments, thematic background"
+ },
+ {
+  "id": "p145",
+  "gender": "male",
+  "race": "gnome",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, long pink hair, violet eyes, black sorcerer garments, thematic background"
+ },
+ {
+  "id": "p146",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, curly white hair and a long white beard, blue eyes, forest green druid garments, thematic background"
+ },
+ {
+  "id": "p147",
+  "gender": "male",
+  "race": "gnome",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, wavy copper hair, green eyes, black sorcerer garments, thematic background"
+ },
+ {
+  "id": "p148",
+  "gender": "male",
+  "race": "human",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, shoulder-length dark brown hair, blue eyes, teal bard garments, thematic background"
+ },
+ {
+  "id": "p149",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, long platinum blond hair, glowing silver eyes, forest green artificer garments, thematic background"
+ },
+ {
+  "id": "p150",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey skin and small tusks, wavy black hair, dark brown eyes, bronze warlock garments, thematic background"
+ },
+ {
+  "id": "p151",
+  "gender": "male",
+  "race": "elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, short dark brown hair, violet eyes, deep blue artificer garments, thematic background"
+ },
+ {
+  "id": "p152",
+  "gender": "male",
+  "race": "elf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, messy white hair, blue eyes, black cleric garments, thematic background"
+ },
+ {
+  "id": "p153",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with mossy green skin and small tusks, shaved head, grey eyes, bronze artificer garments, thematic background"
+ },
+ {
+  "id": "p154",
+  "gender": "male",
+  "race": "elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, tied-back black hair, amber eyes, brown leather artificer garments, thematic background"
+ },
+ {
+  "id": "p155",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, flowing blond hair, light blue eyes, purple bard garments, thematic background"
+ },
+ {
+  "id": "p156",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, messy black hair, brown eyes, deep blue warlock garments, thematic background"
+ },
+ {
+  "id": "p157",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with crimson skin and ram horns, messy midnight blue hair, solid silver eyes, forest green paladin garments, thematic background"
+ },
+ {
+  "id": "p158",
+  "gender": "male",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, shoulder-length chestnut hair, blue eyes, silver paladin garments, thematic background"
+ },
+ {
+  "id": "p159",
+  "gender": "male",
+  "race": "goliath",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, long black braid, grey eyes, deep blue sorcerer garments, thematic background"
+ },
+ {
+  "id": "p160",
+  "gender": "female",
+  "race": "halfling",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, long auburn hair, hazel eyes, silver warlock garments, thematic background"
+ },
+ {
+  "id": "p161",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, curly brown hair, blue eyes, deep blue warlock garments, thematic background"
+ },
+ {
+  "id": "p162",
+  "gender": "male",
+  "race": "halfling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, messy brown hair, dark brown eyes, white and gold paladin garments, thematic background"
+ },
+ {
+  "id": "p163",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, long platinum blond hair and a trimmed beard, amber eyes, midnight blue rogue garments, thematic background"
+ },
+ {
+  "id": "p164",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, long grey hair and a trimmed beard, amber eyes, midnight blue cleric garments, thematic background"
+ },
+ {
+  "id": "p165",
+  "gender": "male",
+  "race": "halfling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, shoulder-length black hair, hazel eyes, forest green fighter garments, thematic background"
+ },
+ {
+  "id": "p166",
+  "gender": "male",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, flowing red hair, green eyes, earth-toned monk garments, thematic background"
+ },
+ {
+  "id": "p167",
+  "gender": "female",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, short chestnut hair, brown eyes, brown leather monk garments, thematic background"
+ },
+ {
+  "id": "p168",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with red scales, short horns and a frilled crest, red eyes, teal wizard garments, thematic background"
+ },
+ {
+  "id": "p169",
+  "gender": "female",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, flowing grey hair, light blue eyes, midnight blue wizard garments, thematic background"
+ },
+ {
+  "id": "p170",
+  "gender": "male",
+  "race": "elf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, shoulder-length dark brown hair, amber eyes, purple druid garments, thematic background"
+ },
+ {
+  "id": "p171",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with crimson skin and ram horns, messy black hair, solid red eyes, forest green sorcerer garments, thematic background"
+ },
+ {
+  "id": "p172",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with silver scales, long backswept horns, amber eyes, teal warlock garments, thematic background"
+ },
+ {
+  "id": "p173",
+  "gender": "male",
+  "race": "elf",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, short golden hair, violet eyes, brown leather monk garments, thematic background"
+ },
+ {
+  "id": "p174",
+  "gender": "male",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, wavy red hair, blue eyes, rust red paladin garments, thematic background"
+ },
+ {
+  "id": "p175",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, long grey hair and a long grey beard, amber eyes, bronze barbarian garments, thematic background"
+ },
+ {
+  "id": "p176",
+  "gender": "female",
+  "race": "elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, shoulder-length pale blond hair, silver eyes, teal sorcerer garments, thematic background"
+ },
+ {
+  "id": "p177",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, curly brown hair, dark brown eyes, black sorcerer garments, thematic background"
+ },
+ {
+  "id": "p178",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with copper scales, swept-back horns and a scaled crest, amber eyes, purple barbarian garments, thematic background"
+ },
+ {
+  "id": "p179",
+  "gender": "female",
+  "race": "aasimar",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, aasimar with a faint radiant glow, messy white hair, pale blue eyes, teal monk garments, thematic background"
+ },
+ {
+  "id": "p180",
+  "gender": "male",
+  "race": "human",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, flowing red hair, light blue eyes, forest green cleric garments, thematic background"
+ },
+ {
+  "id": "p181",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with red skin and curved horns, braided dark purple hair, violet eyes, silver wizard garments, thematic background"
+ },
+ {
+  "id": "p182",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, wavy ginger hair and a forked ginger beard, blue eyes, midnight blue rogue garments, thematic background"
+ },
+ {
+  "id": "p183",
+  "gender": "female",
+  "race": "halfling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, flowing honey blond hair, hazel eyes, earth-toned sorcerer garments, thematic background"
+ },
+ {
+  "id": "p184",
+  "gender": "male",
+  "race": "elf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, shoulder-length platinum blond hair, amber eyes, rust red druid garments, thematic background"
+ },
+ {
+  "id": "p185",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with purple skin and tall straight horns, short crimson hair, violet eyes, ivory wizard garments, thematic background"
+ },
+ {
+  "id": "p186",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey-green skin and small tusks, shaved head, dark brown eyes, crimson monk garments, thematic background"
+ },
+ {
+  "id": "p187",
+  "gender": "male",
+  "race": "gnome",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, curly white hair, hazel eyes, midnight blue barbarian garments, thematic background"
+ },
+ {
+  "id": "p188",
+  "gender": "male",
+  "race": "human",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, long dark brown hair, grey eyes, silver druid garments, thematic background"
+ },
+ {
+  "id": "p189",
+  "gender": "male",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, shoulder-length dark brown hair, hazel eyes, silver wizard garments, thematic background"
+ },
+ {
+  "id": "p190",
+  "gender": "female",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, braided auburn hair, light blue eyes, rust red wizard garments, thematic background"
+ },
+ {
+  "id": "p191",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, curly red hair and a long red beard, light blue eyes, bronze ranger garments, thematic background"
+ },
+ {
+  "id": "p192",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with green scales, short horns and a frilled crest, red eyes, dark green sorcerer garments, thematic background"
+ },
+ {
+  "id": "p193",
+  "gender": "male",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back red hair and a trimmed beard, light blue eyes, forest green wizard garments, thematic background"
+ },
+ {
+  "id": "p194",
+  "gender": "female",
+  "race": "human",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, braided chestnut hair, blue eyes, white and gold cleric garments, thematic background"
+ },
+ {
+  "id": "p195",
+  "gender": "male",
+  "race": "halfling",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, curly honey blond hair, light blue eyes, purple druid garments, thematic background"
+ },
+ {
+  "id": "p196",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with purple skin and tall straight horns, braided crimson hair, solid red eyes, purple artificer garments, thematic background"
+ },
+ {
+  "id": "p197",
+  "gender": "male",
+  "race": "elf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, tied-back black hair, violet eyes, deep blue paladin garments, thematic background"
+ },
+ {
+  "id": "p198",
+  "gender": "male",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, messy dark brown hair, blue eyes, forest green rogue garments, thematic background"
+ },
+ {
+  "id": "p199",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with mossy green skin and small tusks, tied-back white hair, yellow eyes, dark green barbarian garments, thematic background"
+ },
+ {
+  "id": "p200",
+  "gender": "male",
+  "race": "gnome",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, tied-back lavender hair, amber eyes, grey bard garments, thematic background"
+ },
+ {
+  "id": "p201",
+  "gender": "female",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, shoulder-length red hair, amber eyes, midnight blue sorcerer garments, thematic background"
+ },
+ {
+  "id": "p202",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with mossy green skin and small tusks, messy dark brown hair and a short beard, dark brown eyes, midnight blue monk garments, thematic background"
+ },
+ {
+  "id": "p203",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, short chestnut hair and stubble, hazel eyes, deep blue bard garments, thematic background"
+ },
+ {
+  "id": "p204",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with olive green skin and small tusks, long brown hair, dark brown eyes, teal bard garments, thematic background"
+ },
+ {
+  "id": "p205",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey-green skin and small tusks, shaved head, amber eyes, silver druid garments, thematic background"
+ },
+ {
+  "id": "p206",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, long white hair and a braided white beard, hazel eyes, bronze paladin garments, thematic background"
+ },
+ {
+  "id": "p207",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with olive green skin and small tusks, shoulder-length grey hair, dark brown eyes, ivory artificer garments, thematic background"
+ },
+ {
+  "id": "p208",
+  "gender": "male",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, shoulder-length grey hair and a trimmed beard, hazel eyes, brown leather monk garments, thematic background"
+ },
+ {
+  "id": "p209",
+  "gender": "male",
+  "race": "halfling",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, wavy brown hair, grey eyes, black ranger garments, thematic background"
+ },
+ {
+  "id": "p210",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, braided red hair and a braided red beard, light blue eyes, grey warlock garments, thematic background"
+ },
+ {
+  "id": "p211",
+  "gender": "male",
+  "race": "elf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, short silver hair, gold eyes, white and gold paladin garments, thematic background"
+ },
+ {
+  "id": "p212",
+  "gender": "male",
+  "race": "gnome",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, shoulder-length white hair, green eyes, purple monk garments, thematic background"
+ },
+ {
+  "id": "p213",
+  "gender": "male",
+  "race": "elf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, curly black hair, violet eyes, dark green paladin garments, thematic background"
+ },
+ {
+  "id": "p214",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey-green skin and small tusks, mohawk, yellow eyes, white and gold fighter garments, thematic background"
+ },
+ {
+  "id": "p215",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, tied-back white hair, yellow eyes, midnight blue artificer garments, thematic background"
+ },
+ {
+  "id": "p216",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with red skin and swept-back horns, cropped black hair, solid gold eyes, forest green sorcerer garments, thematic background"
+ },
+ {
+  "id": "p217",
+  "gender": "male",
+  "race": "elf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, short black hair, amber eyes, ivory paladin garments, thematic background"
+ },
+ {
+  "id": "p218",
+  "gender": "male",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short dark brown hair, hazel eyes, white and gold wizard garments, thematic background"
+ },
+ {
+  "id": "p219",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with deep blue skin and curved horns, messy dark red hair, solid red eyes, silver cleric garments, thematic background"
+ },
+ {
+  "id": "p220",
+  "gender": "female",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, flowing copper hair, amber eyes, white and gold sorcerer garments, thematic background"
+ },
+ {
+  "id": "p221",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, cropped red hair and a thick red beard, hazel eyes, earth-toned monk garments, thematic background"
+ },
+ {
+  "id": "p222",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, curly black hair, glowing silver eyes, grey bard garments, thematic background"
+ },
+ {
+  "id": "p223",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, long red hair, brown eyes, earth-toned rogue garments, thematic background"
+ },
+ {
+  "id": "p224",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back brown hair, amber eyes, midnight blue warlock garments, thematic background"
+ },
+ {
+  "id": "p225",
+  "gender": "female",
+  "race": "aasimar",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, aasimar with a faint radiant glow, long white hair, pale blue eyes, brown leather sorcerer garments, thematic background"
+ },
+ {
+  "id": "p226",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey-green skin and small tusks, tied-back dark brown hair, yellow eyes, white and gold druid garments, thematic background"
+ },
+ {
+  "id": "p227",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with deep blue skin and curved horns, long dark purple hair, solid silver eyes, rust red rogue garments, thematic background"
+ },
+ {
+  "id": "p228",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, cropped black hair and a forked black beard, hazel eyes, rust red cleric garments, thematic background"
+ },
+ {
+  "id": "p229",
+  "gender": "male",
+  "race": "gnome",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, short lavender hair, hazel eyes, forest green barbarian garments, thematic background"
+ },
+ {
+  "id": "p230",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with green scales, long backswept horns, green eyes, deep blue druid garments, thematic background"
+ },
+ {
+  "id": "p231",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with white scales, short horns and a frilled crest, green eyes, dark green paladin garments, thematic background"
+ },
+ {
+  "id": "p232",
+  "gender": "male",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, curly dark brown hair, light blue eyes, grey monk garments, thematic background"
+ },
+ {
+  "id": "p233",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, braided white hair, glowing silver eyes, brown leather bard garments, thematic background"
+ },
+ {
+  "id": "p234",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, curly copper hair, blue eyes, deep blue bard garments, thematic background"
+ },
+ {
+  "id": "p235",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with brass scales, short horns and a frilled crest, copper eyes, purple cleric garments, thematic background"
+ },
+ {
+  "id": "p236",
+  "gender": "female",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, braided black hair, brown eyes, purple barbarian garments, thematic background"
+ },
+ {
+  "id": "p237",
+  "gender": "female",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, messy red hair, blue eyes, rust red rogue garments, thematic background"
+ },
+ {
+  "id": "p238",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short grey hair and a short beard, green eyes, black warlock garments, thematic background"
+ },
+ {
+  "id": "p239",
+  "gender": "female",
+  "race": "goliath",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, goliath with grey stone-marked skin, long black braid, blue eyes, rust red ranger garments, thematic background"
+ },
+ {
+  "id": "p240",
+  "gender": "male",
+  "race": "elf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, curly platinum blond hair, violet eyes, bronze cleric garments, thematic background"
+ },
+ {
+  "id": "p241",
+  "gender": "male",
+  "race": "human",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short copper hair and a short beard, brown eyes, earth-toned artificer garments, thematic background"
+ },
+ {
+  "id": "p242",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, cropped copper hair, grey eyes, brown leather fighter garments, thematic background"
+ },
+ {
+  "id": "p243",
+  "gender": "female",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, curly copper hair, grey eyes, teal monk garments, thematic background"
+ },
+ {
+  "id": "p244",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, shoulder-length copper hair, blue eyes, teal ranger garments, thematic background"
+ },
+ {
+  "id": "p245",
+  "gender": "male",
+  "race": "human",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, long ash blond hair and a trimmed beard, amber eyes, rust red artificer garments, thematic background"
+ },
+ {
+  "id": "p246",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, cropped grey hair and a thick grey beard, grey eyes, purple fighter garments, thematic background"
+ },
+ {
+  "id": "p247",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with olive green skin and small tusks, shaved head, yellow eyes, forest green ranger garments, thematic background"
+ },
+ {
+  "id": "p248",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, short auburn hair, hazel eyes, purple bard garments, thematic background"
+ },
+ {
+  "id": "p249",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, shoulder-length black hair and a thick black beard, hazel eyes, black fighter garments, thematic background"
+ },
+ {
+  "id": "p250",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, short copper hair, hazel eyes, rust red warlock garments, thematic background"
+ },
+ {
+  "id": "p251",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, messy silver hair, dark brown eyes, ivory rogue garments, thematic background"
+ },
+ {
+  "id": "p252",
+  "gender": "male",
+  "race": "halfling",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, curly brown hair, amber eyes, teal bard garments, thematic background"
+ },
+ {
+  "id": "p253",
+  "gender": "male",
+  "race": "human",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, shoulder-length auburn hair, dark brown eyes, rust red ranger garments, thematic background"
+ },
+ {
+  "id": "p254",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, braided golden hair, glowing silver eyes, silver ranger garments, thematic background"
+ },
+ {
+  "id": "p255",
+  "gender": "male",
+  "race": "human",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, long copper hair, grey eyes, silver artificer garments, thematic background"
+ },
+ {
+  "id": "p256",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, cropped platinum blond hair and a short beard, green eyes, brown leather bard garments, thematic background"
+ },
+ {
+  "id": "p257",
+  "gender": "male",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, cropped ash blond hair and stubble, brown eyes, silver monk garments, thematic background"
+ },
+ {
+  "id": "p258",
+  "gender": "male",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short black hair, grey eyes, earth-toned monk garments, thematic background"
+ },
+ {
+  "id": "p259",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, messy black hair, hazel eyes, ivory sorcerer garments, thematic background"
+ },
+ {
+  "id": "p260",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey skin and small tusks, braided brown hair, brown eyes, brown leather warlock garments, thematic background"
+ },
+ {
+  "id": "p261",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with lavender skin and tall straight horns, messy dark red hair, solid red eyes, grey cleric garments, thematic background"
+ },
+ {
+  "id": "p262",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with ash grey skin and curved horns, braided dark red hair, solid silver eyes, dark green artificer garments, thematic background"
+ },
+ {
+  "id": "p263",
+  "gender": "male",
+  "race": "human",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, braided brown hair and a short beard, light blue eyes, rust red bard garments, thematic background"
+ },
+ {
+  "id": "p264",
+  "gender": "male",
+  "race": "elf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, shoulder-length dark brown hair, green eyes, white and gold barbarian garments, thematic background"
+ },
+ {
+  "id": "p265",
+  "gender": "male",
+  "race": "human",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short red hair, green eyes, brown leather druid garments, thematic background"
+ },
+ {
+  "id": "p266",
+  "gender": "male",
+  "race": "goliath",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, shaved head, blue eyes, black ranger garments, thematic background"
+ },
+ {
+  "id": "p267",
+  "gender": "female",
+  "race": "human",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, curly grey hair, blue eyes, ivory wizard garments, thematic background"
+ },
+ {
+  "id": "p268",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey-green skin and small tusks, mohawk, yellow eyes, dark green bard garments, thematic background"
+ },
+ {
+  "id": "p269",
+  "gender": "male",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, wavy copper hair and a trimmed beard, hazel eyes, silver monk garments, thematic background"
+ },
+ {
+  "id": "p270",
+  "gender": "female",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, cropped ash blond hair, blue eyes, silver rogue garments, thematic background"
+ },
+ {
+  "id": "p271",
+  "gender": "female",
+  "race": "halfling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, cropped black hair, blue eyes, crimson sorcerer garments, thematic background"
+ },
+ {
+  "id": "p272",
+  "gender": "male",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, messy dark brown hair, brown eyes, ivory paladin garments, thematic background"
+ },
+ {
+  "id": "p273",
+  "gender": "male",
+  "race": "goliath",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, short dark hair, brown eyes, black paladin garments, thematic background"
+ },
+ {
+  "id": "p274",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with crimson skin and tall straight horns, tied-back dark purple hair, glowing amber eyes, deep blue paladin garments, thematic background"
+ },
+ {
+  "id": "p275",
+  "gender": "female",
+  "race": "elf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, long copper hair, amber eyes, crimson cleric garments, thematic background"
+ },
+ {
+  "id": "p276",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, tied-back copper hair and a short beard, brown eyes, earth-toned ranger garments, thematic background"
+ },
+ {
+  "id": "p277",
+  "gender": "male",
+  "race": "human",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short brown hair and a trimmed beard, blue eyes, deep blue cleric garments, thematic background"
+ },
+ {
+  "id": "p278",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with deep blue skin and swept-back horns, curly black hair, solid silver eyes, brown leather sorcerer garments, thematic background"
+ },
+ {
+  "id": "p279",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, braided dark brown hair, yellow eyes, black monk garments, thematic background"
+ },
+ {
+  "id": "p280",
+  "gender": "male",
+  "race": "goliath",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, short dark hair, amber eyes, brown leather bard garments, thematic background"
+ },
+ {
+  "id": "p281",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, braided auburn hair, grey eyes, purple paladin garments, thematic background"
+ },
+ {
+  "id": "p282",
+  "gender": "female",
+  "race": "human",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, long copper hair, hazel eyes, crimson ranger garments, thematic background"
+ },
+ {
+  "id": "p283",
+  "gender": "male",
+  "race": "goliath",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, shaved head, grey eyes, ivory warlock garments, thematic background"
+ },
+ {
+  "id": "p284",
+  "gender": "female",
+  "race": "elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, wood elf, long black hair, violet eyes, forest green sorcerer garments, thematic background"
+ },
+ {
+  "id": "p285",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with crimson skin and tall straight horns, short crimson hair, glowing amber eyes, silver barbarian garments, thematic background"
+ },
+ {
+  "id": "p286",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, cropped brown hair, blue eyes, rust red artificer garments, thematic background"
+ },
+ {
+  "id": "p287",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey-green skin and small tusks, braided brown hair, dark brown eyes, ivory monk garments, thematic background"
+ },
+ {
+  "id": "p288",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, messy brown hair and a braided brown beard, dark brown eyes, brown leather wizard garments, thematic background"
+ },
+ {
+  "id": "p289",
+  "gender": "male",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, wavy dark brown hair, light blue eyes, dark green barbarian garments, thematic background"
+ },
+ {
+  "id": "p290",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with green scales, short horns and a frilled crest, amber eyes, dark green fighter garments, thematic background"
+ },
+ {
+  "id": "p291",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with brass scales, short horns and a frilled crest, red eyes, black rogue garments, thematic background"
+ },
+ {
+  "id": "p292",
+  "gender": "male",
+  "race": "gnome",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, curly lavender hair, bright blue eyes, brown leather fighter garments, thematic background"
+ },
+ {
+  "id": "p293",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, long black hair and a short beard, brown eyes, grey sorcerer garments, thematic background"
+ },
+ {
+  "id": "p294",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, short blond hair, grey eyes, white and gold rogue garments, thematic background"
+ },
+ {
+  "id": "p295",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with purple skin and swept-back horns, long dark purple hair, glowing amber eyes, deep blue fighter garments, thematic background"
+ },
+ {
+  "id": "p296",
+  "gender": "female",
+  "race": "gnome",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, gnome, shoulder-length copper hair, violet eyes, teal monk garments, thematic background"
+ },
+ {
+  "id": "p297",
+  "gender": "female",
+  "race": "elf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, wood elf, cropped black hair, gold eyes, midnight blue warlock garments, thematic background"
+ },
+ {
+  "id": "p298",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, shoulder-length white hair, brown eyes, brown leather fighter garments, thematic background"
+ },
+ {
+  "id": "p299",
+  "gender": "male",
+  "race": "elf",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, flowing white hair, silver eyes, grey artificer garments, thematic background"
+ },
+ {
+  "id": "p300",
+  "gender": "male",
+  "race": "human",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, cropped copper hair and stubble, brown eyes, grey bard garments, thematic background"
+ },
+ {
+  "id": "p301",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with gold scales, swept-back horns and a scaled crest, silver eyes, white and gold ranger garments, thematic background"
+ },
+ {
+  "id": "p302",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, flowing white hair, blue eyes, bronze cleric garments, thematic background"
+ },
+ {
+  "id": "p303",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with deep blue skin and tall straight horns, cropped dark purple hair, glowing amber eyes, teal ranger garments, thematic background"
+ },
+ {
+  "id": "p304",
+  "gender": "male",
+  "race": "gnome",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, cropped pink hair, violet eyes, bronze warlock garments, thematic background"
+ },
+ {
+  "id": "p305",
+  "gender": "male",
+  "race": "human",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short copper hair, brown eyes, grey cleric garments, thematic background"
+ },
+ {
+  "id": "p306",
+  "gender": "female",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, tied-back chestnut hair, green eyes, silver fighter garments, thematic background"
+ },
+ {
+  "id": "p307",
+  "gender": "male",
+  "race": "human",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, braided ash blond hair, amber eyes, purple warlock garments, thematic background"
+ },
+ {
+  "id": "p308",
+  "gender": "male",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back grey hair, hazel eyes, grey barbarian garments, thematic background"
+ },
+ {
+  "id": "p309",
+  "gender": "female",
+  "race": "human",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, long black hair, grey eyes, deep blue monk garments, thematic background"
+ },
+ {
+  "id": "p310",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, mohawk, brown eyes, midnight blue druid garments, thematic background"
+ },
+ {
+  "id": "p311",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, wavy auburn hair, luminous amber eyes, black wizard garments, thematic background"
+ },
+ {
+  "id": "p312",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with crimson skin and tall straight horns, tied-back white hair, solid red eyes, earth-toned cleric garments, thematic background"
+ },
+ {
+  "id": "p313",
+  "gender": "female",
+  "race": "human",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, braided chestnut hair, green eyes, dark green cleric garments, thematic background"
+ },
+ {
+  "id": "p314",
+  "gender": "male",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, braided auburn hair and stubble, hazel eyes, teal paladin garments, thematic background"
+ },
+ {
+  "id": "p315",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with gold scales, short horns and a frilled crest, red eyes, silver artificer garments, thematic background"
+ },
+ {
+  "id": "p316",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, cropped black hair, light blue eyes, black ranger garments, thematic background"
+ },
+ {
+  "id": "p317",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, curly ginger hair, amber eyes, ivory rogue garments, thematic background"
+ },
+ {
+  "id": "p318",
+  "gender": "male",
+  "race": "halfling",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, wavy chestnut hair, light blue eyes, deep blue sorcerer garments, thematic background"
+ },
+ {
+  "id": "p319",
+  "gender": "female",
+  "race": "elf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, long platinum blond hair, green eyes, brown leather warlock garments, thematic background"
+ },
+ {
+  "id": "p320",
+  "gender": "male",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short auburn hair, grey eyes, ivory fighter garments, thematic background"
+ },
+ {
+  "id": "p321",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with ash grey skin and tall straight horns, flowing midnight blue hair, glowing amber eyes, teal paladin garments, thematic background"
+ },
+ {
+  "id": "p322",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, tied-back chestnut hair, dark brown eyes, dark green warlock garments, thematic background"
+ },
+ {
+  "id": "p323",
+  "gender": "male",
+  "race": "halfling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, messy black hair, dark brown eyes, brown leather cleric garments, thematic background"
+ },
+ {
+  "id": "p324",
+  "gender": "male",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, messy platinum blond hair, violet eyes, forest green wizard garments, thematic background"
+ },
+ {
+  "id": "p325",
+  "gender": "female",
+  "race": "human",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, messy copper hair, blue eyes, grey fighter garments, thematic background"
+ },
+ {
+  "id": "p326",
+  "gender": "male",
+  "race": "halfling",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, long auburn hair, dark brown eyes, white and gold rogue garments, thematic background"
+ },
+ {
+  "id": "p327",
+  "gender": "male",
+  "race": "gnome",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, curly teal hair, violet eyes, silver wizard garments, thematic background"
+ },
+ {
+  "id": "p328",
+  "gender": "male",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, short auburn hair, violet eyes, white and gold wizard garments, thematic background"
+ },
+ {
+  "id": "p329",
+  "gender": "female",
+  "race": "elf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, wood elf, short white hair, blue eyes, ivory fighter garments, thematic background"
+ },
+ {
+  "id": "p330",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with red skin and ram horns, shoulder-length midnight blue hair, violet eyes, ivory fighter garments, thematic background"
+ },
+ {
+  "id": "p331",
+  "gender": "male",
+  "race": "goliath",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, shaved head, light blue eyes, black barbarian garments, thematic background"
+ },
+ {
+  "id": "p332",
+  "gender": "male",
+  "race": "human",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back chestnut hair and stubble, amber eyes, deep blue paladin garments, thematic background"
+ },
+ {
+  "id": "p333",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with lavender skin and curved horns, tied-back black hair, violet eyes, white and gold ranger garments, thematic background"
+ },
+ {
+  "id": "p334",
+  "gender": "male",
+  "race": "halfling",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, braided chestnut hair, green eyes, purple ranger garments, thematic background"
+ },
+ {
+  "id": "p335",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with olive green skin and small tusks, braided black hair, dark brown eyes, crimson fighter garments, thematic background"
+ },
+ {
+  "id": "p336",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, tied-back brown hair, brown eyes, rust red barbarian garments, thematic background"
+ },
+ {
+  "id": "p337",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, short platinum blond hair, dark brown eyes, grey bard garments, thematic background"
+ },
+ {
+  "id": "p338",
+  "gender": "male",
+  "race": "elf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, cropped pale blond hair, silver eyes, brown leather barbarian garments, thematic background"
+ },
+ {
+  "id": "p339",
+  "gender": "male",
+  "race": "human",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, braided grey hair, green eyes, silver druid garments, thematic background"
+ },
+ {
+  "id": "p340",
+  "gender": "male",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, long golden hair, green eyes, dark green wizard garments, thematic background"
+ },
+ {
+  "id": "p341",
+  "gender": "male",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, tied-back copper hair and a trimmed beard, hazel eyes, brown leather barbarian garments, thematic background"
+ },
+ {
+  "id": "p342",
+  "gender": "male",
+  "race": "elf",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, long white hair, amber eyes, dark green monk garments, thematic background"
+ },
+ {
+  "id": "p343",
+  "gender": "female",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, high elf, messy black hair, amber eyes, teal wizard garments, thematic background"
+ },
+ {
+  "id": "p344",
+  "gender": "female",
+  "race": "halfling",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, long brown hair, blue eyes, forest green warlock garments, thematic background"
+ },
+ {
+  "id": "p345",
+  "gender": "male",
+  "race": "elf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, drow elf with dark grey skin, shoulder-length pale blond hair, blue eyes, ivory ranger garments, thematic background"
+ },
+ {
+  "id": "p346",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with grey skin and small tusks, braided grey hair, brown eyes, forest green bard garments, thematic background"
+ },
+ {
+  "id": "p347",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, braided ginger hair and a thick ginger beard, blue eyes, teal paladin garments, thematic background"
+ },
+ {
+  "id": "p348",
+  "gender": "male",
+  "race": "goliath",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, shaved head, amber eyes, rust red artificer garments, thematic background"
+ },
+ {
+  "id": "p349",
+  "gender": "male",
+  "race": "gnome",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, braided ginger hair, violet eyes, rust red monk garments, thematic background"
+ },
+ {
+  "id": "p350",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, curly red hair, hazel eyes, ivory bard garments, thematic background"
+ },
+ {
+  "id": "p351",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, flowing golden hair, pale blue eyes, rust red artificer garments, thematic background"
+ },
+ {
+  "id": "p352",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, short grey hair, green eyes, crimson druid garments, thematic background"
+ },
+ {
+  "id": "p353",
+  "gender": "female",
+  "race": "goliath",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, goliath with grey stone-marked skin, shaved head, hazel eyes, grey rogue garments, thematic background"
+ },
+ {
+  "id": "p354",
+  "gender": "male",
+  "race": "halfling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, tied-back brown hair, grey eyes, purple fighter garments, thematic background"
+ },
+ {
+  "id": "p355",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, tied-back grey hair, green eyes, bronze barbarian garments, thematic background"
+ },
+ {
+  "id": "p356",
+  "gender": "female",
+  "race": "human",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, shoulder-length ash blond hair, hazel eyes, forest green rogue garments, thematic background"
+ },
+ {
+  "id": "p357",
+  "gender": "male",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, short auburn hair, grey eyes, crimson barbarian garments, thematic background"
+ },
+ {
+  "id": "p358",
+  "gender": "male",
+  "race": "gnome",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, short ginger hair, bright blue eyes, bronze cleric garments, thematic background"
+ },
+ {
+  "id": "p359",
+  "gender": "male",
+  "race": "halfling",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, curly black hair, amber eyes, silver cleric garments, thematic background"
+ },
+ {
+  "id": "p360",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with lavender skin and tall straight horns, braided dark red hair, violet eyes, grey artificer garments, thematic background"
+ },
+ {
+  "id": "p361",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, messy grey hair and a thick grey beard, grey eyes, brown leather paladin garments, thematic background"
+ },
+ {
+  "id": "p362",
+  "gender": "male",
+  "race": "human",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, messy blond hair, green eyes, ivory sorcerer garments, thematic background"
+ },
+ {
+  "id": "p363",
+  "gender": "male",
+  "race": "halfling",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, wavy sandy hair, blue eyes, deep blue druid garments, thematic background"
+ },
+ {
+  "id": "p364",
+  "gender": "male",
+  "race": "elf",
+  "class": "warlock",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, messy black hair, violet eyes, grey warlock garments, thematic background"
+ },
+ {
+  "id": "p365",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, long auburn hair, pale blue eyes, dark green barbarian garments, thematic background"
+ },
+ {
+  "id": "p366",
+  "gender": "male",
+  "race": "human",
+  "class": "barbarian",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, human, braided copper hair and stubble, dark brown eyes, crimson barbarian garments, thematic background"
+ },
+ {
+  "id": "p367",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with red skin and swept-back horns, wavy dark red hair, solid silver eyes, teal rogue garments, thematic background"
+ },
+ {
+  "id": "p368",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with blue scales, long backswept horns, amber eyes, white and gold cleric garments, thematic background"
+ },
+ {
+  "id": "p369",
+  "gender": "male",
+  "race": "gnome",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, gnome, wavy silver hair, amber eyes, black fighter garments, thematic background"
+ },
+ {
+  "id": "p370",
+  "gender": "female",
+  "race": "dragonborn",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dragonborn with red scales, swept-back horns and a scaled crest, copper eyes, earth-toned paladin garments, thematic background"
+ },
+ {
+  "id": "p371",
+  "gender": "female",
+  "race": "elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, elf, flowing pale blond hair, green eyes, rust red sorcerer garments, thematic background"
+ },
+ {
+  "id": "p372",
+  "gender": "female",
+  "race": "human",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, human, messy auburn hair, blue eyes, purple druid garments, thematic background"
+ },
+ {
+  "id": "p373",
+  "gender": "male",
+  "race": "half-elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-elf, short blond hair, green eyes, bronze bard garments, thematic background"
+ },
+ {
+  "id": "p374",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, curly black hair and a braided black beard, amber eyes, ivory sorcerer garments, thematic background"
+ },
+ {
+  "id": "p375",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with gold scales, swept-back horns and a scaled crest, green eyes, dark green fighter garments, thematic background"
+ },
+ {
+  "id": "p376",
+  "gender": "female",
+  "race": "half-orc",
+  "class": "paladin",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-orc with mossy green skin and small tusks, shoulder-length brown hair, yellow eyes, ivory paladin garments, thematic background"
+ },
+ {
+  "id": "p377",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, tied-back copper hair, dark brown eyes, crimson fighter garments, thematic background"
+ },
+ {
+  "id": "p378",
+  "gender": "male",
+  "race": "elf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, shoulder-length copper hair, amber eyes, teal fighter garments, thematic background"
+ },
+ {
+  "id": "p379",
+  "gender": "male",
+  "race": "tiefling",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, tiefling with purple skin and tall straight horns, flowing white hair, violet eyes, grey fighter garments, thematic background"
+ },
+ {
+  "id": "p380",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, cropped silver hair, glowing gold eyes, dark green monk garments, thematic background"
+ },
+ {
+  "id": "p381",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, shoulder-length chestnut hair, grey eyes, grey wizard garments, thematic background"
+ },
+ {
+  "id": "p382",
+  "gender": "female",
+  "race": "halfling",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, halfling, flowing honey blond hair, blue eyes, forest green artificer garments, thematic background"
+ },
+ {
+  "id": "p383",
+  "gender": "male",
+  "race": "dwarf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dwarf, messy grey hair and a long grey beard, grey eyes, purple wizard garments, thematic background"
+ },
+ {
+  "id": "p384",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, wavy platinum blond hair, grey eyes, ivory ranger garments, thematic background"
+ },
+ {
+  "id": "p385",
+  "gender": "male",
+  "race": "goliath",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, shaved head, green eyes, earth-toned druid garments, thematic background"
+ },
+ {
+  "id": "p386",
+  "gender": "female",
+  "race": "tiefling",
+  "class": "rogue",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, tiefling with ash grey skin and curved horns, long dark red hair, solid red eyes, silver rogue garments, thematic background"
+ },
+ {
+  "id": "p387",
+  "gender": "male",
+  "race": "elf",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, wood elf, shoulder-length copper hair, amber eyes, grey bard garments, thematic background"
+ },
+ {
+  "id": "p388",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "artificer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with grey skin and small tusks, tied-back brown hair and a trimmed beard, grey eyes, purple artificer garments, thematic background"
+ },
+ {
+  "id": "p389",
+  "gender": "male",
+  "race": "elf",
+  "class": "sorcerer",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, elf, wavy dark brown hair, amber eyes, earth-toned sorcerer garments, thematic background"
+ },
+ {
+  "id": "p390",
+  "gender": "male",
+  "race": "aasimar",
+  "class": "bard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, aasimar with a faint radiant glow, short white hair, luminous amber eyes, crimson bard garments, thematic background"
+ },
+ {
+  "id": "p391",
+  "gender": "male",
+  "race": "dragonborn",
+  "class": "druid",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, dragonborn with green scales, short horns and a frilled crest, copper eyes, rust red druid garments, thematic background"
+ },
+ {
+  "id": "p392",
+  "gender": "female",
+  "race": "aasimar",
+  "class": "cleric",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, aasimar with a faint radiant glow, messy platinum blond hair, pale blue eyes, grey cleric garments, thematic background"
+ },
+ {
+  "id": "p393",
+  "gender": "male",
+  "race": "halfling",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, halfling, short black hair, brown eyes, crimson monk garments, thematic background"
+ },
+ {
+  "id": "p394",
+  "gender": "male",
+  "race": "goliath",
+  "class": "monk",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, bald head, blue eyes, ivory monk garments, thematic background"
+ },
+ {
+  "id": "p395",
+  "gender": "male",
+  "race": "elf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, high elf, cropped dark brown hair, gold eyes, white and gold fighter garments, thematic background"
+ },
+ {
+  "id": "p396",
+  "gender": "female",
+  "race": "dwarf",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, dwarf, cropped white hair, grey eyes, grey ranger garments, thematic background"
+ },
+ {
+  "id": "p397",
+  "gender": "male",
+  "race": "half-orc",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, half-orc with mossy green skin and small tusks, messy white hair, dark brown eyes, white and gold ranger garments, thematic background"
+ },
+ {
+  "id": "p398",
+  "gender": "male",
+  "race": "goliath",
+  "class": "ranger",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, male, goliath with grey stone-marked skin, long black braid, dark brown eyes, silver ranger garments, thematic background"
+ },
+ {
+  "id": "p399",
+  "gender": "female",
+  "race": "elf",
+  "class": "wizard",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, elf, curly dark brown hair, amber eyes, white and gold wizard garments, thematic background"
+ },
+ {
+  "id": "p400",
+  "gender": "female",
+  "race": "half-elf",
+  "class": "fighter",
+  "prompt": "fantasy painterly anime, three quarters portrait, centered character, front facing, female, half-elf, curly auburn hair, grey eyes, silver fighter garments, thematic background"
+ }
+]

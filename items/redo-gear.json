@@ -1,0 +1,78 @@
+[
+ {
+  "id": "breastplate",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty breastplate on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "chain-mail",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty chain mail on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "chain-shirt",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty chain shirt on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "clothes-fine",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered empty fine clothes on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "clothes-travelers",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered empty travelers clothes on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "costume",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered empty costume on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "diplomats-pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered diplomats pack contents laid out, no character, item only, solid black background"
+ },
+ {
+  "id": "entertainers-pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered entertainers pack contents laid out, no character, item only, solid black background"
+ },
+ {
+  "id": "half-plate-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty half plate armor on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hide-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty hide armor on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "leather-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty leather armor on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "padded-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty padded armor on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plate-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty plate armor on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "priests-pack",
+  "prompt": "fantasy painterly anime, fantasy equipment pack, centered priests pack contents laid out, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-mail",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty ring mail on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "robe",
+  "prompt": "fantasy painterly anime, fantasy clothing, centered empty robe on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "scale-mail",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty scale mail on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "splint-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty splint armor on its own, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "studded-leather-armor",
+  "prompt": "fantasy painterly anime, fantasy armor, centered empty studded leather armor on its own, front facing, no character, item only, solid black background"
+ }
+]

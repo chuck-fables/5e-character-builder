@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "alustriels-mooncloak",
+    "name": "Alustriel's Mooncloak",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 5,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a moonstone worth 50+ GP)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "druid",
+      "ranger",
+      "wizard"
+    ],
+    "text": "Moonlight fills a 20-foot area around you, giving you and allies in it Half Cover and Resistance to Cold, Lightning, and Radiant damage. While it lasts you can end the spell early to either let an ally in the area regain 4d10 plus your spellcasting modifier in Hit Points, or use a Reaction to succeed on a save against the Frightened, Grappled, or Restrained condition.",
+    "higherLevels": ""
+  },
+  {
+    "id": "antipathy-sympathy",
+    "name": "Antipathy/Sympathy",
+    "source": "Player's Handbook",
+    "level": 8,
+    "school": "Enchantment",
+    "castingTime": "1 Hour",
+    "ritual": false,
+    "range": "60 Feet",
+    "components": "V, S, M (a mix of vinegar and honey)",
+    "duration": "10 Days",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "druid",
+      "wizard"
+    ],
+    "text": "Choose antipathy or sympathy and a kind of creature, then target a Huge or smaller object or creature. Creatures of that kind that come within 120 feet of it make a Wisdom save; on a failure they are Frightened and flee (antipathy) or Charmed and are drawn toward it (sympathy). Affected creatures get a new save once they end a turn more than 120 feet away.",
+    "higherLevels": ""
+  },
+  {
+    "id": "arcane-gate",
+    "name": "Arcane Gate",
+    "source": "Player's Handbook",
+    "level": 6,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "500 feet",
+    "components": "V, S",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Create two linked circular portals on Large unoccupied ground spaces, one within range and one within 10 feet of you, that last for the duration. Anything that enters the open side of one portal comes out the open side of the other, and you can use a Bonus Action to flip which side is open.",
+    "higherLevels": ""
+  },
+  {
+    "id": "arcane-vigor",
+    "name": "Arcane Vigor",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Spend one or two of your unused Hit Point Dice and regain the total rolled plus your spellcasting modifier in Hit Points. The dice spent are used up.",
+    "higherLevels": "You can roll one more Hit Point Die for each spell slot level above 2."
+  },
+  {
+    "id": "armor-of-agathys",
+    "name": "Armor of Agathys",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Abjuration",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a shard of blue glass)",
+    "duration": "1 Hour",
+    "concentration": false,
+    "classes": [
+      "warlock"
+    ],
+    "text": "You gain 5 Temporary Hit Points, and any creature that hits you with a melee attack takes 5 Cold damage while they last. The spell ends early if your Temporary Hit Points run out.",
+    "higherLevels": "The Temporary Hit Points and the Cold damage each increase by 5 for each spell slot level above 1."
+  },
+  {
+    "id": "arms-of-hadar",
+    "name": "Arms of Hadar",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "warlock"
+    ],
+    "text": "Tendrils burst from you and hit each creature in a 10-foot Emanation. Each target makes a Strength save; on a failure it takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn, and on a success it takes half damage.",
+    "higherLevels": "The damage increases by 1d6 for each spell slot level above 1."
+  },
+  {
+    "id": "astral-flood",
+    "name": "Astral Flood",
+    "source": "D&D Beyond Drops - May 2026",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a mixture of water and powdered silver)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "cleric",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Choose Cold or Radiant and unleash it in a 30-foot Cone. Each creature there makes a Dexterity save, taking 4d10 damage of that type on a failure (half on a success), and a failed target also suffers a rider: cold gives it Disadvantage on its next D20 Test before the end of your next turn, while radiant Blinds it until then.",
+    "higherLevels": "The damage increases by 1d10 for each spell slot level above 3."
+  },
+  {
+    "id": "aura-of-purity",
+    "name": "Aura of Purity",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "cleric",
+      "paladin"
+    ],
+    "text": "A 30-foot aura around you lets you and your allies resist Poison damage and gives them Advantage on saves to avoid or end several conditions, including Poisoned, Stunned, and Charmed, for the duration.",
+    "higherLevels": ""
+  },
+  {
+    "id": "aura-of-vitality",
+    "name": "Aura of Vitality",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "cleric",
+      "druid",
+      "paladin"
+    ],
+    "text": "A 30-foot aura appears around you. When you create it and at the start of each of your turns while it lasts, you can heal one creature inside it for 2d6 Hit Points.",
+    "higherLevels": ""
+  },
+  {
+    "id": "backlash",
+    "name": "Backlash",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 4,
+    "school": "Abjuration",
+    "castingTime": "Reaction, which you take in response to taking damage",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "When you take damage from a source you can see within 60 feet, you reduce that damage by 4d6 plus your spellcasting modifier. You can also force the attacker, if it is in range, to make a Constitution save, taking 4d6 Force damage on a failure or half on a success.",
+    "higherLevels": "Both the damage reduction and the Force damage increase by 1d6 for each spell slot level above 4."
+  },
+  {
+    "id": "banishing-smite",
+    "name": "Banishing Smite",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "paladin"
+    ],
+    "text": "When you hit with a melee weapon or Unarmed Strike, the target takes an extra 5d10 Force damage. If that hit drops the target to 50 Hit Points or fewer, it must make a Charisma save or be sent to a harmless demiplane, where it is Incapacitated, until the spell ends.",
+    "higherLevels": ""
+  },
+  {
+    "id": "beast-sense",
+    "name": "Beast Sense",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Divination",
+    "castingTime": "Action",
+    "ritual": true,
+    "range": "Touch",
+    "components": "S",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "text": "Touch a willing Beast and perceive through its senses, including any special senses it has, for the duration. You can switch between your own senses and the Beast's.",
+    "higherLevels": ""
+  },
+  {
+    "id": "bigbys-hand",
+    "name": "Bigby's Hand",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S, M (an eggshell and a glove)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Conjure a Large hand of magical energy (AC 20, with Hit Points equal to your maximum) that moves up to 60 feet on your Bonus Action turns. Each turn it can strike for 5d8 Force damage, shove a creature, grapple one (then crush it for 4d6 plus your modifier), or give you Half Cover.",
+    "higherLevels": "The Clenched Fist damage increases by 2d8 and the Grasping Hand damage increases by 2d6 for each spell slot level above 5."
+  },
+  {
+    "id": "blade-of-disaster",
+    "name": "Blade of Disaster",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 9,
+    "school": "Conjuration",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Open a 3-foot-long planar rift in range and make up to two melee spell attacks against creatures or objects within 5 feet of it, each dealing 10d6 Force damage on a hit (a Critical Hit on a roll of 18 or higher). On later turns, use a Bonus Action to move the rift up to 60 feet and attack again, and the blade passes through barriers.",
+    "higherLevels": ""
+  },
+  {
+    "id": "blade-ward",
+    "name": "Blade Ward",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Until the spell ends, any creature that attacks you subtracts 1d4 from its attack roll.",
+    "higherLevels": ""
+  },
+  {
+    "id": "blinding-smite",
+    "name": "Blinding Smite",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "1 minute",
+    "concentration": false,
+    "classes": [
+      "paladin"
+    ],
+    "text": "When you hit with a melee weapon or Unarmed Strike, the target takes an extra 3d8 Radiant damage and is Blinded until the spell ends. At the end of each of its turns, the Blinded target can make a Constitution save to end the spell on itself.",
+    "higherLevels": "The extra damage increases by 1d8 for each spell slot level above 3."
+  },
+  {
+    "id": "blindness-deafness",
+    "name": "Blindness/Deafness",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V",
+    "duration": "1 minute",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "cleric",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "One creature you can see in range makes a Constitution save or becomes Blinded or Deafened (your choice) for the duration. At the end of each of its turns it repeats the save and can end the effect on a success.",
+    "higherLevels": "You can target one additional creature for each spell slot level above 2."
+  },
+  {
+    "id": "buzzing-bee",
+    "name": "Buzzing Bee",
+    "source": "D&D Beyond Drops - May 2026",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S, M (a dab of honey)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "A noisy spectral bee hovers within 3 feet of a creature in range as long as it stays within 120 feet of you. The target has Disadvantage on Wisdom (Perception) and Dexterity (Stealth) checks and on Constitution saves to keep Concentration, and it can't benefit from being Invisible.",
+    "higherLevels": ""
+  },
+  {
+    "id": "cacophonic-shield",
+    "name": "Cacophonic Shield",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Thunder fills a 10-foot Emanation around you. A creature that enters it or ends its turn in it makes a Constitution save, taking 3d6 Thunder damage and becoming Deafened until the start of your next turn on a failure, or half damage on a success (once per turn). You also gain Resistance to Thunder damage, and ranged attacks against you have Disadvantage.",
+    "higherLevels": "The damage increases by 1d6 for each spell slot level above 3."
+  },
+  {
+    "id": "circle-of-death",
+    "name": "Circle Of Death",
+    "source": "Player's Handbook",
+    "level": 6,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "150 feet",
+    "components": "V, S, M (the powder of a crushed black pearl worth 500+ GP)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Negative energy bursts out in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in it makes a Constitution save, taking 8d8 Necrotic damage on a failure or half on a success.",
+    "higherLevels": "The damage increases by 2d8 for each spell slot level above 6."
+  },
+  {
+    "id": "circle-of-power",
+    "name": "Circle Of Power",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Abjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "cleric",
+      "paladin",
+      "wizard"
+    ],
+    "text": "A 30-foot aura gives you and your allies Advantage on saves against spells and other magical effects. A creature in the aura that succeeds on a save against a spell that normally allows half damage takes no damage instead.",
+    "higherLevels": ""
+  },
+  {
+    "id": "cloud-of-daggers",
+    "name": "Cloud Of Daggers",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S, M (a sliver of glass)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "Spinning daggers fill a 5-foot Cube within range. Creatures in the Cube, or that enter it or end a turn in it, take 4d4 Slashing damage (once per turn). On later turns you can use a Magic action to move the Cube up to 30 feet.",
+    "higherLevels": "The damage increases by 2d4 for each spell slot level above 2."
+  },
+  {
+    "id": "commune-with-nature",
+    "name": "Commune With Nature",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Divination",
+    "castingTime": "1 minute",
+    "ritual": true,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "text": "Learn about the area within 3 miles outdoors, or 300 feet underground, and choose three facts to learn from: settlements, planar portals, a CR 10+ Celestial, Elemental, Fey, Fiend, or Undead, the most common plant, mineral, or Beast, or nearby water.",
+    "higherLevels": ""
+  },
+  {
+    "id": "compelled-duel",
+    "name": "Compelled Duel",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "30 feet",
+    "components": "V",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "paladin"
+    ],
+    "text": "A creature you can see within 30 feet makes a Wisdom save or has Disadvantage on attacks against anyone but you and can't willingly move more than 30 feet away from you. The spell ends if you attack or cast at another creature, an ally damages the target, or you end your turn more than 30 feet from it.",
+    "higherLevels": ""
+  },
+  {
+    "id": "cone-of-cold",
+    "name": "Cone Of Cold",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a small crystal or glass cone)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "druid",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Blast a 60-foot Cone of cold air. Each creature in it makes a Constitution save, taking 8d8 Cold damage on a failure or half on a success. A creature killed by the blast becomes a frozen statue until it thaws.",
+    "higherLevels": "The damage increases by 1d8 for each spell slot level above 5."
+  },
+  {
+    "id": "conjure-barrage",
+    "name": "Conjure Barrage",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a Melee or Ranged weapon worth at least 1 CP)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "ranger"
+    ],
+    "text": "Launch spectral copies of your weapon (or matching ammunition) in a 60-foot Cone. Each creature of your choice in it makes a Dexterity save, taking 5d8 Force damage on a failure or half on a success.",
+    "higherLevels": "The damage increases by 1d8 for each spell slot level above 3."
+  },
+  {
+    "id": "conjure-constructs",
+    "name": "Conjure Constructs",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S, M (a brass cog)",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "wizard"
+    ],
+    "text": "Conjure intangible modron-like spirits in an unoccupied space within 60 feet for the duration. As a Magic action each turn you can command them against a creature within 5 feet of them to deal 3d6 Force damage (Dexterity save for half) or to give it Temporary Hit Points equal to 1d6 plus your spellcasting modifier, and you can move the spirits up to 30 feet when you move.",
+    "higherLevels": "The damage and the Temporary Hit Points both increase by 1d6 for each spell slot level above 3."
+  },
+  {
+    "id": "conjure-tools",
+    "name": "Conjure Tools",
+    "source": "D&D Beyond Drops - September 2026",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "30 ft",
+    "components": "V, S",
+    "duration": "8 hours",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "bard",
+      "ranger",
+      "wizard"
+    ],
+    "text": "Create a set of Artisan's Tools of your choice that you are proficient with. When the spell ends the tools vanish, but anything they made remains. The spell ends early if you cast it again or the tools get more than 10 feet away from you.",
+    "higherLevels": "If cast with a 3rd-level slot, you craft nonmagical items with the tools as efficiently as two people."
+  },
+  {
+    "id": "conjure-volley",
+    "name": "Conjure Volley",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "150 feet",
+    "components": "V, S, M (a Melee or Ranged weapon worth at least 1 CP)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "ranger"
+    ],
+    "text": "Choose a point in range and drop a volley of spectral copies of your weapon (or matching ammunition) into a 40-foot-radius, 20-foot-high Cylinder there. Each creature you choose in it makes a Dexterity save, taking 8d8 Force damage on a failure or half on a success.",
+    "higherLevels": ""
+  },
+  {
+    "id": "cordon-of-arrows",
+    "name": "Cordon Of Arrows",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S, M (an ornamental braid)",
+    "duration": "8 hours",
+    "concentration": false,
+    "classes": [
+      "ranger"
+    ],
+    "text": "Plant up to four nonmagical arrows or bolts in the ground in your space. When a creature other than you, or any you choose to exclude, enters or ends a turn within 30 feet of them, one piece of ammunition strikes it, forcing a Dexterity save or 2d4 Piercing damage. That ammunition is then destroyed, and the spell ends when none is left.",
+    "higherLevels": "It affects two more pieces of ammunition for each spell slot level above 2."
+  },
+  {
+    "id": "create-food-and-water",
+    "name": "Create Food And Water",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "30 feet",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "artificer",
+      "cleric",
+      "paladin"
+    ],
+    "text": "Create 45 pounds of bland but nourishing food and 30 gallons of clean fresh water in range. The food spoils after 24 hours if nobody eats it.",
+    "higherLevels": ""
+  },
+  {
+    "id": "crown-of-madness",
+    "name": "Crown Of Madness",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "A creature in range that fails a Wisdom save becomes Charmed (non-Humanoids always succeed). On each of its turns it must attack a creature you choose, and on later turns you must take a Magic action to keep control. It repeats the save at the end of each of its turns.",
+    "higherLevels": ""
+  },
+  {
+    "id": "crusaders-mantle",
+    "name": "Crusader's Mantle",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "paladin"
+    ],
+    "text": "A 30-foot aura lets you and your allies deal an extra 1d4 Radiant damage on each weapon hit or Unarmed Strike while you concentrate on the spell.",
+    "higherLevels": ""
+  },
+  {
+    "id": "death-armor",
+    "name": "Death Armor",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 2,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S, M (an onyx worth 50+ GP, which the spell consumes)",
+    "duration": "1 hour",
+    "concentration": false,
+    "classes": [
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "An inky aura surrounds a creature you touch. The target has Advantage on Death Saving Throws, and once per turn a creature within 5 feet that hits it with a melee attack takes 2d4 Necrotic damage.",
+    "higherLevels": ""
+  },
+  {
+    "id": "deryans-helpful-homunculi",
+    "name": "Deryan's Helpful Homunculi",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": true,
+    "range": "Self",
+    "components": "V, S, M (powdered gemstones worth 100+ GP, which the spell consumes, and one set of Artisan’s Tools with which you have proficiency)",
+    "duration": "8 hours",
+    "concentration": false,
+    "classes": [
+      "cleric",
+      "wizard"
+    ],
+    "text": "Summon helpful intangible, invulnerable spirits for 8 hours. They count as proficient in Arcana and in the Artisan's Tools used to cast the spell, and while you craft an item they act as one assistant that halves the crafting time.",
+    "higherLevels": ""
+  },
+  {
+    "id": "destructive-wave",
+    "name": "Destructive Wave",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "paladin"
+    ],
+    "text": "Destructive energy ripples out in a 30-foot Emanation from you. Each creature you choose in it makes a Constitution save, taking 5d6 Thunder and 5d6 Radiant or Necrotic damage (your choice) on a failure and falling Prone. A success halves the damage only.",
+    "higherLevels": ""
+  },
+  {
+    "id": "dirge",
+    "name": "Dirge",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 6,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "cleric"
+    ],
+    "text": "A 60-foot Emanation stops healing for everyone in it except creatures you exempt. A creature that enters it or ends a turn in it makes a Constitution save, taking 3d10 Necrotic damage and falling Prone on a failure, or half damage with halved Speed on a success, and each failure also adds an Exhaustion level. It can be cast as a Circle spell with two secondary casters, which makes it last up to 10 minutes of Concentration.",
+    "higherLevels": ""
+  },
+  {
+    "id": "doomtide",
+    "name": "Doomtide",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 4,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S, M (soot and a dried eel)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "cleric",
+      "warlock"
+    ],
+    "text": "A 20-foot-radius Sphere of magical Darkness appears within range and moves 10 feet away from you at the start of each of your turns. A creature in it, or that enters it or ends a turn in it, makes a Wisdom save, taking 5d6 Psychic damage on a failure (half on a success) and subtracting 1d6 from its saving throws until the end of its next turn. It can also be cast as a Circle spell with five secondary casters and a special component.",
+    "higherLevels": ""
+  },
+  {
+    "id": "elemental-weapon",
+    "name": "Elemental Weapon",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Up to 1 hour",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "druid",
+      "paladin",
+      "ranger"
+    ],
+    "text": "Make a nonmagical weapon you touch magical for the duration. It gets a +1 bonus to attack rolls and deals an extra 1d4 damage of Acid, Cold, Fire, Lightning, or Thunder (your choice) on a hit.",
+    "higherLevels": "A 5th- or 6th-level slot raises the bonus to +2 and the extra damage to 2d4; a 7th-level or higher slot raises them to +3 and 3d4."
+  },
+  {
+    "id": "elminsters-effulgent-spheres",
+    "name": "Elminster's Effulgent Spheres",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 6,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (an opal worth 1,000 GP+)",
+    "duration": "1 hour",
+    "concentration": false,
+    "classes": [
+      "druid",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Six chromatic spheres orbit you for the duration. You can spend one as a Reaction to gain Resistance to an incoming Acid, Cold, Fire, Lightning, or Thunder hit, or as a Bonus Action to hurl it at a target within 120 feet for a ranged spell attack that deals 3d6 damage of a type you choose on a hit.",
+    "higherLevels": "The number of spheres increases by 1 for each spell slot level above 6."
+  },
+  {
+    "id": "elminsters-elusion",
+    "name": "Elminster's Elusion",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 2,
+    "school": "Abjuration",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "wizard"
+    ],
+    "text": "For the duration you have Advantage on saves against spells and magical effects, and if you succeed on a save that would normally let you take half damage, you take none instead.",
+    "higherLevels": ""
+  },
+  {
+    "id": "enlarge-reduce",
+    "name": "Enlarge/Reduce",
+    "source": "Player's Handbook",
+    "level": 2,
+    "school": "Transmutation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "30 feet",
+    "components": "V, S, M (a pinch of powdered iron)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "artificer",
+      "bard",
+      "druid",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Target a creature or an unworn, uncarried object within 30 feet. An unwilling creature can make a Constitution save to resist. Enlarge makes the target one size bigger with Advantage on Strength checks and saves and an extra 1d4 weapon damage; Reduce makes it one size smaller with Disadvantage on Strength checks and saves and 1d4 less weapon damage.",
+    "higherLevels": ""
+  },
+  {
+    "id": "feign-death",
+    "name": "Feign Death",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Necromancy",
+    "castingTime": "Action",
+    "ritual": true,
+    "range": "Touch",
+    "components": "V, S, M (a pinch of graveyard dirt)",
+    "duration": "1 hour",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "cleric",
+      "druid",
+      "wizard"
+    ],
+    "text": "Touch a willing creature to put it into a death-like state for the duration. It looks dead to inspection and to spells that check its status, it is Blinded and Incapacitated with Speed 0, and it has Resistance to all damage except Psychic and Immunity to Poisoned.",
+    "higherLevels": ""
+  },
+  {
+    "id": "feign-interest",
+    "name": "Feign Interest",
+    "source": "D&D Beyond Drops - September 2026",
+    "level": 1,
+    "school": "Illusion",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "1 Hour",
+    "concentration": false,
+    "classes": [
+      "wizard"
+    ],
+    "text": "You look fully focused and attentive for the duration, even if your mind is wandering. A creature that studies you can see through it with a Wisdom (Insight) check against your spell save DC.",
+    "higherLevels": ""
+  },
+  {
+    "id": "fount-of-moonlight",
+    "name": "Fount of Moonlight",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Up to 10 minutes",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "druid"
+    ],
+    "text": "A cool light surrounds you, with Bright Light in a 20-foot radius and Dim Light for 20 feet beyond. You have Resistance to Radiant damage, your melee hits deal an extra 2d6 Radiant damage, and when a creature you can see within 60 feet damages you, you can use a Reaction to force it to make a Constitution save or be Blinded until the end of your next turn.",
+    "higherLevels": ""
+  },
+  {
+    "id": "friends",
+    "name": "Friends",
+    "source": "Player's Handbook",
+    "level": 0,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "10 feet",
+    "components": "S, M (some makeup)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "warlock",
+      "wizard"
+    ],
+    "text": "One creature in range that fails a Wisdom save becomes Charmed by you for the duration, and it learns afterward that you charmed it. Non-Humanoids, creatures you are fighting, and creatures you targeted with this spell in the last 24 hours automatically succeed, and the effect ends early if you attack, deal damage, or force a save.",
+    "higherLevels": ""
+  },
+  {
+    "id": "grasping-vine",
+    "name": "Grasping Vine",
+    "source": "Player's Handbook",
+    "level": 4,
+    "school": "Conjuration",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "60 feet",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "druid",
+      "ranger"
+    ],
+    "text": "A vine sprouts in an unoccupied space within range for the duration. Each turn you can use a Bonus Action to make a melee spell attack against a creature within 30 feet of it, dealing 4d8 Bludgeoning damage and pulling the target up to 30 feet closer on a hit, and Grappling it if it is Huge or smaller.",
+    "higherLevels": "The vine can grapple one more creature for each spell slot level above 4."
+  },
+  {
+    "id": "hail-of-thorns",
+    "name": "Hail of Thorns",
+    "source": "Player's Handbook",
+    "level": 1,
+    "school": "Conjuration",
+    "castingTime": "Bonus Action, which you take immediately after hitting a creature with a Ranged weapon",
+    "ritual": false,
+    "range": "Self",
+    "components": "V",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "ranger"
+    ],
+    "text": "When you hit with a Ranged weapon attack, thorns burst from the weapon or ammunition. The target and each creature within 5 feet of it make a Dexterity save, taking 1d10 Piercing damage on a failure or half on a success.",
+    "higherLevels": "The damage increases by 1d10 for each spell slot level above 1."
+  },
+  {
+    "id": "holy-star-of-mystra",
+    "name": "Holy Star of Mystra",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 8,
+    "school": "Evocation",
+    "castingTime": "Bonus Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "cleric",
+      "wizard"
+    ],
+    "text": "A glowing mote hovers above you for the duration, giving you Three-Quarters Cover. Each turn you can use a Bonus Action to fire a bolt at a creature within 120 feet with a ranged spell attack that deals 4d10 plus your spellcasting modifier Force or Radiant damage on a hit. You can also use a Reaction to turn a single-target spell of 7th level or lower that targets only you back on its caster if you succeed on the save.",
+    "higherLevels": ""
+  },
+  {
+    "id": "homunculus-servant",
+    "name": "Homunculus Servant",
+    "source": "Eberron - Forge of the Artificer",
+    "level": 2,
+    "school": "Conjuration",
+    "castingTime": "1 hour",
+    "ritual": true,
+    "range": "10 feet",
+    "components": "V, S, M (a gem worth 100+ GP)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "artificer"
+    ],
+    "text": "Summon a homunculus using the Homunculus Servant stat block, which replaces any homunculus this spell made before. In combat it acts right after you in initiative order and obeys your commands, and if you give none it takes the Dodge action.",
+    "higherLevels": "Use the spell slot's level as the spell level in the stat block."
+  },
+  {
+    "id": "hunger-of-hadar",
+    "name": "Hunger of Hadar",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Conjuration",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "150 feet",
+    "components": "V, S, M (a pickled tentacle)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "warlock"
+    ],
+    "text": "A 20-foot-radius Sphere of magical Darkness appears within range for the duration, is Difficult Terrain, and blinds creatures fully inside it. A creature that starts its turn in the area takes 2d6 Cold damage, and a creature that ends its turn there makes a Dexterity save or takes 2d6 Acid damage.",
+    "higherLevels": "The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3."
+  },
+  {
+    "id": "insidious-rhythm",
+    "name": "Insidious Rhythm",
+    "source": "D&D Beyond Drops - May 2026",
+    "level": 1,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "bard"
+    ],
+    "text": "A creature in range that fails a Wisdom save hears a haunting tune that gives it Disadvantage on Intelligence checks and on Constitution saves to keep Concentration. It repeats the save at the end of each of its turns.",
+    "higherLevels": "You can target one additional creature for each spell slot level above 1."
+  },
+  {
+    "id": "jallarzis-storm-of-radiance",
+    "name": "Jallarzi's Storm of Radiance",
+    "source": "Player's Handbook",
+    "level": 5,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "120 feet",
+    "components": "V, S, M (a pinch of phosphorus)",
+    "duration": "Up to 1 minute",
+    "concentration": true,
+    "classes": [
+      "warlock",
+      "wizard"
+    ],
+    "text": "A 10-foot-radius, 40-foot-high Cylinder of light and thunder appears within range. Creatures inside are Blinded and Deafened and can't cast spells with a Verbal component. A creature in it, or that enters it or ends a turn in it, makes a Constitution save once per turn, taking 2d10 Radiant and 2d10 Thunder damage on a failure or half on a success.",
+    "higherLevels": "The Radiant and Thunder damage each increase by 1d10 for each spell slot level above 5."
+  },
+  {
+    "id": "laerals-silver-lance",
+    "name": "Laeral's Silver Lance",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "level": 3,
+    "school": "Evocation",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S, M (a silver pin worth 250+ GP)",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "cleric",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "A 120-foot-long, 5-foot-wide Line of silver energy bursts from you. Each creature you choose in it makes a Strength save, taking 3d10 Force damage and falling Prone on a failure, or half damage on a success.",
+    "higherLevels": "The damage increases by 1d10 for each spell slot level above 3."
+  },
+  {
+    "id": "leomunds-lamentable-belaborment",
+    "name": "Leomund's Lamentable Belaborment",
+    "source": "D&D Beyond Drops - May 2026",
+    "level": 6,
+    "school": "Enchantment",
+    "castingTime": "Action",
+    "ritual": false,
+    "range": "30 feet",
+    "components": "V",
+    "duration": "1 Minute",
+    "concentration": false,
+    "classes": [
+      "bard",
+      "sorcerer",
+      "wizard"
+    ],
+    "text": "Choose a point within range; each creature in a 10-foot-radius Sphere there makes an Intelligence save or becomes Charmed until the spell ends. Charmed creatures must spend their turns arguing your statement, have Speed 0, and are Blinded and Deafened toward everyone but you. Creatures that don't share your language or have an Intelligence below 3 automatically succeed, and the affected creatures repeat the save at the end of each of their turns.",
+    "higherLevels": ""
+  },
+  {
+    "id": "lightning-arrow",
+    "name": "Lightning Arrow",
+    "source": "Player's Handbook",
+    "level": 3,
+    "school": "Transmutation",
+    "castingTime": "Bonus Action, which you take immediately after hitting or missing a target with a ranged attack using a weapon",
+    "ritual": false,
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "classes": [
+      "ranger"
+    ],
+    "text": "When your weapon attack hits or misses, the weapon or ammunition turns into a lightning bolt. The target takes 4d8 Lightning damage on a hit (half on a miss), and each creature within 10 feet of it makes a Dexterity save, taking 2d8 Lightning damage on a failure or half on a success.",
+    "higherLevels": "The damage of both effects increases by 1d8 for each spell slot level above 3."
+  }
+]

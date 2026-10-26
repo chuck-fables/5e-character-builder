@@ -1,0 +1,592 @@
+[
+ {
+  "id": "artificer-alchemist",
+  "classId": "artificer",
+  "name": "Alchemist",
+  "source": "Eberron: Forge of the Artificer",
+  "description": "Brews magical elixirs that heal, speed, shield or empower, and dabbles in acid, fire and poison.",
+  "features": [
+   {
+    "level": 3,
+    "name": "Tools of the Trade",
+    "text": "Gain proficiency with Alchemist's Supplies and the Herbalism Kit (or other Artisan's Tools if you already have them). Potion crafting time is halved."
+   },
+   {
+    "level": 3,
+    "name": "Alchemist Spells",
+    "text": "You always have these spells prepared at the listed Artificer levels; they don't count against your prepared total."
+   },
+   {
+    "level": 3,
+    "name": "Experimental Elixir",
+    "text": "After a Long Rest with Alchemist's Supplies you make 2 elixirs (3 at level 5, 4 at 9, 5 at 15), rolling a d6 for each effect: Healing (2d8 + Int HP, 3d8 at 9, 4d8 at 15), Swiftness (+10 ft Speed, 1 hour), Resilience (+1 AC, 10 minutes), Boldness (1d4 to attacks and saves, 1 minute), Flight (10 ft Fly Speed, 10 minutes), or your choice (a 6). Drinking is a Bonus Action. Spend a spell slot with a Magic action to make an extra elixir of your chosen type. Durations and numbers improve at levels 9 and 15."
+   },
+   {
+    "level": 5,
+    "name": "Alchemical Savant",
+    "text": "When casting with Alchemist's Supplies as your focus, add your Intelligence modifier (min +1) to one roll that heals or deals Acid, Fire or Poison damage."
+   },
+   {
+    "level": 9,
+    "name": "Restorative Reagents",
+    "text": "Cast Lesser Restoration without a slot or preparing it, using Alchemist's Supplies as the focus, a number of times equal to your Intelligence modifier (min 1) per Long Rest."
+   },
+   {
+    "level": 15,
+    "name": "Chemical Mastery",
+    "text": "Once per turn, an Artificer spell dealing Acid, Fire or Poison damage adds 2d8 Force damage. You gain Resistance to Acid and Poison damage and immunity to the Poisoned condition. Once per Long Rest cast Tasha's Bubbling Cauldron free (no slot, no material components) with Alchemist's Supplies as focus."
+   }
+  ],
+  "spells": {
+   "3": [
+    "Healing Word",
+    "Ray of Sickness"
+   ],
+   "5": [
+    "Flaming Sphere",
+    "Melf's Acid Arrow"
+   ],
+   "9": [
+    "Gaseous Form",
+    "Mass Healing Word"
+   ],
+   "13": [
+    "Death Ward",
+    "Vitriolic Sphere"
+   ],
+   "17": [
+    "Cloudkill",
+    "Raise Dead"
+   ]
+  },
+  "spellcasting": null,
+  "resources": [
+   {
+    "key": "experimental-elixirs",
+    "name": "Experimental Elixirs per Long Rest",
+    "recharge": "long",
+    "max": [
+     0,
+     0,
+     2,
+     2,
+     3,
+     3,
+     3,
+     3,
+     4,
+     4,
+     4,
+     4,
+     4,
+     4,
+     5,
+     5,
+     5,
+     5,
+     5,
+     5
+    ]
+   },
+   {
+    "key": "restorative-reagents",
+    "name": "Restorative Reagents (Lesser Restoration)",
+    "recharge": "long",
+    "max": "int",
+    "level": 9
+   },
+   {
+    "key": "conjured-cauldron",
+    "name": "Conjured Cauldron (Tasha's Bubbling Cauldron)",
+    "recharge": "long",
+    "max": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "id": "artificer-armorer",
+  "classId": "artificer",
+  "name": "Armorer",
+  "source": "Eberron: Forge of the Artificer",
+  "description": "Turns armor into a magical second skin as a Dreadnaught, Guardian or Infiltrator, boosting offense, defense or stealth.",
+  "features": [
+   {
+    "level": 3,
+    "name": "Tools of the Trade",
+    "text": "Gain training with Heavy armor and proficiency with Smith's Tools (or another Artisan's Tools if you already have them). Armor crafting time is halved."
+   },
+   {
+    "level": 3,
+    "name": "Armorer Spells",
+    "text": "You always have these spells prepared at the listed Artificer levels; they don't count against your prepared total."
+   },
+   {
+    "level": 3,
+    "name": "Arcane Armor",
+    "text": "As a Magic action with Smith's Tools, turn armor you wear into Arcane Armor: it ignores Strength requirements, can be donned or doffed as a Utilize action (and can't be removed against your will), and works as your spellcasting focus."
+   },
+   {
+    "level": 3,
+    "name": "Armor Model",
+    "text": "Pick a model (changeable after a Short or Long Rest with Smith's Tools). Each has a special weapon that uses Intelligence for attack and damage. Dreadnaught: Force Demolisher (Simple Melee, Reach, 1d10 Force, can push or pull a smaller target 10 ft) and Giant Stature (Bonus Action, 1 minute, +5 ft reach and Large size, Int modifier uses). Guardian: Thunder Pulse (Simple Melee, 1d8 Thunder, target has Disadvantage attacking others) and Defensive Field (Bloodied, Bonus Action for Temp HP equal to Artificer level). Infiltrator: Lightning Launcher (Simple Ranged 90/300 ft, 1d6 Lightning plus extra 1d6 once per turn), +5 ft Speed, and Advantage on Stealth."
+   },
+   {
+    "level": 5,
+    "name": "Extra Attack",
+    "text": "You can attack twice when you take the Attack action."
+   },
+   {
+    "level": 9,
+    "name": "Improved Armorer",
+    "text": "Learn one extra Replicate Magic Item plan and create one extra item, both must be Armor. Your Arcane Armor weapon gets +1 to attack and damage."
+   },
+   {
+    "level": 15,
+    "name": "Perfected Armor",
+    "text": "Dreadnaught: Demolisher becomes 2d6, and Giant Stature gives +10 ft reach, Large or Huge size and Advantage on Strength checks and saves. Guardian: Thunder Pulse becomes 1d10, plus a Reaction (Int modifier uses per Long Rest) to pull a Huge-or-smaller creature up to 25 ft toward you on a failed Strength save, then make a melee attack if it lands adjacent. Infiltrator: Launcher becomes 2d6, hit targets glow and have Disadvantage attacking you, and a Bonus Action grants Fly Speed of twice your Speed for the turn (Int modifier uses per Long Rest)."
+   }
+  ],
+  "spells": {
+   "3": [
+    "Magic Missile",
+    "Thunderwave"
+   ],
+   "5": [
+    "Mirror Image",
+    "Shatter"
+   ],
+   "9": [
+    "Hypnotic Pattern",
+    "Lightning Bolt"
+   ],
+   "13": [
+    "Fire Shield",
+    "Greater Invisibility"
+   ],
+   "17": [
+    "Passwall",
+    "Wall of Force"
+   ]
+  },
+  "spellcasting": null,
+  "resources": [
+   {
+    "key": "giant-stature",
+    "name": "Giant Stature (Dreadnaught)",
+    "recharge": "long",
+    "max": "int",
+    "level": 3
+   },
+   {
+    "key": "guardian-pull",
+    "name": "Guardian Reaction pull (Guardian)",
+    "recharge": "long",
+    "max": "int",
+    "level": 15
+   },
+   {
+    "key": "infiltrator-flight",
+    "name": "Infiltrator flight (Infiltrator)",
+    "recharge": "long",
+    "max": "int",
+    "level": 15
+   }
+  ]
+ },
+ {
+  "id": "artificer-artillerist",
+  "classId": "artificer",
+  "name": "Artillerist",
+  "source": "Eberron: Forge of the Artificer",
+  "description": "Builds an Eldritch Cannon and carves a firearm sigil to blast, shield and dominate the battlefield from range.",
+  "features": [
+   {
+    "level": 3,
+    "name": "Tools of the Trade",
+    "text": "Gain proficiency with Martial Ranged weapons and Woodcarver's Tools (or another Artisan's Tools if you already have them). Wand crafting time is halved."
+   },
+   {
+    "level": 3,
+    "name": "Artillerist Spells",
+    "text": "You always have these spells prepared at the listed Artificer levels; they don't count against your prepared total."
+   },
+   {
+    "level": 3,
+    "name": "Eldritch Cannon",
+    "text": "As a Magic action with Smith's or Woodcarver's Tools, create a Small or Tiny cannon within 5 feet (once per Long Rest, or spend a spell slot to make another). It has AC 18, HP equal to 5 times your Artificer level, and lasts 1 hour. As a Bonus Action within 60 ft you command it to move 15 ft and use one: Flamethrower (15-ft Cone, Dex save, 2d8 Fire), Force Ballista (ranged spell attack, 2d8 Force, push 5 ft), or Protector (1d8 + Int temp HP to it and allies within 10 ft)."
+   },
+   {
+    "level": 5,
+    "name": "Arcane Firearm",
+    "text": "After a Long Rest, carve sigils into a Rod, Staff, Wand or Martial Ranged weapon with Woodcarver's Tools. It acts as your spellcasting focus and adds 1d8 to one damage roll of an Artificer spell you cast through it."
+   },
+   {
+    "level": 9,
+    "name": "Explosive Cannon",
+    "text": "Cannon damage and Protector temp HP increase by 1d8. As a Reaction when it takes damage you can detonate it (within 60 ft): creatures within 20 ft make a Dex save or take 3d10 Force (half on success)."
+   },
+   {
+    "level": 15,
+    "name": "Fortified Position",
+    "text": "You can have two cannons at once (create both with one action, a second slot if you spend slots) and command both with one Bonus Action. You and allies within 10 ft of a cannon have Half Cover."
+   }
+  ],
+  "spells": {
+   "3": [
+    "Shield",
+    "Thunderwave"
+   ],
+   "5": [
+    "Scorching Ray",
+    "Shatter"
+   ],
+   "9": [
+    "Fireball",
+    "Wind Wall"
+   ],
+   "13": [
+    "Ice Storm",
+    "Wall of Fire"
+   ],
+   "17": [
+    "Cone of Cold",
+    "Wall of Force"
+   ]
+  },
+  "spellcasting": null,
+  "resources": [
+   {
+    "key": "eldritch-cannon",
+    "name": "Eldritch Cannon (free creation)",
+    "recharge": "long",
+    "max": [
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "id": "artificer-battle-smith",
+  "classId": "artificer",
+  "name": "Battle Smith",
+  "source": "Eberron: Forge of the Artificer",
+  "description": "A protector and field medic who fights with Intelligence-powered weapons alongside a Steel Defender construct.",
+  "features": [
+   {
+    "level": 3,
+    "name": "Tools of the Trade",
+    "text": "Gain proficiency with Smith's Tools (or another Artisan's Tools if you already have them). Weapon crafting time is halved."
+   },
+   {
+    "level": 3,
+    "name": "Battle Smith Spells",
+    "text": "You always have these spells prepared at the listed Artificer levels; they don't count against your prepared total."
+   },
+   {
+    "level": 3,
+    "name": "Battle Ready",
+    "text": "Use Intelligence instead of Strength or Dexterity for attack and damage with magic weapons. You gain Martial weapon proficiency and can use a proficient weapon as your spellcasting focus."
+   },
+   {
+    "level": 3,
+    "name": "Steel Defender",
+    "text": "You gain a loyal construct companion (AC 12 + Int, HP 5 + 5 times your Artificer level, Speed 40 ft, Force-Empowered Rend attack 1d8 + 2 + Int, Repair 3/day for 2d8 + Int, Deflect Attack reaction). It only Dodges unless you spend a Bonus Action to command it. Revive it within an hour by spending a spell slot; remake it after a Long Rest with Smith's Tools."
+   },
+   {
+    "level": 5,
+    "name": "Extra Attack",
+    "text": "You can attack twice with the Attack action, and can swap one attack to command your Steel Defender to use its Rend."
+   },
+   {
+    "level": 9,
+    "name": "Arcane Jolt",
+    "text": "When you hit with a magic weapon or your Defender hits, add 2d6 Force damage, or heal a creature or object you see within 30 ft of the target for 2d6. Int modifier uses per Long Rest, once per turn."
+   },
+   {
+    "level": 15,
+    "name": "Improved Defender",
+    "text": "Arcane Jolt damage and healing become 4d6. When your Defender uses Deflect Attack, the attacker takes 1d4 + Int Force damage."
+   }
+  ],
+  "spells": {
+   "3": [
+    "Heroism",
+    "Shield"
+   ],
+   "5": [
+    "Shining Smite",
+    "Warding Bond"
+   ],
+   "9": [
+    "Aura of Vitality",
+    "Conjure Barrage"
+   ],
+   "13": [
+    "Aura of Purity",
+    "Fire Shield"
+   ],
+   "17": [
+    "Banishing Smite",
+    "Mass Cure Wounds"
+   ]
+  },
+  "spellcasting": null,
+  "resources": [
+   {
+    "key": "arcane-jolt",
+    "name": "Arcane Jolt",
+    "recharge": "long",
+    "max": "int",
+    "level": 9
+   }
+  ]
+ },
+ {
+  "id": "artificer-cartographer",
+  "classId": "artificer",
+  "name": "Cartographer",
+  "source": "Eberron: Forge of the Artificer",
+  "description": "A navigator who gives allies magical maps, teleports around the battlefield and marks enemies with Faerie Fire.",
+  "features": [
+   {
+    "level": 3,
+    "name": "Tools of the Trade",
+    "text": "Gain proficiency with Calligrapher's Supplies and Cartographer's Tools (or other Artisan's Tools for any you have). Spell Scroll scribing time is halved."
+   },
+   {
+    "level": 3,
+    "name": "Cartographer Spells",
+    "text": "You always have these spells prepared at the listed Artificer levels; they don't count against your prepared total."
+   },
+   {
+    "level": 3,
+    "name": "Adventurer's Atlas",
+    "text": "After a Long Rest with Cartographer's Tools, give magical maps to at least 2 and up to 1 + Int modifier creatures (min 2). Holders add 1d4 to Initiative and always know where other holders are, and can target each other with spells regardless of sight or cover."
+   },
+   {
+    "level": 3,
+    "name": "Mapping Magic",
+    "text": "Cast Faerie Fire free Int modifier (min 1) times per Long Rest. Portal Jump: spend half your Speed to teleport to a space you see within 10 ft, or within 5 ft of a map holder within 30 ft."
+   },
+   {
+    "level": 5,
+    "name": "Guided Precision",
+    "text": "Once per turn, add your Int modifier to damage when you cast a Cartographer Spells spell or hit a Faerie Fire-affected creature. Damage can't make you lose Concentration on Faerie Fire."
+   },
+   {
+    "level": 9,
+    "name": "Ingenious Movement",
+    "text": "When you use Flash of Genius, you or a willing creature within 30 ft can teleport up to 30 ft to a space you see as part of the same Reaction."
+   },
+   {
+    "level": 15,
+    "name": "Superior Atlas",
+    "text": "Safe Haven: a map holder dropping to 0 HP can destroy their map to instead have HP equal to twice your Artificer level and teleport next to you or another holder. Unerring Path: if you hold a map, cast Find the Path once per Long Rest with no slot or components."
+   }
+  ],
+  "spells": {
+   "3": [
+    "Faerie Fire",
+    "Guiding Bolt",
+    "Healing Word"
+   ],
+   "5": [
+    "Locate Object",
+    "Mind Spike"
+   ],
+   "9": [
+    "Call Lightning",
+    "Clairvoyance"
+   ],
+   "13": [
+    "Banishment",
+    "Locate Creature"
+   ],
+   "17": [
+    "Scrying",
+    "Teleportation Circle"
+   ]
+  },
+  "spellcasting": null,
+  "resources": [
+   {
+    "key": "illuminated-cartography",
+    "name": "Illuminated Cartography (Faerie Fire)",
+    "recharge": "long",
+    "max": "int",
+    "level": 3
+   },
+   {
+    "key": "unerring-path",
+    "name": "Unerring Path (Find the Path)",
+    "recharge": "long",
+    "max": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "id": "artificer-reanimator",
+  "classId": "artificer",
+  "name": "Reanimator",
+  "source": "Ravenloft: The Horrors Within",
+  "description": "A grim experimenter who stitches together an undead companion and uses lightning and necromancy to revive and bolster allies.",
+  "features": [
+   {
+    "level": 3,
+    "name": "Reanimator Spells",
+    "text": "You always have these spells prepared at the listed Artificer levels; they don't count against your prepared total."
+   },
+   {
+    "level": 3,
+    "name": "Reanimator's Skill Set",
+    "text": "Jolt to Life: when casting Spare the Dying you can revive the target with HP equal to your Artificer level while a 10-ft Emanation of creatures you choose make a Dex save or take 2d4 Lightning (3d4 at 11, 4d4 at 17); Int modifier uses per Long Rest. You also gain proficiency with Alchemist's Supplies (or other Artisan's Tools if you already have them)."
+   },
+   {
+    "level": 3,
+    "name": "Reanimated Companion",
+    "text": "As a Magic action with Tinker's Tools (or proficient Artisan's Tools) create an undead companion (AC 10 + Int, HP 5 + 5 times your Artificer level, Speed 30 ft, Dreadful Swipe 1d4 + Int Necrotic that stops Opportunity Attacks, Death Burst 2d4 Necrotic in 10-ft Emanation). It Dodges unless you spend a Bonus Action to command it. Create once per Long Rest, or by spending a spell slot."
+   },
+   {
+    "level": 5,
+    "name": "Strange Modifications",
+    "text": "When you create the companion, choose one: Arcane Conduit (cast as if from its space, and add Int to one Evocation or Necromancy damage roll once per turn while it is within 120 ft) or Ferocity (Dreadful Swipe becomes 1d6)."
+   },
+   {
+    "level": 9,
+    "name": "Improved Reanimation",
+    "text": "Death Burst damage becomes 4d4 and your companion's Necrotic damage ignores Resistance."
+   },
+   {
+    "level": 9,
+    "name": "Macabre Modifications",
+    "text": "Choose two Strange Modifications instead of one, and add new options: Bloated (Large, pushes targets 10 ft with its Swipe, adds Int to Death Burst), Gaunt (Speed 45 ft, Climb Speed, frightens creatures starting a turn in a 10-ft Emanation on a failed Wis save), Moist (Swim Speed, squeezes through 1-inch spaces, attackers within 10 ft take Acid damage equal to your Int modifier)."
+   },
+   {
+    "level": 15,
+    "name": "Refined Reanimation",
+    "text": "Facilitated Revival: cast Raise Dead once per Long Rest with no slot or material components. Life Transfer: as a Reaction when you or the companion take damage, gain HP equal to its current HP, then it dies and bursts. You choose three Strange Modifications."
+   }
+  ],
+  "spells": {
+   "3": [
+    "False Life",
+    "Spare the Dying",
+    "Witch Bolt"
+   ],
+   "5": [
+    "Blindness/Deafness",
+    "Enhance Ability"
+   ],
+   "9": [
+    "Animate Dead",
+    "Lightning Bolt"
+   ],
+   "13": [
+    "Blight",
+    "Death Ward"
+   ],
+   "17": [
+    "Antilife Shell",
+    "Raise Dead"
+   ]
+  },
+  "spellcasting": null,
+  "resources": [
+   {
+    "key": "jolt-to-life",
+    "name": "Jolt to Life (Spare the Dying)",
+    "recharge": "long",
+    "max": "int",
+    "level": 3
+   },
+   {
+    "key": "facilitated-revival",
+    "name": "Facilitated Revival (Raise Dead)",
+    "recharge": "long",
+    "max": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ]
+   }
+  ]
+ }
+]

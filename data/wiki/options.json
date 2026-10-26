@@ -1,0 +1,382 @@
+[
+  {
+    "id": "agonizing-blast",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Agonizing Blast",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+, a Warlock cantrip that deals damage",
+    "repeatable": true,
+    "text": "Pick a damaging Warlock cantrip you know; add your Charisma modifier to its damage rolls. Choose a different cantrip each time you take it."
+  },
+  {
+    "id": "armor-of-shadows",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Armor of Shadows",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "Cast Mage Armor on yourself at will without a spell slot."
+  },
+  {
+    "id": "ascendant-step",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Ascendant Step",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+",
+    "repeatable": false,
+    "text": "Cast Levitate on yourself without a spell slot."
+  },
+  {
+    "id": "devils-sight",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Devil's Sight",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+",
+    "repeatable": false,
+    "text": "See normally in Dim Light and Darkness (magical or not) within 120 ft."
+  },
+  {
+    "id": "devouring-blade",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Devouring Blade",
+    "source": "Player's Handbook",
+    "prereq": "Level 12+, Thirsting Blade invocation",
+    "repeatable": false,
+    "text": "Thirsting Blade's Extra Attack grants two extra attacks instead of one."
+  },
+  {
+    "id": "eldritch-mind",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Eldritch Mind",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "Advantage on Constitution saves to maintain Concentration."
+  },
+  {
+    "id": "eldritch-smite",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Eldritch Smite",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+, Pact of the Blade invocation",
+    "repeatable": false,
+    "text": "Once per turn when you hit with your pact weapon, spend a Pact Magic slot for extra Force damage of 1d8 plus 1d8 per slot level, and you can knock a Huge or smaller target Prone."
+  },
+  {
+    "id": "eldritch-spear",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Eldritch Spear",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+, a Warlock cantrip that deals damage",
+    "repeatable": true,
+    "text": "Pick a damaging Warlock cantrip with range 10+ ft; its range increases by 30 ft times your Warlock level. Choose a different cantrip each time you take it."
+  },
+  {
+    "id": "fiendish-vigor",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Fiendish Vigor",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+",
+    "repeatable": false,
+    "text": "Cast False Life on yourself without a slot, always getting the maximum Temporary HP roll."
+  },
+  {
+    "id": "gaze-of-two-minds",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Gaze of Two Minds",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+",
+    "repeatable": false,
+    "text": "Bonus Action: touch a willing creature to perceive through its senses until the end of your next turn, extendable each turn with a Bonus Action while on the same plane. You can cast spells from its space if within 60 ft."
+  },
+  {
+    "id": "gift-of-the-depths",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Gift of the Depths",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+",
+    "repeatable": false,
+    "text": "Breathe underwater and gain a Swim Speed equal to your Speed. Cast Water Breathing once per Long Rest without a slot."
+  },
+  {
+    "id": "gift-of-the-protectors",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Gift of the Protectors",
+    "source": "Player's Handbook",
+    "prereq": "Level 9+, Pact of the Tome invocation",
+    "repeatable": false,
+    "text": "Your Book of Shadows gets a page where willing creatures can write their names (Cha mod names, min 1). The first named creature dropped to 0 HP (not killed outright) goes to 1 HP instead; then it can't trigger again until a Long Rest."
+  },
+  {
+    "id": "investment-of-the-chain-master",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Investment of the Chain Master",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+, Pact of the Chain invocation",
+    "repeatable": false,
+    "text": "Your Find Familiar gains a 40 ft Fly or Swim Speed, attacks as a Bonus Action on your command, can swap its damage to Necrotic or Radiant, uses your spell save DC, and you can give it damage Resistance with a Reaction."
+  },
+  {
+    "id": "lessons-of-the-first-ones",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Lessons of the First Ones",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+",
+    "repeatable": true,
+    "text": "Gain one Origin feat of your choice. Pick a different Origin feat each time you take it."
+  },
+  {
+    "id": "lifedrinker",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Lifedrinker",
+    "source": "Player's Handbook",
+    "prereq": "Level 9+, Pact of the Blade invocation",
+    "repeatable": false,
+    "text": "Once per turn when you hit with your pact weapon, deal extra 1d6 Necrotic, Psychic or Radiant damage and spend a Hit Point Die to heal the roll plus Con mod (min 1)."
+  },
+  {
+    "id": "mask-of-many-faces",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Mask of Many Faces",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+",
+    "repeatable": false,
+    "text": "Cast Disguise Self without a spell slot."
+  },
+  {
+    "id": "master-of-myriad-forms",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Master of Myriad Forms",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+",
+    "repeatable": false,
+    "text": "Cast Alter Self without a spell slot."
+  },
+  {
+    "id": "misty-visions",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Misty Visions",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+",
+    "repeatable": false,
+    "text": "Cast Silent Image without a spell slot."
+  },
+  {
+    "id": "one-with-shadows",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "One with Shadows",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+",
+    "repeatable": false,
+    "text": "While in Dim Light or Darkness, cast Invisibility on yourself without a spell slot."
+  },
+  {
+    "id": "otherworldly-leap",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Otherworldly Leap",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+",
+    "repeatable": false,
+    "text": "Cast Jump on yourself without a spell slot."
+  },
+  {
+    "id": "pact-of-the-blade",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Pact of the Blade",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "Bonus Action: conjure or bond with a Simple or Martial Melee weapon as your pact weapon. You are proficient with it, can use it as a Spellcasting Focus, can use Charisma for its attacks and damage, and can switch its damage to Necrotic, Psychic or Radiant. The bond ends if the weapon is 5+ ft away for 1 minute, you rebond, or you die."
+  },
+  {
+    "id": "pact-of-the-chain",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Pact of the Chain",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "Learn Find Familiar and cast it as a Magic action without a slot, with special forms (Imp, Pseudodragon, Quasit, Skeleton, Slaad Tadpole, Sphinx of Wonder, Sprite, Venomous Snake). When you take the Attack action you can give up one attack so your familiar attacks with its Reaction."
+  },
+  {
+    "id": "pact-of-the-tome",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Pact of the Tome",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "After a Short or Long Rest, conjure a Book of Shadows holding three cantrips and two level 1 Ritual spells of your choice from any class list. They count as prepared Warlock spells while you carry it, and the book is a Spellcasting Focus."
+  },
+  {
+    "id": "repelling-blast",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Repelling Blast",
+    "source": "Player's Handbook",
+    "prereq": "Level 2+, a Warlock cantrip that deals damage via an attack roll",
+    "repeatable": true,
+    "text": "Pick a Warlock cantrip you know that uses an attack roll; when it hits a Large or smaller creature, push it up to 10 ft away. Choose a different cantrip each time you take it."
+  },
+  {
+    "id": "thirsting-blade",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Thirsting Blade",
+    "source": "Player's Handbook",
+    "prereq": "Level 5+, Pact of the Blade invocation",
+    "repeatable": false,
+    "text": "Gain Extra Attack with your pact weapon only: attack twice with it when you take the Attack action."
+  },
+  {
+    "id": "visions-of-distant-realms",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Visions of Distant Realms",
+    "source": "Player's Handbook",
+    "prereq": "Level 9+",
+    "repeatable": false,
+    "text": "Cast Arcane Eye without a spell slot."
+  },
+  {
+    "id": "whispers-of-the-grave",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Whispers of the Grave",
+    "source": "Player's Handbook",
+    "prereq": "Level 7+",
+    "repeatable": false,
+    "text": "Cast Speak with Dead without a spell slot."
+  },
+  {
+    "id": "witch-sight",
+    "type": "invocation",
+    "classId": "warlock",
+    "name": "Witch Sight",
+    "source": "Player's Handbook",
+    "prereq": "Level 15+",
+    "repeatable": false,
+    "text": "Truesight with a range of 30 ft."
+  },
+  {
+    "id": "careful-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Careful Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) When a spell forces saves, pick up to Cha mod creatures (min 1); they automatically succeed and take no damage even from half-damage effects."
+  },
+  {
+    "id": "distant-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Distant Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) Double the range of a spell with range 5+ ft, or give a Touch spell a 30 ft range."
+  },
+  {
+    "id": "empowered-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Empowered Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) After rolling spell damage, reroll up to Cha mod damage dice (min 1) and keep the new results. Can be combined with another Metamagic option on the same casting."
+  },
+  {
+    "id": "extended-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Extended Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) Double the duration of a spell lasting 1 minute or longer (max 24 hours). If it needs Concentration, you have Advantage on saves to maintain it."
+  },
+  {
+    "id": "heightened-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Heightened Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(2 SP) Give one target of a save-based spell Disadvantage on its first save against it."
+  },
+  {
+    "id": "quickened-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Quickened Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(2 SP) Change a spell's casting time from an action to a Bonus Action. You can't use it if you've already cast a level 1+ spell this turn, nor cast one after using it."
+  },
+  {
+    "id": "seeking-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Seeking Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) If you miss with a spell attack roll, reroll the d20 and use the new roll. Can be combined with another Metamagic option on the same casting."
+  },
+  {
+    "id": "subtle-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Subtle Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) Cast a spell without Verbal, Somatic or Material components, except Material components that are consumed or have a listed cost."
+  },
+  {
+    "id": "transmuted-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Transmuted Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) Change a spell's damage type among Acid, Cold, Fire, Lightning, Poison and Thunder to another on that list."
+  },
+  {
+    "id": "twinned-spell",
+    "type": "metamagic",
+    "classId": "sorcerer",
+    "name": "Twinned Spell",
+    "source": "Player's Handbook",
+    "prereq": null,
+    "repeatable": false,
+    "text": "(1 SP) When casting a spell that can target an extra creature at a higher slot level (like Charm Person), raise its effective level by 1."
+  }
+]

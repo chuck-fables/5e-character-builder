@@ -1,0 +1,562 @@
+[
+ {
+  "id": "artificer-plan-alchemy-jug",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Alchemy Jug",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Jug that produces a chosen liquid such as water, wine, oil or acid, a limited amount per day."
+ },
+ {
+  "id": "artificer-plan-bag-of-holding",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Bag of Holding",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Bag with a much larger extradimensional interior (about 500 lb / 64 cubic feet) that stays light."
+ },
+ {
+  "id": "artificer-plan-cap-of-water-breathing",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Cap of Water Breathing",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Cap that lets you breathe underwater while worn."
+ },
+ {
+  "id": "artificer-plan-goggles-of-night",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Goggles of Night",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Goggles granting Darkvision to 60 feet (or extending existing Darkvision)."
+ },
+ {
+  "id": "artificer-plan-manifold-tool",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Manifold Tool",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. An Artisan's Tools set that can change into another kind of Artisan's Tools on command; requires attunement."
+ },
+ {
+  "id": "artificer-plan-repeating-shot",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Repeating Shot",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ammunition weapon that grants +1 to attack and damage and produces its own ammunition."
+ },
+ {
+  "id": "artificer-plan-returning-weapon",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Returning Weapon",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Thrown weapon with +1 to attack and damage that flies back to your hand after being thrown."
+ },
+ {
+  "id": "artificer-plan-rope-of-climbing",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Rope of Climbing",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. 60-ft rope that moves on command, helping you climb, tie or fasten itself."
+ },
+ {
+  "id": "artificer-plan-sending-stones",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Sending Stones",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Pair of stones that let two holders send short messages to each other once per day."
+ },
+ {
+  "id": "artificer-plan-shield-1",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Shield +1",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Shield that gives a +1 bonus to AC in addition to its normal bonus."
+ },
+ {
+  "id": "artificer-plan-wand-of-magic-detection",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wand of Magic Detection",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Wand that casts Detect Magic with charges that regenerate daily."
+ },
+ {
+  "id": "artificer-plan-wand-of-secrets",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wand of Secrets",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Wand that reveals nearby secret doors and traps, with limited daily charges."
+ },
+ {
+  "id": "artificer-plan-wand-of-the-war-mage-1",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wand of the War Mage +1",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Spellcasting wand giving +1 to spell attack rolls and ignoring half cover; requires attunement."
+ },
+ {
+  "id": "artificer-plan-weapon-1",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Weapon +1",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Weapon with a +1 bonus to attack and damage rolls."
+ },
+ {
+  "id": "artificer-plan-wraps-of-unarmed-power-1",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wraps of Unarmed Power +1",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Wraps giving a +1 bonus to attack and damage with unarmed strikes, counting as magical."
+ },
+ {
+  "id": "artificer-plan-common-magic-item",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Common Magic Item",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 2+",
+  "repeatable": true,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Varies. Any Common magic item that is not a Potion, a Scroll or cursed. You can learn this plan multiple times, each with a different item (each counts as its own plan)."
+ },
+ {
+  "id": "artificer-plan-armor-1",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Armor +1",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Armor with a +1 bonus to AC."
+ },
+ {
+  "id": "artificer-plan-boots-of-elvenkind",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Boots of Elvenkind",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Boots that make your steps silent, helping with Stealth."
+ },
+ {
+  "id": "artificer-plan-boots-of-the-winding-path",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Boots of the Winding Path",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Boots that let you teleport short distances back along the path you just walked."
+ },
+ {
+  "id": "artificer-plan-cloak-of-elvenkind",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Cloak of Elvenkind",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Cloak that grants Advantage on Stealth checks and imposes Disadvantage on sight-based Perception against you."
+ },
+ {
+  "id": "artificer-plan-cloak-of-the-manta-ray",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Cloak of the Manta Ray",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Cloak that gives a swim speed and underwater breathing while worn."
+ },
+ {
+  "id": "artificer-plan-dazzling-weapon",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Dazzling Weapon",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Weapon that can shed bright light and dazzle a creature it hits."
+ },
+ {
+  "id": "artificer-plan-eyes-of-charming",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Eyes of Charming",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Lenses that let you cast Charm Person a few times per day."
+ },
+ {
+  "id": "artificer-plan-eyes-of-minute-seeing",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Eyes of Minute Seeing",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Lenses that grant Advantage on checks to inspect very small things up close."
+ },
+ {
+  "id": "artificer-plan-gloves-of-thievery",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Gloves of Thievery",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Gloves that make you invisible-handed and boost Sleight of Hand and lockpicking checks."
+ },
+ {
+  "id": "artificer-plan-helm-of-awareness",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Helm of Awareness",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Helm that gives Advantage on Initiative rolls and prevents being surprised while you are conscious."
+ },
+ {
+  "id": "artificer-plan-lantern-of-revealing",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Lantern of Revealing",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Lantern that illuminates and reveals invisible creatures within its light."
+ },
+ {
+  "id": "artificer-plan-mind-sharpener",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Mind Sharpener",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Item that helps you keep Concentration on a spell after a failed save, with limited charges."
+ },
+ {
+  "id": "artificer-plan-necklace-of-adaptation",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Necklace of Adaptation",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Necklace that lets you breathe in any environment and gives Advantage on saves against harmful gases and vapors."
+ },
+ {
+  "id": "artificer-plan-pipes-of-haunting",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Pipes of Haunting",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Pipes that can frighten creatures that hear them, with limited charges."
+ },
+ {
+  "id": "artificer-plan-repulsion-shield",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Repulsion Shield",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Shield that can push attackers away and offers a bonus to AC."
+ },
+ {
+  "id": "artificer-plan-ring-of-swimming",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Swimming",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Ring granting a Swim Speed of 40 feet."
+ },
+ {
+  "id": "artificer-plan-ring-of-water-walking",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Water Walking",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Ring that lets you walk across liquid surfaces."
+ },
+ {
+  "id": "artificer-plan-sentinel-shield",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Sentinel Shield",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Shield that gives Advantage on Initiative and Perception checks."
+ },
+ {
+  "id": "artificer-plan-spell-refueling-ring",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Spell-Refueling Ring",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring that lets you recover an expended low-level spell slot once per day."
+ },
+ {
+  "id": "artificer-plan-wand-of-magic-missiles",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wand of Magic Missiles",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Wand that casts Magic Missile, with charges that regenerate daily."
+ },
+ {
+  "id": "artificer-plan-wand-of-web",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wand of Web",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Wand that casts Web, with charges that regenerate daily; requires attunement."
+ },
+ {
+  "id": "artificer-plan-weapon-of-warning",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Weapon of Warning",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 6+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Weapon that warns you of danger, granting Advantage on Initiative and rousing you from sleep."
+ },
+ {
+  "id": "artificer-plan-armor-of-resistance",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Armor of Resistance",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Armor that grants Resistance to one damage type chosen when it is made."
+ },
+ {
+  "id": "artificer-plan-dagger-of-venom",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Dagger of Venom",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Magic dagger that can coat itself in poison for extra damage."
+ },
+ {
+  "id": "artificer-plan-elven-chain",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Elven Chain",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Light chain shirt (AC 14 + Dex) you can wear without Medium armor training."
+ },
+ {
+  "id": "artificer-plan-ring-of-feather-falling",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Feather Falling",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring that slows your fall like Feather Fall."
+ },
+ {
+  "id": "artificer-plan-ring-of-jumping",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Jumping",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring that lets you cast Jump on yourself at will."
+ },
+ {
+  "id": "artificer-plan-ring-of-mind-shielding",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Mind Shielding",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring that makes you immune to mind-reading and many divinations."
+ },
+ {
+  "id": "artificer-plan-shield-2",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Shield +2",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Shield that gives a +2 bonus to AC in addition to its normal bonus."
+ },
+ {
+  "id": "artificer-plan-wand-of-the-war-mage-2",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wand of the War Mage +2",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Spellcasting wand giving +2 to spell attack rolls and ignoring half cover; requires attunement."
+ },
+ {
+  "id": "artificer-plan-weapon-2",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Weapon +2",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Weapon with a +2 bonus to attack and damage rolls."
+ },
+ {
+  "id": "artificer-plan-wraps-of-unarmed-power-2",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Wraps of Unarmed Power +2",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Wraps giving a +2 bonus to attack and damage with unarmed strikes, counting as magical."
+ },
+ {
+  "id": "artificer-plan-uncommon-wondrous-item",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Uncommon Wondrous Item",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 10+",
+  "repeatable": true,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Varies. Any Uncommon Wondrous Item that is not cursed. You can learn this plan multiple times, each with a different item (each counts as its own plan)."
+ },
+ {
+  "id": "artificer-plan-armor-2",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Armor +2",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: No. Armor with a +2 bonus to AC."
+ },
+ {
+  "id": "artificer-plan-arrow-catching-shield",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Arrow-Catching Shield",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Shield that boosts AC against ranged attacks and can redirect them to you."
+ },
+ {
+  "id": "artificer-plan-flame-tongue",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Flame Tongue",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Weapon that bursts into flame on command, dealing extra Fire damage."
+ },
+ {
+  "id": "artificer-plan-ring-of-free-action",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Free Action",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring that stops difficult terrain, paralysis and restraints from slowing you."
+ },
+ {
+  "id": "artificer-plan-ring-of-protection",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of Protection",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring giving +1 to AC and saving throws."
+ },
+ {
+  "id": "artificer-plan-ring-of-the-ram",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Ring of the Ram",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": false,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Yes. Ring that fires force blasts to batter creatures and objects, with charges."
+ },
+ {
+  "id": "artificer-plan-rare-wondrous-item",
+  "type": "other",
+  "classId": "artificer",
+  "name": "Rare Wondrous Item",
+  "source": "Eberron: Forge of the Artificer",
+  "prereq": "Artificer level 14+",
+  "repeatable": true,
+  "text": "Magic item plan (Replicate Magic Item). Attunement: Varies. Any Rare Wondrous Item that is not cursed. You can learn this plan multiple times, each with a different item (each counts as its own plan)."
+ }
+]

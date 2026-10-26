@@ -1,0 +1,498 @@
+[
+  {
+    "id": "agent-of-the-ninth-quill",
+    "name": "Agent of the Ninth Quill",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "dex",
+      "int",
+      "cha"
+    ],
+    "feat": "arcane-infiltrator",
+    "skills": [
+      "Arcana",
+      "Sleight of Hand"
+    ],
+    "tool": "Thieves' Tools",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Dagger",
+          "Light Hammer",
+          "Thieves' Tools",
+          "Iron Spikes",
+          "Rope",
+          "Traveler's Clothes"
+        ],
+        "gp": 17
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A thief and spy from a guild that steals magic lore and relics, skilled at sabotaging groups of mages."
+  },
+  {
+    "id": "bejeweled-conclave-spy",
+    "name": "Bejeweled Conclave Spy",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "dex",
+      "wis",
+      "cha"
+    ],
+    "feat": "arcane-eloquence",
+    "skills": [
+      "Deception",
+      "Perception"
+    ],
+    "tool": "Disguise Kit",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Disguise Kit",
+          "Fine Clothes",
+          "Perfume"
+        ],
+        "gp": 5
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "Trained by the Bejeweled Conclave to pass as a courtier or entertainer while gathering secrets with charm and wit."
+  },
+  {
+    "id": "cosmic-dawn-experiment",
+    "name": "Cosmic Dawn Experiment",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "str",
+      "dex",
+      "con"
+    ],
+    "feat": "transmuted-anatomy",
+    "skills": [
+      "Athletics",
+      "Survival"
+    ],
+    "tool": "Choose one kind of Artisan’s Tools",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Artisan’s Tools (same as above)",
+          "Backpack",
+          "Robe",
+          "Traveler’s Clothes"
+        ],
+        "gp": 30
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "Your body was reshaped by the transmutation experiments of the Bringers of the Cosmic Dawn, and you now use that strange anatomy to your advantage."
+  },
+  {
+    "id": "covenant-of-the-grave-recruit",
+    "name": "Covenant of the Grave Recruit",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "str",
+      "int",
+      "wis"
+    ],
+    "feat": "arcane-undertaker",
+    "skills": [
+      "History",
+      "Medicine"
+    ],
+    "tool": "Herbalism Kit",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Dagger",
+          "Herbalism Kit",
+          "Book (anatomy)",
+          "Shovel"
+        ],
+        "gp": 16
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "You studied death alongside the Covenant of the Grave, combining medicine, necromancy and history in a scientific way."
+  },
+  {
+    "id": "crucible-storm-chaser",
+    "name": "Crucible Storm Chaser",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "str",
+      "con",
+      "int"
+    ],
+    "feat": "arcane-overload",
+    "skills": [
+      "Athletics",
+      "Nature"
+    ],
+    "tool": "Glassblower’s Tools",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Glassblower’s Tools",
+          "Backpack",
+          "Rope",
+          "Traveler’s Clothes"
+        ],
+        "gp": 15
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A daredevil who joined the Crucible Keepers to study natural and magical disasters, and who thrives when danger is close."
+  },
+  {
+    "id": "familiar-trainer",
+    "name": "Familiar Trainer",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "con",
+      "int",
+      "wis"
+    ],
+    "feat": "familiar-friend",
+    "skills": [
+      "Animal Handling",
+      "Arcana"
+    ],
+    "tool": "Choose one kind of Gaming Set",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Quarterstaff",
+          "Gaming Set (same as above)",
+          "Bedroll",
+          "Bell",
+          "String",
+          "Tinderbox",
+          "Traveler’s Clothes",
+          "Waterskin"
+        ],
+        "gp": 44
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A magical familiar bonded with you since your youth, and you have learned to work as a team with it."
+  },
+  {
+    "id": "horizon-weaver-initiate",
+    "name": "Horizon Weaver Initiate",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "dex",
+      "con",
+      "wis"
+    ],
+    "feat": "portal-jumper",
+    "skills": [
+      "Acrobatics",
+      "Survival"
+    ],
+    "tool": "Weaver’s Tools",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Shortbow",
+          "20 Arrows",
+          "Weaver’s Tools",
+          "Map",
+          "Quiver",
+          "Rope",
+          "Traveler’s Clothes"
+        ],
+        "gp": 18
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A restless wanderer who learned some teleportation magic from the Horizon Weavers to help with your travels."
+  },
+  {
+    "id": "phantasmic-circus-trouper",
+    "name": "Phantasmic Circus Trouper",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "dex",
+      "con",
+      "cha"
+    ],
+    "feat": "arcane-artist",
+    "skills": [
+      "Deception",
+      "Performance"
+    ],
+    "tool": "Disguise Kit",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Disguise Kit",
+          "Gaming Set (any)",
+          "Costume",
+          "Mirror",
+          "Traveler’s Clothes"
+        ],
+        "gp": 12
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A performer or circus hand who learned illusion magic and misdirection while touring the world."
+  },
+  {
+    "id": "seer-apprentice",
+    "name": "Seer Apprentice",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "int",
+      "wis",
+      "cha"
+    ],
+    "feat": "arcane-omens",
+    "skills": [
+      "History",
+      "Insight"
+    ],
+    "tool": "Navigator’s Tools",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Navigator’s Tools",
+          "8 Candles",
+          "Ink",
+          "Ink Pen",
+          "Parchment (9 sheets)",
+          "Pouch",
+          "Tinderbox",
+          "Traveler’s Clothes"
+        ],
+        "gp": 11
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "Trained among the Seers of Sea and Sky to read minor omens, and now you travel offering advice."
+  },
+  {
+    "id": "ward-of-the-sheltering-hands",
+    "name": "Ward of the Sheltering Hands",
+    "source": "Arcana Unleashed",
+    "abilities": [
+      "con",
+      "wis",
+      "cha"
+    ],
+    "feat": "arcane-safeguard",
+    "skills": [
+      "Insight",
+      "Medicine"
+    ],
+    "tool": "Cook’s Utensils",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Cook’s Utensils",
+          "Blanket",
+          "Healer’s Kit",
+          "Lamp",
+          "Oil (3 flasks)",
+          "Tinderbox",
+          "Traveler’s Clothes",
+          "Waterskin"
+        ],
+        "gp": 40
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "After a run of bad luck, the Sheltering Hands helped you back on your feet and taught you protective magic."
+  },
+  {
+    "id": "discredited-neural-tuner",
+    "name": "Discredited Neural Tuner",
+    "source": "Project Lamordia",
+    "abilities": [
+      "str",
+      "dex",
+      "int"
+    ],
+    "feat": "gathered-whispers",
+    "skills": [
+      "Medicine",
+      "Nature"
+    ],
+    "tool": "Tinker’s Tools (as engineer’s toolkit)",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Tinker’s Tools (as engineer’s toolkit)"
+        ],
+        "gp": 0
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A disgraced technician from the depths of Mordenheim Kinetics who escaped disposal and now hunts for the truth behind the company."
+  },
+  {
+    "id": "fabricated-mind",
+    "name": "Fabricated Mind",
+    "source": "Project Lamordia",
+    "abilities": [
+      "dex",
+      "int",
+      "cha"
+    ],
+    "feat": "echoing-soul",
+    "skills": [
+      "Deception",
+      "Insight"
+    ],
+    "tool": "Forgery Kit",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Forgery Kit",
+          "Fine Clothes",
+          "Ink",
+          "2 Ink Pens",
+          "3 Iron Spikes"
+        ],
+        "gp": 7
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A sentient mind made by experimental neurotechnology at Mordenheim Kinetics, with no memory of who created you."
+  },
+  {
+    "id": "mutated-commuter",
+    "name": "Mutated Commuter",
+    "source": "Project Lamordia",
+    "abilities": [
+      "con",
+      "wis",
+      "cha"
+    ],
+    "feat": "aberrant-anatomy",
+    "skills": [
+      "Arcana",
+      "Investigation"
+    ],
+    "tool": "Choose one kind of Gaming Set",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Gaming Set",
+          "Book (horror novel)",
+          "Flask",
+          "Lock",
+          "Signal Whistle",
+          "Traveler’s Clothes"
+        ],
+        "gp": 11
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "A commuter whose train crashed and left you supernaturally changed, and who now searches the strange Mordenheim campus for a way out."
+  },
+  {
+    "id": "reconstructed-runaway",
+    "name": "Reconstructed Runaway",
+    "source": "Project Lamordia",
+    "abilities": [
+      "str",
+      "con",
+      "wis"
+    ],
+    "feat": "symbiotic-being",
+    "skills": [
+      "Athletics",
+      "Medicine"
+    ],
+    "tool": "Smith’s Tools (as welding tools)",
+    "equipment": [
+      {
+        "option": "A",
+        "items": [
+          "Smith’s Tools (as welding tools)",
+          "Bullseye Lantern (as flashlight)",
+          "Caltrops",
+          "Chain",
+          "Crowbar",
+          "Grappling Hook",
+          "Oil (3 flasks; as 3 flashlight batteries)"
+        ],
+        "gp": 9
+      },
+      {
+        "option": "B",
+        "items": [],
+        "gp": 50
+      }
+    ],
+    "text": "Rebuilt with an artificial body after you died, you must escape Mordenheim Kinetics because you cannot pay for the surgery."
+  }
+]

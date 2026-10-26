@@ -1,0 +1,4 @@
+# local build outputs (the hosted copy is docs/index.html)
+dist/
+__pycache__/
+.DS_Store

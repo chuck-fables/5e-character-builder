@@ -1,0 +1,88 @@
+[
+  {
+    "id": "monk-warrior-of-the-mystic-arts",
+    "classId": "monk",
+    "name": "Warrior of the Mystic Arts",
+    "source": "Arcana Unleashed",
+    "description": "A monk who blends martial training with sorcerer magic, casting spells alongside unarmed strikes.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Spellcasting",
+        "text": "You cast Sorcerer-list spells using Wisdom as your spellcasting ability, and an Arcane Focus works as your focus. You know 2 cantrips (a 3rd at Monk level 10) and prepare level 1+ spells per the subclass table (3 at level 3, up to 13 at level 20), regaining slots on a Long Rest. Blade Ward, Thunderclap, Jump, Magic Missile and Shield are suggested picks; for multiclass slots you count one third of your Monk levels."
+      },
+      {
+        "level": 6,
+        "name": "Mystic Fighting Style",
+        "text": "When you take the Attack action, you can replace one of your Unarmed Strikes with a Sorcerer cantrip you know that has a casting time of an action."
+      },
+      {
+        "level": 6,
+        "name": "Mystic Focus",
+        "text": "You can spend a spell slot (no action) to regain Focus Points equal to the slot's level. When you finish a Short Rest or use Uncanny Metabolism, you can turn Focus Points into one spell slot of level 4 or lower: level 1 costs 2 points (Monk 6+), level 2 costs 3 (Monk 7+), level 3 costs 5 (Monk 13+), level 4 costs 6 (Monk 19+)."
+      },
+      {
+        "level": 11,
+        "name": "Focused Strike",
+        "text": "After you use Stunning Strike, whether or not the target's save succeeds, the target has Disadvantage on saving throws against your spells until the start of your next turn."
+      },
+      {
+        "level": 17,
+        "name": "Improved Mystic Fighting Style",
+        "text": "When you use Flurry of Blows, you can replace two of its Unarmed Strikes with a level 1 or 2 Sorcerer spell that has a casting time of an action, cast as part of that same Bonus Action."
+      }
+    ],
+    "spells": {},
+    "spellcasting": {
+      "ability": "wis",
+      "progression": "third",
+      "cantrips": [
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "prepared": [
+        0,
+        0,
+        3,
+        4,
+        4,
+        4,
+        5,
+        6,
+        6,
+        7,
+        8,
+        8,
+        9,
+        10,
+        10,
+        11,
+        11,
+        11,
+        12,
+        13
+      ],
+      "ritual": false,
+      "focus": "Arcane Focus"
+    },
+    "resources": []
+  }
+]

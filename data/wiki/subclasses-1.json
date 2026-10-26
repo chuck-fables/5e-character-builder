@@ -1,0 +1,1805 @@
+[
+  {
+    "id": "barbarian-path-of-the-wild-heart",
+    "classId": "barbarian",
+    "name": "Path of the Wild Heart",
+    "source": "Player's Handbook",
+    "description": "Rage channels the spirit of animals, giving you animal-themed boosts and the ability to speak with beasts.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Animal Speaker",
+        "text": "You can cast Beast Sense and Speak with Animals, but only as rituals, using Wisdom as your spellcasting ability."
+      },
+      {
+        "level": 3,
+        "name": "Rage of the Wilds",
+        "text": "Each time you start a Rage, pick one: Bear (Resistance to all damage except Force, Necrotic, Psychic and Radiant), Eagle (Disengage and Dash as part of the Rage bonus action, and as a bonus action while raging), or Wolf (allies have Advantage on attacks against enemies within 5 feet of you)."
+      },
+      {
+        "level": 6,
+        "name": "Aspect of the Wilds",
+        "text": "Choose Owl (Darkvision 60 ft, or +60 ft if you already have it), Panther (Climb Speed equal to your Speed) or Salmon (Swim Speed equal to your Speed). You can change the choice after each Long Rest."
+      },
+      {
+        "level": 10,
+        "name": "Nature Speaker",
+        "text": "You can cast Commune with Nature as a ritual, using Wisdom as your spellcasting ability."
+      },
+      {
+        "level": 14,
+        "name": "Power of the Wilds",
+        "text": "Each time you start a Rage, pick one: Falcon (Fly Speed equal to your Speed while unarmored), Lion (enemies within 5 feet have Disadvantage on attacks against anyone but you or another Lion-raging Barbarian), or Ram (your melee hits can knock Large or smaller creatures Prone)."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "barbarian-path-of-the-world-tree",
+    "classId": "barbarian",
+    "name": "Path of the World Tree",
+    "source": "Player's Handbook",
+    "description": "Rage draws on the cosmic tree Yggdrasil for temporary hit points, pulling enemies close, extra reach and teleportation.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Vitality of the Tree",
+        "text": "When you start a Rage you gain Temporary Hit Points equal to your Barbarian level. At the start of each of your turns while raging, you can give another creature within 10 feet Temporary Hit Points equal to a roll of d6s equal to your Rage Damage bonus."
+      },
+      {
+        "level": 6,
+        "name": "Branches of the Tree",
+        "text": "While you rage, you can use your Reaction when a visible creature starts its turn within 30 feet to force a Strength save (DC 8 + Str mod + Proficiency Bonus). On a failure it is teleported to a free space within 5 feet of you, and you can drop its Speed to 0 until the end of the turn."
+      },
+      {
+        "level": 10,
+        "name": "Battering Roots",
+        "text": "On your turn your reach is 10 feet longer with Heavy or Versatile melee weapons. When you hit with one, you can use the Push or Topple mastery in addition to another mastery you are using with it."
+      },
+      {
+        "level": 14,
+        "name": "Travel along the Tree",
+        "text": "When you start a Rage and as a bonus action while raging, you can teleport up to 60 feet to a space you can see. Once per Rage you can extend that to 150 feet and bring up to six willing creatures within 10 feet of you."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "travel-long-teleport",
+        "name": "Travel along the Tree (150 ft teleport, per Rage)",
+        "recharge": "special",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "barbarian-path-of-the-zealot",
+    "classId": "barbarian",
+    "name": "Path of the Zealot",
+    "source": "Player's Handbook",
+    "description": "A god-touched Barbarian whose Rage deals bonus divine damage, heals through a pool of dice and eventually returns allies from the brink.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Divine Fury",
+        "text": "Once per turn while raging, the first creature you hit with a weapon or Unarmed Strike takes extra damage of 1d6 + half your Barbarian level (round down). You choose Necrotic or Radiant each time."
+      },
+      {
+        "level": 3,
+        "name": "Warrior of the Gods",
+        "text": "You have a pool of four d12s. As a bonus action you can spend any number of them, roll them and regain that many Hit Points. The pool refills on a Long Rest and grows to 5 dice at level 6, 6 at level 12 and 7 at level 17."
+      },
+      {
+        "level": 6,
+        "name": "Fanatical Focus",
+        "text": "Once per Rage, when you fail a saving throw you can reroll it with a bonus equal to your Rage Damage bonus and must keep the new result."
+      },
+      {
+        "level": 10,
+        "name": "Zealous Presence",
+        "text": "As a bonus action, up to ten creatures of your choice within 60 feet gain Advantage on attack rolls and saving throws until the start of your next turn. Once per Long Rest, or again by expending a use of Rage."
+      },
+      {
+        "level": 14,
+        "name": "Rage of the Gods",
+        "text": "When you Rage, you can take a divine-warrior form for 1 minute: Fly Speed equal to your Speed with hover, Resistance to Necrotic, Psychic and Radiant damage, and a Reaction (costing a Rage use) to bring a creature within 30 feet that drops to 0 back up to HP equal to your Barbarian level. Once per Long Rest."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "warrior-of-the-gods",
+        "name": "Warrior of the Gods (d12 pool)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7
+        ]
+      },
+      {
+        "key": "zealous-presence",
+        "name": "Zealous Presence",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "rage-of-the-gods",
+        "name": "Rage of the Gods",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bard-college-of-dance",
+    "classId": "bard",
+    "name": "College of Dance",
+    "source": "Player's Handbook",
+    "description": "A graceful, unarmored Bard who fights with Unarmed Strikes and moves allies with Bardic Inspiration.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Dazzling Footwork",
+        "text": "While unarmored and without a Shield: Advantage on Performance checks that involve dancing, AC equals 10 + Dex mod + Cha mod, you can make an Unarmed Strike whenever you spend Bardic Inspiration on an action, bonus action or reaction, and you can use Dexterity for Unarmed Strikes. Your Unarmed Strikes can deal Bludgeoning damage equal to a Bardic Inspiration die roll + Dex mod without spending the die."
+      },
+      {
+        "level": 6,
+        "name": "Inspiring Movement",
+        "text": "When an enemy you can see ends its turn within 5 feet of you, spend a Bardic Inspiration and your Reaction to move up to half your Speed, and one ally within 30 feet can also move up to half their Speed as a Reaction. This movement does not provoke Opportunity Attacks."
+      },
+      {
+        "level": 6,
+        "name": "Tandem Footwork",
+        "text": "When you roll Initiative you can spend a Bardic Inspiration (if not Incapacitated), roll the die, and you and each ally within 30 feet who can see or hear you add that number to Initiative."
+      },
+      {
+        "level": 14,
+        "name": "Leading Evasion",
+        "text": "On a Dexterity save for half damage you take no damage on a success and half on a failure. You can share this with creatures within 5 feet making the same save. It doesn't work while you are Incapacitated."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "bard-college-of-glamour",
+    "classId": "bard",
+    "name": "College of Glamour",
+    "source": "Player's Handbook",
+    "description": "A fey-touched Bard who charms or frightens foes, grants temporary hit points and projects an overpowering majesty.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Beguiling Magic",
+        "text": "You always have Charm Person and Mirror Image prepared. After casting an Enchantment or Illusion spell with a slot, you can force a creature within 60 feet to make a Wisdom save against your spell save DC or be Charmed or Frightened (your choice) for 1 minute, repeating the save each turn. Once per Long Rest, or again by spending a Bardic Inspiration."
+      },
+      {
+        "level": 3,
+        "name": "Mantle of Inspiration",
+        "text": "As a bonus action, spend a Bardic Inspiration and roll it. Up to your Charisma modifier (minimum 1) creatures within 60 feet gain Temporary Hit Points equal to twice the roll, and each can use its Reaction to move up to its Speed without provoking Opportunity Attacks."
+      },
+      {
+        "level": 6,
+        "name": "Mantle of Majesty",
+        "text": "You always have Command prepared. As a bonus action you cast Command for free and take on an unearthly look for 1 minute (or until Concentration ends), during which you can recast Command as a bonus action with no slot. Creatures Charmed by you automatically fail the save. Once per Long Rest, or again by spending a level 3+ slot."
+      },
+      {
+        "level": 14,
+        "name": "Unbreakable Majesty",
+        "text": "As a bonus action, take on a majestic presence for 1 minute. The first time each turn a creature hits you with an attack, it must succeed on a Charisma save against your spell save DC or the attack misses. Once per Short or Long Rest."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Charm Person",
+        "Mirror Image"
+      ],
+      "6": [
+        "Command"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "beguiling-magic",
+        "name": "Beguiling Magic",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "mantle-of-majesty",
+        "name": "Mantle of Majesty",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "unbreakable-majesty",
+        "name": "Unbreakable Majesty",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bard-college-of-spirits",
+    "classId": "bard",
+    "name": "College of Spirits",
+    "source": "Ravenloft: The Horrors Within",
+    "description": "A Bard who channels random or chosen spirits of the dead through Bardic Inspiration to heal, harm or aid.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Channeler",
+        "text": "You learn the Guidance cantrip, with a range of 60 feet when you cast it. You gain a Gaming Set (playing cards) with proficiency, and can use that set, an Arcane Focus (crystal or orb), a Candle or an Ink Pen as a Spellcasting Focus for Bard spells."
+      },
+      {
+        "level": 3,
+        "name": "Spirits from Beyond",
+        "text": "When you give someone Bardic Inspiration you can channel a random spirit by rolling your Bardic Inspiration die on a table of 12 spirits (Beloved, Sharpshooter, Avenger, Renegade, Fortune Teller, Wayfarer, Trickster, Shade, Arsonist, Coward, Brute, Priest). It stays channeled until you release it or finish a rest. As a bonus action you can spend a Bardic Inspiration to pick a spirit instead, up to the highest number on your die, and as a Magic action you can unleash one on a creature within 30 feet (save DC is your Bard spell save DC)."
+      },
+      {
+        "level": 6,
+        "name": "Empowered Channeling",
+        "text": "Power from Beyond: once per turn, when a Bard spell cast with a slot deals damage or restores Hit Points, add 1d6 to one damage roll or to the total healing. Spiritual Manifestation: you always have Spirit Guardians prepared and can cast it once per Long Rest without a slot; you can also make it grant Half Cover to you and allies in its Emanation once per Short or Long Rest."
+      },
+      {
+        "level": 14,
+        "name": "Mystical Connection",
+        "text": "When you roll on the Spirits from Beyond table you can roll twice and pick either result. If both dice match you can pick any spirit on the table."
+      }
+    ],
+    "spells": {
+      "6": [
+        "Spirit Guardians"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "spiritual-manifestation",
+        "name": "Spirit Guardians (free cast)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "spiritual-manifestation-cover",
+        "name": "Spirit Guardians Half Cover",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bard-college-of-the-moon",
+    "classId": "bard",
+    "name": "College of the Moon",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A Bard of moonlit primal magic who turns invisible, boosts healing and borrows Druid cantrips.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Moon's Inspiration",
+        "text": "Inspired Eclipse: when you give Bardic Inspiration as a bonus action you can also teleport up to 30 feet and be Invisible until the start of your next turn (it ends early if you attack, deal damage or cast). Lunar Vitality: once per turn when a spell restores Hit Points, you can spend a Bardic Inspiration die to add its roll to the healing and give the target +10 feet Speed until the end of its next turn."
+      },
+      {
+        "level": 3,
+        "name": "Primal Lore",
+        "text": "You learn Druidic and one Druid cantrip that counts as a Bard spell but doesn't count against your cantrips known (you can swap it when you gain a Bard level). You also gain proficiency in one of Animal Handling, Insight, Medicine, Nature, Perception or Survival."
+      },
+      {
+        "level": 6,
+        "name": "Blessing of Moonlight",
+        "text": "You always have Moonbeam prepared. When you cast it you can make yourself glow (Dim Light 5 feet), and whenever a creature fails its save against that Moonbeam, another creature you can see within 60 feet regains 2d4 Hit Points. Once per Long Rest."
+      },
+      {
+        "level": 14,
+        "name": "Eventide's Splendor",
+        "text": "Shadow of the New Moon: the creature who gets your Inspired Eclipse die can also turn Invisible and use its Reaction to teleport up to 30 feet. Vibrance of the Full Moon: Lunar Vitality can use a rolled 1d6 instead of spending a Bardic Inspiration die."
+      }
+    ],
+    "spells": {
+      "6": [
+        "Moonbeam"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "blessing-of-moonlight",
+        "name": "Blessing of Moonlight",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bard-college-of-valor",
+    "classId": "bard",
+    "name": "College of Valor",
+    "source": "Player's Handbook",
+    "description": "A martial Bard who uses Bardic Inspiration in combat, wears medium armor and gets Extra Attack.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Combat Inspiration",
+        "text": "A creature holding your Bardic Inspiration die can use it to add the roll to its AC against a hit (as a Reaction), or add the roll to the damage of an attack it just hit with."
+      },
+      {
+        "level": 3,
+        "name": "Martial Training",
+        "text": "You gain Martial weapon proficiency and training with Medium armor and Shields, and you can use a Simple or Martial weapon as a Spellcasting Focus for Bard spells."
+      },
+      {
+        "level": 6,
+        "name": "Extra Attack",
+        "text": "You attack twice when you take the Attack action, and you can replace one of those attacks with a Bard cantrip that has a casting time of an action."
+      },
+      {
+        "level": 14,
+        "name": "Battle Magic",
+        "text": "After you cast a spell with a casting time of an action, you can make one weapon attack as a bonus action."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "cleric-arcana-domain",
+    "classId": "cleric",
+    "name": "Arcana Domain",
+    "source": "Arcana Unleashed",
+    "description": "A Cleric who treats magic as a sacred gift, tweaking spells with Channel Divinity and borrowing Wizard spells.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Arcana Domain Spells",
+        "text": "You always have these spells prepared once you reach the listed Cleric level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "Modify Magic",
+        "text": "When you cast a spell you can spend a Channel Divinity use (no action) to either give one target Temporary Hit Points equal to 2d8 + your Cleric level, or, when a creature you can see succeeds on a save against your spell, roll 1d6 and subtract it from that creature's first save against the spell's effect."
+      },
+      {
+        "level": 3,
+        "name": "Student of Arcana",
+        "text": "You gain proficiency in Arcana or one skill from the Cleric level 1 list, and learn two Wizard cantrips (you can swap one whenever you gain a Cleric level)."
+      },
+      {
+        "level": 6,
+        "name": "Dispelling Recovery",
+        "text": "Right after casting a slot spell that heals or ends a condition, you can cast Dispel Magic for free as part of that same action. Once per Short or Long Rest, or again by spending a Channel Divinity use."
+      },
+      {
+        "level": 17,
+        "name": "Magical Mastery",
+        "text": "You learn one Wizard spell each of levels 6, 7, 8 and 9 and always have them prepared. You can swap one for another Wizard spell of the same level whenever you gain a Cleric level."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Detect Magic",
+        "Magic Missile",
+        "Magic Weapon",
+        "Nystul's Magic Aura"
+      ],
+      "5": [
+        "Counterspell",
+        "Dispel Magic"
+      ],
+      "7": [
+        "Arcane Eye",
+        "Leomund's Secret Chest"
+      ],
+      "9": [
+        "Bigby's Hand",
+        "Teleportation Circle"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "dispelling-recovery",
+        "name": "Dispelling Recovery",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cleric-grave-domain",
+    "classId": "cleric",
+    "name": "Grave Domain",
+    "source": "Ravenloft: The Horrors Within",
+    "description": "A Cleric who guards the line between life and death, cursing foes, shielding the dying and reaping souls.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Grave Domain Spells",
+        "text": "You always have these spells prepared once you reach the listed Cleric level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "Circle of Mortality",
+        "text": "Pull of Death: once per turn, when you damage a creature that is missing Hit Points with a spell or attack, it takes extra Necrotic damage (1d4, or 1d6 from level 11). Return to Life: you can cast Spare the Dying as a bonus action, and healing dice you'd roll for a creature at 0 Hit Points from a spell or Channel Divinity are treated as their maximum."
+      },
+      {
+        "level": 3,
+        "name": "Path to the Grave",
+        "text": "As a bonus action, spend a Channel Divinity use to curse a creature within 30 feet until the start of your next turn: it has Disadvantage on attacks and saves. When you or an ally hits it, you can end the curse to add Necrotic or Radiant damage equal to your Cleric level."
+      },
+      {
+        "level": 6,
+        "name": "Sentinel at Death's Door",
+        "text": "When you or a Bloodied creature you can see within 60 feet is hit by an attack, use your Reaction to halve its damage (and cancel any Critical Hit effects). You can do this a number of times equal to your Wisdom modifier (minimum 1) per Long Rest."
+      },
+      {
+        "level": 17,
+        "name": "Divine Reaper",
+        "text": "Enhanced Necromancy: spend a Channel Divinity use to add a second target to a single-target Necromancy spell of level 5 or lower, or to a Grave Domain spell. Keeper of Souls: when an enemy dies within 60 feet, you or a creature you can see within 60 feet regains HP equal to twice your Cleric level (once per Short or Long Rest, or again by spending a level 6+ slot)."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Detect Evil and Good",
+        "False Life",
+        "Gentle Repose",
+        "Ray of Enfeeblement",
+        "Spare the Dying"
+      ],
+      "5": [
+        "Revivify",
+        "Vampiric Touch"
+      ],
+      "7": [
+        "Blight",
+        "Death Ward"
+      ],
+      "9": [
+        "Dispel Evil and Good",
+        "Raise Dead"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "sentinel-at-deaths-door",
+        "name": "Sentinel at Death's Door",
+        "recharge": "long",
+        "max": "wis"
+      },
+      {
+        "key": "keeper-of-souls",
+        "name": "Keeper of Souls",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cleric-knowledge-domain",
+    "classId": "cleric",
+    "name": "Knowledge Domain",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A scholarly Cleric with Expertise, a stable of Divination spells, telepathy and foresight.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Blessings of Knowledge",
+        "text": "You gain proficiency with one Artisan's Tools and two skills from Arcana, History, Nature or Religion, and gain Expertise in those two skills."
+      },
+      {
+        "level": 3,
+        "name": "Knowledge Domain Spells",
+        "text": "You always have these spells prepared once you reach the listed Cleric level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "Mind Magic",
+        "text": "As a Magic action, spend a Channel Divinity use to cast one of your prepared Divination spells from the domain list without a slot or Material components."
+      },
+      {
+        "level": 6,
+        "name": "Unfettered Mind",
+        "text": "You gain telepathy out to 60 feet that can reach a number of creatures at once equal to your Wisdom modifier (minimum 1). You also gain Intelligence saving throw proficiency, or a different save proficiency if you already have it."
+      },
+      {
+        "level": 17,
+        "name": "Divine Foreknowledge",
+        "text": "As a bonus action, gain Advantage on D20 Tests for 1 hour. Once per Long Rest, or again by spending a level 6+ slot."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Command",
+        "Comprehend Languages",
+        "Detect Magic",
+        "Detect Thoughts",
+        "Identify",
+        "Mind Spike"
+      ],
+      "5": [
+        "Dispel Magic",
+        "Nondetection",
+        "Tongues"
+      ],
+      "7": [
+        "Arcane Eye",
+        "Banishment",
+        "Confusion"
+      ],
+      "9": [
+        "Legend Lore",
+        "Scrying",
+        "Synaptic Static"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "divine-foreknowledge",
+        "name": "Divine Foreknowledge",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cleric-light-domain",
+    "classId": "cleric",
+    "name": "Light Domain",
+    "source": "Player's Handbook",
+    "description": "A Cleric of radiance and fire who blasts foes with light and protects allies with a warding flare.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Light Domain Spells",
+        "text": "You always have these spells prepared once you reach the listed Cleric level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "Radiance of the Dawn",
+        "text": "As a Magic action, spend a Channel Divinity use to dispel magical Darkness in a 30-foot Emanation and make chosen creatures there take 2d10 + your Cleric level Radiant damage (Constitution save for half)."
+      },
+      {
+        "level": 3,
+        "name": "Warding Flare",
+        "text": "When a creature you can see within 30 feet makes an attack roll, use your Reaction to give it Disadvantage. You can do this a number of times equal to your Wisdom modifier (minimum 1), regained on a Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "Improved Warding Flare",
+        "text": "Warding Flare uses come back on a Short or Long Rest, and when you use it you can give the attacked creature Temporary Hit Points equal to 2d6 + your Wisdom modifier."
+      },
+      {
+        "level": 17,
+        "name": "Corona of Light",
+        "text": "As a Magic action, emit sunlight for 1 minute (Bright Light 60 ft, Dim Light another 30 ft). Enemies in the Bright Light have Disadvantage on saves against your Radiance of the Dawn and Fire or Radiant spells. Uses equal your Wisdom modifier (minimum 1) per Long Rest."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Burning Hands",
+        "Faerie Fire",
+        "Scorching Ray",
+        "See Invisibility"
+      ],
+      "5": [
+        "Daylight",
+        "Fireball"
+      ],
+      "7": [
+        "Arcane Eye",
+        "Wall of Fire"
+      ],
+      "9": [
+        "Flame Strike",
+        "Scrying"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "warding-flare",
+        "name": "Warding Flare (refills on Short Rest from level 6)",
+        "recharge": "long",
+        "max": "wis"
+      },
+      {
+        "key": "corona-of-light",
+        "name": "Corona of Light",
+        "recharge": "long",
+        "max": "wis"
+      }
+    ]
+  },
+  {
+    "id": "cleric-trickery-domain",
+    "classId": "cleric",
+    "name": "Trickery Domain",
+    "source": "Player's Handbook",
+    "description": "A Cleric of deception who makes an illusory double, grants stealth and swaps places with the double.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Blessing of the Trickster",
+        "text": "As a Magic action, give yourself or a willing creature within 30 feet Advantage on Stealth checks until your next Long Rest or until you use this again."
+      },
+      {
+        "level": 3,
+        "name": "Trickery Domain Spells",
+        "text": "You always have these spells prepared once you reach the listed Cleric level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "Invoke Duplicity",
+        "text": "As a bonus action, spend a Channel Divinity use to create an illusory double within 30 feet for 1 minute. You can cast spells from its space, gain Advantage on attacks against a creature when you and the double are both within 5 feet of it, and move it up to 30 feet as a bonus action (it must stay within 120 feet of you)."
+      },
+      {
+        "level": 6,
+        "name": "Trickster's Transposition",
+        "text": "Whenever you create or move the illusion with the bonus action, you can teleport to swap places with it."
+      },
+      {
+        "level": 17,
+        "name": "Improved Duplicity",
+        "text": "Shared Distraction: you and your allies have Advantage on attacks against creatures within 5 feet of the illusion. Healing Illusion: when it ends, you or a creature within 5 feet of it regains HP equal to your Cleric level."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Charm Person",
+        "Disguise Self",
+        "Invisibility",
+        "Pass without Trace"
+      ],
+      "5": [
+        "Hypnotic Pattern",
+        "Nondetection"
+      ],
+      "7": [
+        "Confusion",
+        "Dimension Door"
+      ],
+      "9": [
+        "Dominate Person",
+        "Modify Memory"
+      ]
+    },
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "cleric-war-domain",
+    "classId": "cleric",
+    "name": "War Domain",
+    "source": "Player's Handbook",
+    "description": "A battle-ready Cleric who attacks as a bonus action, boosts attack rolls and wields spiritual weapons.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Guided Strike",
+        "text": "When you or a creature within 30 feet misses an attack, spend a Channel Divinity use to add +10 to the roll (using a Reaction if it's another creature's attack)."
+      },
+      {
+        "level": 3,
+        "name": "War Domain Spells",
+        "text": "You always have these spells prepared once you reach the listed Cleric level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "War Priest",
+        "text": "As a bonus action, make one weapon attack or Unarmed Strike. You can do this a number of times equal to your Wisdom modifier (minimum 1), regained on a Short or Long Rest."
+      },
+      {
+        "level": 6,
+        "name": "War God's Blessing",
+        "text": "Spend a Channel Divinity use to cast Shield of Faith or Spiritual Weapon without a slot. Cast this way it needs no Concentration and lasts 1 minute, ending early if you cast it again, are Incapacitated or die."
+      },
+      {
+        "level": 17,
+        "name": "Avatar of Battle",
+        "text": "You gain Resistance to Bludgeoning, Piercing and Slashing damage."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Guiding Bolt",
+        "Magic Weapon",
+        "Shield of Faith",
+        "Spiritual Weapon"
+      ],
+      "5": [
+        "Crusader's Mantle",
+        "Spirit Guardians"
+      ],
+      "7": [
+        "Fire Shield",
+        "Freedom of Movement"
+      ],
+      "9": [
+        "Hold Monster",
+        "Steel Wind Strike"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "war-priest",
+        "name": "War Priest",
+        "recharge": "short",
+        "max": "wis"
+      }
+    ]
+  },
+  {
+    "id": "druid-circle-of-the-moon",
+    "classId": "druid",
+    "name": "Circle of the Moon",
+    "source": "Player's Handbook",
+    "description": "A Druid who becomes a tougher, more dangerous shapeshifter with lunar magic and moonlit teleportation.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Circle Forms",
+        "text": "In Wild Shape your max form CR is your Druid level divided by 3 (round down), your AC is 13 + Wisdom modifier if that beats the Beast's AC, and you gain Temporary Hit Points equal to three times your Druid level."
+      },
+      {
+        "level": 3,
+        "name": "Circle of the Moon Spells",
+        "text": "You always have these spells prepared once you reach the listed Druid level, and you can cast them while in Wild Shape (see the spell list for this subclass)."
+      },
+      {
+        "level": 6,
+        "name": "Improved Circle Forms",
+        "text": "In Wild Shape, each attack can deal its normal damage type or Radiant (your choice per hit), and you can add your Wisdom modifier to Constitution saving throws."
+      },
+      {
+        "level": 10,
+        "name": "Moonlight Step",
+        "text": "As a bonus action, teleport up to 30 feet to a space you can see and have Advantage on your next attack roll this turn. Uses equal your Wisdom modifier (minimum 1) per Long Rest, and you can regain a use by spending a level 2+ slot."
+      },
+      {
+        "level": 14,
+        "name": "Lunar Form",
+        "text": "Once per turn, deal an extra 2d10 Radiant damage with a Wild Shape attack. When you use Moonlight Step you can also teleport one willing creature within 10 feet to a space within 10 feet of your destination."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Cure Wounds",
+        "Moonbeam",
+        "Starry Wisp"
+      ],
+      "5": [
+        "Conjure Animals"
+      ],
+      "7": [
+        "Fount of Moonlight"
+      ],
+      "9": [
+        "Mass Cure Wounds"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "moonlight-step",
+        "name": "Moonlight Step",
+        "recharge": "long",
+        "max": "wis"
+      }
+    ]
+  },
+  {
+    "id": "druid-circle-of-the-sea",
+    "classId": "druid",
+    "name": "Circle of the Sea",
+    "source": "Player's Handbook",
+    "description": "A Druid of tides and storms who surrounds themselves with crashing ocean spray, gaining swimming, flight and storm resistances.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Circle of the Sea Spells",
+        "text": "You always have these spells prepared once you reach the listed Druid level (see the spell list for this subclass)."
+      },
+      {
+        "level": 3,
+        "name": "Wrath of the Sea",
+        "text": "As a bonus action, spend a Wild Shape use to create a 5-foot Emanation of ocean spray for 10 minutes. On the turn you make it and each later turn as a bonus action, you can force a creature in it to make a Constitution save against your spell save DC or take Cold damage (d6s equal to your Wisdom modifier, minimum 1) and, if Large or smaller, be pushed up to 15 feet."
+      },
+      {
+        "level": 6,
+        "name": "Aquatic Affinity",
+        "text": "The Emanation grows to 10 feet, and you gain a Swim Speed equal to your Speed."
+      },
+      {
+        "level": 10,
+        "name": "Stormborn",
+        "text": "While Wrath of the Sea is active you gain a Fly Speed equal to your Speed and Resistance to Cold, Lightning and Thunder damage."
+      },
+      {
+        "level": 14,
+        "name": "Oceanic Gift",
+        "text": "You can manifest the Emanation around a willing creature within 60 feet instead of yourself (it uses your save DC and Wisdom modifier), or around both of you by spending two Wild Shape uses."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Fog Cloud",
+        "Gust of Wind",
+        "Ray of Frost",
+        "Thunderwave"
+      ],
+      "5": [
+        "Lightning Bolt",
+        "Water Breathing"
+      ],
+      "7": [
+        "Control Water",
+        "Ice Storm"
+      ],
+      "9": [
+        "Conjure Elemental",
+        "Hold Monster"
+      ]
+    },
+    "spellcasting": null,
+    "resources": []
+  },
+  {
+    "id": "druid-circle-of-the-stars",
+    "classId": "druid",
+    "name": "Circle of the Stars",
+    "source": "Player's Handbook",
+    "description": "A stargazing Druid who assumes a luminous Starry Form to shoot radiant arrows, heal or steady their mind, and warps fate with omens.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Star Map",
+        "text": "You make a Tiny star chart that works as a Druid Spellcasting Focus. While holding it you have Guidance and Guiding Bolt prepared and can cast Guiding Bolt for free a number of times equal to your Wisdom modifier (minimum 1) per Long Rest. A lost map can be replaced with a 1-hour ceremony."
+      },
+      {
+        "level": 3,
+        "name": "Starry Form",
+        "text": "As a bonus action, spend a Wild Shape use to become luminous for 10 minutes (Bright Light 10 ft, Dim 10 ft more) and pick a constellation. Archer: bonus-action ranged spell attack within 60 feet for 1d8 + Wis mod Radiant. Chalice: when a slot spell heals, you or another creature within 30 feet regains 1d8 + Wis mod. Dragon: treat a d20 roll of 9 or less as 10 on Intelligence and Wisdom checks and Concentration saves."
+      },
+      {
+        "level": 6,
+        "name": "Cosmic Omen",
+        "text": "After each Long Rest, roll a die for an omen: even is Weal, odd is Woe. Until your next Long Rest, you can use a Reaction when a creature within 30 feet makes a D20 Test to add (Weal) or subtract (Woe) 1d6. Uses equal your Wisdom modifier (minimum 1) per Long Rest."
+      },
+      {
+        "level": 10,
+        "name": "Twinkling Constellations",
+        "text": "Archer and Chalice dice become 2d8, and Dragon gives you a Fly Speed of 20 feet with hover. You can switch constellation at the start of each of your turns in Starry Form."
+      },
+      {
+        "level": 14,
+        "name": "Full of Stars",
+        "text": "In Starry Form you have Resistance to Bludgeoning, Piercing and Slashing damage."
+      }
+    ],
+    "spells": {
+      "3": [
+        "Guidance",
+        "Guiding Bolt"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "star-map-guiding-bolt",
+        "name": "Guiding Bolt (Star Map free casts)",
+        "recharge": "long",
+        "max": "wis"
+      },
+      {
+        "key": "cosmic-omen",
+        "name": "Cosmic Omen",
+        "recharge": "long",
+        "max": "wis"
+      }
+    ]
+  },
+  {
+    "id": "fighter-arcane-archer",
+    "classId": "fighter",
+    "name": "Arcane Archer",
+    "source": "Arcana Unleashed",
+    "description": "A Fighter who fires magical Arcane Shots from ammunition weapons and gains utility magic arrows.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Arcane Archer Lore",
+        "text": "You know Druidcraft or Prestidigitation (Intelligence is the spellcasting ability) and gain proficiency in Arcana and Nature, or another Fighter skill for any you already have."
+      },
+      {
+        "level": 3,
+        "name": "Arcane Shot",
+        "text": "You know two Arcane Shot options (more at levels 7, 10, 15 and 18, and you can swap one each time). Once per turn when you attack with an Ammunition weapon you can apply one, a number of times equal to your Intelligence modifier (minimum 1) per Short or Long Rest. The Arcane Shot Die is d6, becoming d8 at level 10, d10 at 15 and d12 at 18; the save DC is 8 + Int mod + Proficiency Bonus."
+      },
+      {
+        "level": 3,
+        "name": "Arcane Shot Options",
+        "text": "Options are Banishing, Beguiling, Bursting, Enfeebling, Grasping, Piercing, Seeking and Shadow Shot. Each adds one or two rolls of your Arcane Shot Die as damage and a rider such as banishing, charming, restraining, poisoning, blinding or ignoring cover."
+      },
+      {
+        "level": 7,
+        "name": "Curving Shot",
+        "text": "When a ranged Ammunition attack misses, use a bonus action to redirect it to a new target you can see within range and within 60 feet of the first, and make a new attack roll."
+      },
+      {
+        "level": 7,
+        "name": "Magical Ammunition",
+        "text": "As a Magic action, imbue a piece of ammunition and fire it at a surface: Darkening (15-foot Emanation of shadow, 1 minute), Unlocking (unlocks or unsticks things in a 15-foot Emanation) or Vine (a 120-foot climbable vine for 10 minutes). Once per Short or Long Rest, or again by spending Second Wind."
+      },
+      {
+        "level": 10,
+        "name": "Ever-Ready Shot",
+        "text": "When you roll Initiative you can regain one expended use of Arcane Shot."
+      },
+      {
+        "level": 15,
+        "name": "Indomitable Teleport",
+        "text": "When you succeed on a save with Indomitable, you can teleport up to 60 feet to an unoccupied space you can see."
+      },
+      {
+        "level": 18,
+        "name": "Masterful Shots",
+        "text": "When a creature you can see misses you, use your Reaction to move up to half your Speed away without provoking Opportunity Attacks, then make a ranged attack against that creature if it's in the weapon's range."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "arcane-shot",
+        "name": "Arcane Shot",
+        "recharge": "short",
+        "max": "int"
+      },
+      {
+        "key": "magical-ammunition",
+        "name": "Magical Ammunition",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fighter-banneret",
+    "classId": "fighter",
+    "name": "Banneret",
+    "source": "Forgotten Realms: Heroes of Faerûn",
+    "description": "A knightly leader who shares Second Wind and Action Surge with allies and inspires courage.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Knightly Envoy",
+        "text": "You can cast Comprehend Languages as a ritual (Charisma is the ability), learn one language and can swap it after a Long Rest for one you've encountered, and gain proficiency in Insight, Intimidation, Persuasion or Performance."
+      },
+      {
+        "level": 3,
+        "name": "Group Recovery",
+        "text": "When you use Second Wind, up to your Charisma modifier (minimum 1) allies within a 30-foot Emanation regain 1d4 + your Fighter level Hit Points. Once per Short or Long Rest."
+      },
+      {
+        "level": 7,
+        "name": "Team Tactics",
+        "text": "Allies healed by Group Recovery also have Advantage on D20 Tests until the start of your next turn."
+      },
+      {
+        "level": 10,
+        "name": "Rallying Surge",
+        "text": "When you use Action Surge, up to your Charisma modifier (minimum 1) allies within a 30-foot Emanation can each use their Reaction to make one weapon or Unarmed Strike attack, or move up to half their Speed without provoking Opportunity Attacks."
+      },
+      {
+        "level": 15,
+        "name": "Shared Resilience",
+        "text": "When an ally you can see within 60 feet fails a saving throw, spend a use of Indomitable and your Reaction to let them reroll it with a bonus equal to your Fighter level."
+      },
+      {
+        "level": 18,
+        "name": "Inspiring Commander",
+        "text": "The Group Recovery and Rallying Surge areas become 60-foot Emanations, and you become Immune to the Charmed and Frightened conditions."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "group-recovery",
+        "name": "Group Recovery",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fighter-battle-master",
+    "classId": "fighter",
+    "name": "Battle Master",
+    "source": "Player's Handbook",
+    "description": "A tactical Fighter who spends Superiority Dice on maneuvers to add damage and battlefield control.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Combat Superiority",
+        "text": "You learn three maneuvers (two more at levels 7, 10 and 15; you can swap one each time) and have four d8 Superiority Dice, regained on a Short or Long Rest. You gain a fifth die at level 7 and a sixth at level 15; maneuver save DC is 8 + Str or Dex mod + Proficiency Bonus. You can use only one maneuver per attack."
+      },
+      {
+        "level": 3,
+        "name": "Student of War",
+        "text": "You gain proficiency with one type of Artisan's Tools and one skill from the Fighter level 1 list."
+      },
+      {
+        "level": 7,
+        "name": "Know Your Enemy",
+        "text": "As a bonus action, learn whether a creature you can see within 30 feet has any Immunities, Resistances or Vulnerabilities, and what they are. Once per Long Rest, or again by spending a Superiority Die."
+      },
+      {
+        "level": 10,
+        "name": "Improved Combat Superiority",
+        "text": "Your Superiority Dice become d10s."
+      },
+      {
+        "level": 15,
+        "name": "Relentless",
+        "text": "Once per turn when you use a maneuver, you can roll 1d8 instead of spending a Superiority Die."
+      },
+      {
+        "level": 18,
+        "name": "Ultimate Combat Superiority",
+        "text": "Your Superiority Dice become d12s."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "superiority-dice",
+        "name": "Superiority Dice (d8, d10 at 10, d12 at 18)",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ]
+      },
+      {
+        "key": "know-your-enemy",
+        "name": "Know Your Enemy",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fighter-eldritch-knight",
+    "classId": "fighter",
+    "name": "Eldritch Knight",
+    "source": "Player's Handbook",
+    "description": "A Fighter who learns Wizard spells to bolster armor, strike with cantrips and bond with their weapons.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Spellcasting",
+        "text": "You cast Wizard spells using Intelligence and an Arcane Focus. You know 2 Wizard cantrips (3 from level 10) and prepare level 1+ Wizard spells per the Eldritch Knight table (3 at level 3, up to 13 at level 20), and you can swap one spell or cantrip each time you gain a Fighter level. You have up to four spell levels of slots (third-caster progression)."
+      },
+      {
+        "level": 3,
+        "name": "War Bond",
+        "text": "In a 1-hour ritual (can be done during a Short Rest) you bond with a weapon. You can't be disarmed of it unless Incapacitated, and you can summon it to your hand as a bonus action while on the same plane. You can have two bonded weapons but summon only one at a time."
+      },
+      {
+        "level": 7,
+        "name": "War Magic",
+        "text": "When you take the Attack action, you can replace one attack with a Wizard cantrip that has a casting time of an action."
+      },
+      {
+        "level": 10,
+        "name": "Eldritch Strike",
+        "text": "When you hit a creature with a weapon attack, it has Disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn."
+      },
+      {
+        "level": 15,
+        "name": "Arcane Charge",
+        "text": "When you use Action Surge, you can teleport up to 30 feet to a space you can see, before or after the extra action."
+      },
+      {
+        "level": 18,
+        "name": "Improved War Magic",
+        "text": "When you take the Attack action, you can replace two attacks with one level 1 or 2 Wizard spell that has a casting time of an action."
+      }
+    ],
+    "spells": {},
+    "spellcasting": {
+      "ability": "int",
+      "progression": "third",
+      "cantrips": [
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "prepared": [
+        0,
+        0,
+        3,
+        4,
+        4,
+        4,
+        5,
+        6,
+        6,
+        7,
+        8,
+        8,
+        9,
+        10,
+        10,
+        11,
+        11,
+        11,
+        12,
+        13
+      ],
+      "ritual": false,
+      "focus": "Arcane Focus"
+    },
+    "resources": []
+  },
+  {
+    "id": "fighter-psi-warrior",
+    "classId": "fighter",
+    "name": "Psi Warrior",
+    "source": "Player's Handbook",
+    "description": "A Fighter who powers weapon strikes, telekinesis and force shields with a pool of Psionic Energy Dice.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Psionic Power",
+        "text": "You have Psionic Energy Dice (d6 x4 at level 3, d8 x6 at 5, d8 x8 at 9, d10 x8 at 11, d10 x10 at 13, d12 x12 at 17); regain one on a Short Rest and all on a Long Rest. Protective Field: Reaction to reduce damage to you or a creature within 30 feet by a die roll + Int mod. Psionic Strike: once per turn after a weapon hit within 30 feet, deal extra Force damage equal to a die roll + Int mod. Telekinetic Movement: as a Magic action, move a Large or smaller loose object or willing creature up to 30 feet (once per rest, or again by spending a die)."
+      },
+      {
+        "level": 7,
+        "name": "Telekinetic Adept",
+        "text": "Psi-Powered Leap: bonus action for a Fly Speed of twice your Speed until the end of the turn (once per rest, or again by spending a die). Telekinetic Thrust: when you deal Psionic Strike damage, the target makes a Strength save (DC 8 + Int mod + Proficiency Bonus) or is knocked Prone or moved up to 10 feet."
+      },
+      {
+        "level": 10,
+        "name": "Guarded Mind",
+        "text": "You have Resistance to Psychic damage. If you start your turn Charmed or Frightened, you can spend a Psionic Energy Die to end all such effects on yourself."
+      },
+      {
+        "level": 15,
+        "name": "Bulwark of Force",
+        "text": "As a bonus action, give Half Cover for 1 minute to up to your Intelligence modifier (minimum 1) creatures you choose within 30 feet, including yourself. Once per Long Rest, or again by spending a die."
+      },
+      {
+        "level": 18,
+        "name": "Telekinetic Master",
+        "text": "You always have Telekinesis prepared and can cast it once without a slot or components, with Intelligence as the ability. While you concentrate on it, you can make a weapon attack as a bonus action each turn. Once per Long Rest, or again by spending a die."
+      }
+    ],
+    "spells": {
+      "18": [
+        "Telekinesis"
+      ]
+    },
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "psionic-energy-dice",
+        "name": "Psionic Energy Dice (regain 1 on Short Rest)",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          4,
+          4,
+          6,
+          6,
+          6,
+          6,
+          8,
+          8,
+          8,
+          8,
+          10,
+          10,
+          10,
+          10,
+          12,
+          12,
+          12,
+          12
+        ]
+      },
+      {
+        "key": "telekinetic-movement",
+        "name": "Telekinetic Movement",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "psi-powered-leap",
+        "name": "Psi-Powered Leap",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "bulwark-of-force",
+        "name": "Bulwark of Force",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "key": "telekinetic-master",
+        "name": "Telekinetic Master",
+        "recharge": "long",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fighter-sorrow-knight",
+    "classId": "fighter",
+    "name": "Sorrow Knight",
+    "source": "D&D Beyond Drops - October 2026",
+    "description": "A Shadowfell-touched Fighter who turns grief into Psychic damage and debilitating effects, then into resilience.",
+    "features": [
+      {
+        "level": 3,
+        "name": "Despairing Strikes",
+        "text": "You have Despairing Strike Dice (d8 x3 at level 3, d10 x4 at 10, d12 x5 at 15), regained on a Short or Long Rest. When you hit with a weapon attack, spend one die to add its roll as Psychic damage plus an effect (save DC 8 + Wis mod + Proficiency Bonus): Abandoned (Intelligence save or Deafened and sees everyone as an enemy until the end of your next turn) or Dread (Disadvantage on its next save before your next turn)."
+      },
+      {
+        "level": 3,
+        "name": "Solemn Gaze",
+        "text": "You gain Darkvision 60 feet (or +60 feet if you have it). As a Magic action you can read a visible creature's dominant emotion within 30 feet (Wisdom save, DC 8 + Wis mod + Proficiency Bonus), a number of times equal to your Wisdom modifier (minimum 1) per Long Rest."
+      },
+      {
+        "level": 7,
+        "name": "Dreaded Appearance",
+        "text": "When you use Tactical Shift you can teleport up to 30 feet instead of moving. Right after, creatures of your choice in a 10-foot Emanation make a Wisdom save (DC 8 + Wis mod + Proficiency Bonus) or take Psychic damage equal to a Despairing Strike die roll and become Frightened until the end of your next turn (half damage on a save). Once per Short or Long Rest."
+      },
+      {
+        "level": 10,
+        "name": "Unsettled Strikes",
+        "text": "Three new Despairing Strike options: Apathetic (Wisdom save or Incapacitated until the start of your next turn), Lost (Charisma save or Blinded and Speed 0, half Speed on a success, until the end of its next turn), and Weary (Constitution save or gain 1 Exhaustion level, max 2 from this, removed at the end of your next turn)."
+      },
+      {
+        "level": 15,
+        "name": "Grim Constitution",
+        "text": "You have Resistance to Necrotic and Psychic damage. When an effect would reduce your Hit Point maximum, you can make a DC 15 Constitution save to avoid it; the DC rises by 5 for each later save until you finish a Short or Long Rest."
+      },
+      {
+        "level": 18,
+        "name": "Grieving Mantle",
+        "text": "When you use Action Surge, you attune to the Shadowfell for 1 minute. Shade Form: Reaction to reduce the damage of an attack that hits you to 0. Unwavering Resolve: Immunity to Charmed and Frightened, and any such conditions end on you when you activate it."
+      }
+    ],
+    "spells": {},
+    "spellcasting": null,
+    "resources": [
+      {
+        "key": "despairing-strike-dice",
+        "name": "Despairing Strike Dice (d8, d10 at 10, d12 at 15)",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "key": "empathetic-inquiry",
+        "name": "Empathetic Inquiry",
+        "recharge": "long",
+        "max": "wis"
+      },
+      {
+        "key": "dreaded-appearance",
+        "name": "Dreaded Appearance",
+        "recharge": "short",
+        "max": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  }
+]

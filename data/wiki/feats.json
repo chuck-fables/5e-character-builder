@@ -1,0 +1,2073 @@
+[
+  {
+    "id": "crafter",
+    "name": "Crafter",
+    "source": "Player's Handbook",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain proficiency with three kinds of Artisan's Tools and a 20 percent discount on nonmagical purchases. After each Long Rest you can craft one temporary piece of gear from a tool-based list."
+  },
+  {
+    "id": "healer",
+    "name": "Healer",
+    "source": "Player's Handbook",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "With a Healer's Kit you can use an action to let an adjacent creature spend a Hit Die to heal. You can reroll 1s on healing dice from spells or this feat."
+  },
+  {
+    "id": "lucky",
+    "name": "Lucky",
+    "source": "Player's Handbook",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Get Luck Points equal to your Proficiency Bonus, refreshed on a Long Rest. Spend one to give yourself Advantage on a d20 Test or to force Disadvantage on an attack against you."
+  },
+  {
+    "id": "musician",
+    "name": "Musician",
+    "source": "Player's Handbook",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain proficiency with three instruments. At the end of a short or long rest you can inspire a number of allies equal to your Proficiency Bonus with Heroic Inspiration."
+  },
+  {
+    "id": "sharp-eye",
+    "name": "Sharp Eye",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "When you Search or Study, gain Advantage on that check a number of times equal to your Proficiency Bonus per Long Rest. A failed check doesn't use up a charge."
+  },
+  {
+    "id": "survivor",
+    "name": "Survivor",
+    "source": "Ravenloft - The Horrors Within",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Reroll low Initiative rolls of 9 or less. Once per Long Rest, add your Proficiency Bonus to a failed save against the Charmed or Frightened condition."
+  },
+  {
+    "id": "tavern-brawler",
+    "name": "Tavern Brawler",
+    "source": "Player's Handbook",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Unarmed Strikes deal 1d4 plus Strength modifier Bludgeoning damage and you can reroll 1s on their damage dice. You also gain improvised weapon proficiency and can push a target 5 feet once per turn."
+  },
+  {
+    "id": "cult-of-the-dragon-initiate",
+    "name": "Cult of the Dragon Initiate",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Draconic, or another language if you already know it. Use a Magic action to frighten a creature within 30 feet with a Wisdom save (DC 8 plus your Wisdom modifier and Proficiency Bonus), and gain Heroic Inspiration when you cause fear."
+  },
+  {
+    "id": "emerald-enclave-fledgling",
+    "name": "Emerald Enclave Fledgling",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Always have Speak with Animals prepared and cast it with any spell slot, using your chosen casting ability. You can also swap places with a willing ally within 5 feet when you take the Help action."
+  },
+  {
+    "id": "harper-agent",
+    "name": "Harper Agent",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Learn Thieves' Cant and gain proficiency with a Musical Instrument. When you Help an attack, the distracted enemy can be up to 30 feet away if it can see or hear you."
+  },
+  {
+    "id": "lords-alliance-agent",
+    "name": "Lords' Alliance Agent",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Once per turn after a Critical Hit, give Heroic Inspiration to an ally within 30 feet. Gain Advantage on your next attack against an enemy that damaged an ally near you."
+  },
+  {
+    "id": "purple-dragon-rook",
+    "name": "Purple Dragon Rook",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain proficiency in Insight, Performance or Persuasion. When you roll Initiative, give Heroic Inspiration to a number of creatures equal to your Proficiency Bonus, once per Long Rest."
+  },
+  {
+    "id": "spellfire-spark",
+    "name": "Spellfire Spark",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Once per turn, reduce damage from a spell or magical effect by 1d4. Learn Sacred Flame and cast it as a Bonus Action a number of times equal to your Proficiency Bonus per Long Rest."
+  },
+  {
+    "id": "tyro-of-the-gauntlet",
+    "name": "Tyro of the Gauntlet",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Use a Reaction to stop an ally within 5 feet from being pushed or pulled. After you take the Ready action, the next attack against you has Disadvantage."
+  },
+  {
+    "id": "zhentarim-ruffian",
+    "name": "Zhentarim Ruffian",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Roll Opportunity Attack damage twice and use either total. If you have Heroic Inspiration at Initiative, spend it to give yourself and allies Advantage on that roll."
+  },
+  {
+    "id": "child-of-the-sun",
+    "name": "Child of the Sun",
+    "source": "Lorwyn - First Light",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "You and allies within 10 feet get Advantage on saves against the Blinded condition. Learn Faerie Fire and cast it once free per Long Rest without losing Concentration to damage."
+  },
+  {
+    "id": "shadowmoor-hexer",
+    "name": "Shadowmoor Hexer",
+    "source": "Lorwyn - First Light",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Always have Hex prepared and cast it once free per Long Rest. A creature cursed by Hex that hits you takes Psychic damage equal to your Proficiency Bonus, once per turn."
+  },
+  {
+    "id": "tireless-reveler",
+    "name": "Tireless Reveler",
+    "source": "Astarion's Book of Hungers",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "When an ally within 60 feet spends Heroic Inspiration, you can gain it too. You can do this a number of times equal to your Proficiency Bonus per rest."
+  },
+  {
+    "id": "vampire-hunter",
+    "name": "Vampire Hunter",
+    "source": "Astarion's Book of Hungers",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "Advantage on checks to escape nonmagical restraints or the Grappled condition. Reduce Necrotic damage by rolling Proficiency Bonus d6s with a Reaction, once per rest."
+  },
+  {
+    "id": "vampires-plaything",
+    "name": "Vampire's Plaything",
+    "source": "Astarion's Book of Hungers",
+    "category": "origin",
+    "prereq": null,
+    "repeatable": false,
+    "asi": null,
+    "text": "After a Long Rest, create a Potion of Healing or an Antitoxin if you have an empty vial. You can Dash or Disengage as a Bonus Action a number of times equal to your Proficiency Bonus, and the DM decides your former master's fate."
+  },
+  {
+    "id": "actor",
+    "name": "Actor",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Charisma 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "While disguised as a specific person, gain Advantage on Deception or Performance checks to pass as them. You can also mimic sounds, with a Wisdom (Insight) DC of 8 plus your Charisma modifier and Proficiency Bonus to spot the fake."
+  },
+  {
+    "id": "athlete",
+    "name": "Athlete",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Strength or Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Gain a Climb Speed equal to your Speed, right yourself from Prone with 5 feet of movement, and make running long or high jumps after only 5 feet of movement."
+  },
+  {
+    "id": "charger",
+    "name": "Charger",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Strength or Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Dash gives you +10 feet of Speed for that action. After moving 10 feet straight toward a target, a melee hit deals an extra 1d8 damage or pushes the target up to 10 feet, once per turn."
+  },
+  {
+    "id": "chef",
+    "name": "Chef",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "wis"
+      ],
+      "amount": 1
+    },
+    "text": "Cook a meal during a Short Rest that feeds 4 plus your Proficiency Bonus creatures and gives an extra 1d8 Hit Points to those who spend Hit Dice. You can also cook treats that grant Temporary Hit Points equal to your Proficiency Bonus."
+  },
+  {
+    "id": "crossbow-expert",
+    "name": "Crossbow Expert",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Ignore the Loading property of crossbows, use crossbows without Disadvantage when enemies are within 5 feet, and add your Dexterity modifier to the damage of the off-hand crossbow attack."
+  },
+  {
+    "id": "crusher",
+    "name": "Crusher",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "Once per turn, a Bludgeoning hit can push the target 5 feet if it is no more than one size larger than you. Bludgeoning crits give Advantage on attacks against that creature until your next turn."
+  },
+  {
+    "id": "defensive-duelist",
+    "name": "Defensive Duelist",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "With a Finesse weapon, use a Reaction when a melee attack hits you to add your Proficiency Bonus to your AC against that attack."
+  },
+  {
+    "id": "dual-wielder",
+    "name": "Dual Wielder",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Strength or Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Make one extra attack as a Bonus Action with a Light weapon using a different one-handed melee weapon. You can also draw or stow two such weapons at once."
+  },
+  {
+    "id": "durable",
+    "name": "Durable",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "Gain Advantage on Death Saving Throws. As a Bonus Action, spend a Hit Die and regain Hit Points equal to the roll."
+  },
+  {
+    "id": "elemental-adept",
+    "name": "Elemental Adept",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": true,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Choose Acid, Cold, Fire, Lightning or Thunder. Your spells ignore Resistance to that type and you can treat 1s on its damage dice as 2s. You can take this feat more than once, each time with a different type."
+  },
+  {
+    "id": "fey-touched",
+    "name": "Fey Touched",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Learn a level 1 Divination or Enchantment spell of your choice, plus Misty Step. Cast each once free per Long Rest, or with a spell slot."
+  },
+  {
+    "id": "great-weapon-master",
+    "name": "Great Weapon Master",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Strength 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str"
+      ],
+      "amount": 1
+    },
+    "text": "Hits with Heavy weapons add your Proficiency Bonus to damage, and after a Critical Hit or a kill with a Melee weapon you can make one extra attack as a Bonus Action."
+  },
+  {
+    "id": "heavily-armored",
+    "name": "Heavily Armored",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Medium Armor Training"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "str"
+      ],
+      "amount": 1
+    },
+    "text": "Gain training with Heavy armor."
+  },
+  {
+    "id": "heavy-armor-master",
+    "name": "Heavy Armor Master",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Heavy Armor Training"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "str"
+      ],
+      "amount": 1
+    },
+    "text": "While wearing Heavy armor, reduce Bludgeoning, Piercing and Slashing damage from attacks by your Proficiency Bonus."
+  },
+  {
+    "id": "inspiring-leader",
+    "name": "Inspiring Leader",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Wisdom or Charisma 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "After a rest, give up to six allies Temporary Hit Points equal to your level plus the modifier of the ability this feat raised."
+  },
+  {
+    "id": "keen-mind",
+    "name": "Keen Mind",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Intelligence 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int"
+      ],
+      "amount": 1
+    },
+    "text": "Gain proficiency or Expertise in Arcana, History, Investigation, Nature or Religion, and take the Study action as a Bonus Action."
+  },
+  {
+    "id": "lightly-armored",
+    "name": "Lightly Armored",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Gain training with Light armor and Shields."
+  },
+  {
+    "id": "mage-slayer",
+    "name": "Mage Slayer",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Damaging a concentrating creature gives it Disadvantage on its Concentration save. Once per rest, turn a failed Intelligence, Wisdom or Charisma save into a success."
+  },
+  {
+    "id": "martial-weapon-training",
+    "name": "Martial Weapon Training",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Gain proficiency with Martial weapons."
+  },
+  {
+    "id": "medium-armor-master",
+    "name": "Medium Armor Master",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Medium Armor Training"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "While wearing Medium armor, you can add up to 3 to your AC instead of 2 if your Dexterity is 16 or higher."
+  },
+  {
+    "id": "moderately-armored",
+    "name": "Moderately Armored",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Light Armor Training"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Gain training with Medium armor."
+  },
+  {
+    "id": "mounted-combatant",
+    "name": "Mounted Combatant",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "wis"
+      ],
+      "amount": 1
+    },
+    "text": "While mounted, gain Advantage on attacks against smaller unmounted foes near your mount. Your mount can take no damage on a successful Dex save, and you can pull attacks aimed at it onto yourself."
+  },
+  {
+    "id": "observant",
+    "name": "Observant",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Intelligence or Wisdom 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis"
+      ],
+      "amount": 1
+    },
+    "text": "Gain proficiency or Expertise in Insight, Investigation or Perception, and take the Search action as a Bonus Action."
+  },
+  {
+    "id": "piercer",
+    "name": "Piercer",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Once per turn, reroll one Piercing damage die on a hit. Piercing crits roll one extra damage die."
+  },
+  {
+    "id": "poisoner",
+    "name": "Poisoner",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "int"
+      ],
+      "amount": 1
+    },
+    "text": "Ignore Resistance to Poison damage. With a Poisoner's Kit and 50 GP of materials per hour, make a number of doses equal to your Proficiency Bonus; a poisoned hit forces a Con save or deals 2d8 Poison damage."
+  },
+  {
+    "id": "polearm-master",
+    "name": "Polearm Master",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Strength or Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "str"
+      ],
+      "amount": 1
+    },
+    "text": "After attacking with a Quarterstaff, Spear or Heavy and Reach weapon, use a Bonus Action to strike with the other end for a d4 Bludgeoning hit. Reaction attack when an enemy enters your reach."
+  },
+  {
+    "id": "resilient",
+    "name": "Resilient",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase an ability in which you lack saving throw proficiency by 1, and gain proficiency in that saving throw."
+  },
+  {
+    "id": "ritual-caster",
+    "name": "Ritual Caster",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Intelligence, Wisdom, or Charisma 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Always have a number of level 1 Ritual spells prepared equal to your Proficiency Bonus, castable without slots. You can also cast a prepared Ritual at its normal casting time once per rest."
+  },
+  {
+    "id": "sentinel",
+    "name": "Sentinel",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Strength or Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Make Opportunity Attacks when a creature within 5 feet disengages or attacks someone else. A hit on an Opportunity Attack sets the target's Speed to 0 for the rest of the turn."
+  },
+  {
+    "id": "shadow-touched",
+    "name": "Shadow Touched",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Learn a level 1 Illusion or Necromancy spell of your choice, plus Invisibility. Cast each once free per Long Rest, or with a spell slot."
+  },
+  {
+    "id": "sharpshooter",
+    "name": "Sharpshooter",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Ranged weapon attacks ignore Half and Three-Quarters Cover, and there is no Disadvantage from long range or from being within 5 feet of an enemy."
+  },
+  {
+    "id": "shield-master",
+    "name": "Shield Master",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Shield Training"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str"
+      ],
+      "amount": 1
+    },
+    "text": "After a melee hit, shove or knock an opponent Prone with a Shield Bash (Strength save DC 8 plus Strength modifier and Proficiency Bonus), once per turn. With a Reaction and a Shield, take no damage on a successful Dex save for half."
+  },
+  {
+    "id": "shifting-combatant",
+    "name": "Shifting Combatant",
+    "source": "D&D Beyond Drops - July 2026",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Weapon Mastery Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "When your Push mastery drives a creature into another, both must make a Dex save or take 1d10 Bludgeoning damage. Landing a Long Jump near two or more enemies gives Disadvantage on attacks against you until your next turn."
+  },
+  {
+    "id": "skill-expert",
+    "name": "Skill Expert",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Gain proficiency in one skill and Expertise in one skill you already have proficiency in."
+  },
+  {
+    "id": "skulker",
+    "name": "Skulker",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Gain Blindsight out to 10 feet, Advantage on Stealth checks made to Hide during combat, and missed hidden attacks don't reveal your position."
+  },
+  {
+    "id": "slasher",
+    "name": "Slasher",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Once per turn, a Slashing hit can reduce the target's Speed by 10 feet. Slashing crits give enemies Disadvantage on attack rolls until your next turn."
+  },
+  {
+    "id": "speedy",
+    "name": "Speedy",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Dexterity or Constitution 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "Gain 10 extra feet of Speed. Difficult Terrain doesn't cost extra movement after you Dash, and Opportunity Attacks against you have Disadvantage."
+  },
+  {
+    "id": "spell-sniper",
+    "name": "Spell Sniper",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Spell attacks ignore Half and Three-Quarters Cover and have no Disadvantage within 5 feet of an enemy. Spells with a range of 10 feet or more that need an attack roll gain 60 extra feet of range."
+  },
+  {
+    "id": "tactical-combatant",
+    "name": "Tactical Combatant",
+    "source": "D&D Beyond Drops - July 2026",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+ and Strength or Dexterity 13+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Once per rest, gain Temporary Hit Points equal to the damage rolled on a weapon hit. Also, once per rest add 1d6 to a failed ability check."
+  },
+  {
+    "id": "telekinetic",
+    "name": "Telekinetic",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Learn Mage Hand, which you can cast without components, make invisible, and which has 30 extra feet of range. As a Bonus Action, shove a creature you can see within 30 feet (Strength save DC 8 plus the ability modifier and Proficiency Bonus)."
+  },
+  {
+    "id": "telepathic",
+    "name": "Telepathic",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Speak telepathically to creatures you can see within 60 feet. Always have Detect Thoughts prepared and cast it once free per Long Rest."
+  },
+  {
+    "id": "war-caster",
+    "name": "War Caster",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Advantage on Constitution saves to keep Concentration. You can cast a one-action spell instead of an Opportunity Attack, and perform Somatic components with weapons or a Shield in hand."
+  },
+  {
+    "id": "weapon-master",
+    "name": "Weapon Master",
+    "source": "Player's Handbook",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Use the Mastery property of one Simple or Martial weapon you are proficient with, and switch the choice on a Long Rest."
+  },
+  {
+    "id": "cold-caster",
+    "name": "Cold Caster",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Learn Ray of Frost, or another Wizard cantrip if you already know it. Once per turn, a Cold hit lets you subtract 1d4 from the target's next saving throw."
+  },
+  {
+    "id": "dragonscarred",
+    "name": "Dragonscarred",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Cult of the Dragon Initiate Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Gain Resistance to one of Acid, Cold, Fire, Lightning or Poison. You can use the Dragon's Terror benefit of Cult of the Dragon Initiate as a Bonus Action after you deal damage."
+  },
+  {
+    "id": "enclave-magic",
+    "name": "Enclave Magic",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Emerald Enclave Fledgling Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Advantage on Influence checks with Beasts. Always have Beast Sense prepared and cast it once free per Long Rest without needing Concentration."
+  },
+  {
+    "id": "fairy-trickster",
+    "name": "Fairy Trickster",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "After you Disengage, Difficult Terrain costs no extra movement that turn. A Flustering Strike forces a Wisdom save, and on a failure the target has Disadvantage on saves until your next turn, a number of times per rest equal to your Proficiency Bonus."
+  },
+  {
+    "id": "genie-magic",
+    "name": "Genie Magic",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "As a Magic action, cast a level 1 Sorcerer spell with a one-action casting time, once per Long Rest. It is cast at a level 2 slot from level 11 and a level 3 slot from level 17."
+  },
+  {
+    "id": "harper-teamwork",
+    "name": "Harper Teamwork",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Harper Agent Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "When you Help an attack, the target has Disadvantage on its next save. If you end your own Frightened or Paralyzed condition with a save, you can end it for an ally within 30 feet too."
+  },
+  {
+    "id": "lordly-resolve",
+    "name": "Lordly Resolve",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Lords’ Alliance Agent Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "As a Bonus Action, up to three creatures within 60 feet can end their Prone condition, and they are bolstered for 1 minute. Usable once per Long Rest."
+  },
+  {
+    "id": "mythal-touched",
+    "name": "Mythal Touched",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "When a spell attack hits you or you fail a save against a spell, roll on a d20 table for a magical effect. You can use this a number of times equal to your Proficiency Bonus per rest."
+  },
+  {
+    "id": "orders-resilience",
+    "name": "Order's Resilience",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Tyro of the Gauntlet Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Right yourself from Prone with 5 feet of movement. While within 5 feet of an ally, you both have Advantage on Strength saves."
+  },
+  {
+    "id": "purple-dragon-commandant",
+    "name": "Purple Dragon Commandant",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Purple Dragon Rook Feat or Martial Weapon Proficiency"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "As a Bonus Action, give an ally within 30 feet Temporary Hit Points equal to 2d6 plus the ability modifier you raised, a number of times per rest equal to your Proficiency Bonus. You have Advantage on attacks while Bloodied."
+  },
+  {
+    "id": "spellfire-adept",
+    "name": "Spellfire Adept",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Spellfire Spark Feat or the Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Once per turn, when a spell deals Radiant damage, spend up to two Hit Point Dice to add to that damage. Radiant damage you roll ignores Resistance to Radiant damage."
+  },
+  {
+    "id": "street-justice",
+    "name": "Street Justice",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Allies have Advantage on attacks against a creature you have Grappled. Add your Proficiency Bonus to the escape DC of rope, chain or manacles you use, and ignore the Disadvantage from hostile attitudes on Intimidation checks."
+  },
+  {
+    "id": "zhentarim-tactics",
+    "name": "Zhentarim Tactics",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+, Zhentarim Ruffian Feat"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Make an Opportunity Attack right after a creature within 5 feet hits you in melee. After a Long Rest, gain Expertise in one skill you are proficient in until your next Long Rest."
+  },
+  {
+    "id": "bloodlust",
+    "name": "Bloodlust",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "Treat a 1 or 2 on a Hit Point Die as a 3. Once per turn, when you hit a Bloodied creature (not Construct or Undead), spend a Hit Die to heal, a number of times per rest equal to your Proficiency Bonus."
+  },
+  {
+    "id": "bomber",
+    "name": "Bomber",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "dex"
+      ],
+      "amount": 1
+    },
+    "text": "Throw vials or flasks at targets up to 40 feet away, and thrown weapon attacks at long range don't have Disadvantage."
+  },
+  {
+    "id": "cloying-mists",
+    "name": "Cloying Mists",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Always have Fog Cloud prepared and cast it once free per Long Rest. Nonmagical flames in its area go out, and enemies inside lose 5 feet of Speed."
+  },
+  {
+    "id": "delicious-pain",
+    "name": "Delicious Pain",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "After taking Bludgeoning, Piercing or Slashing damage, use a Reaction to gain Resistance to those types until your next turn, once per rest."
+  },
+  {
+    "id": "light-bringer",
+    "name": "Light Bringer",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Learn Light without Material components, and once per Long Rest make it sunlight. Use a Bonus Action in sunlight to heal with a Hit Die, once per rest."
+  },
+  {
+    "id": "love-bites",
+    "name": "Love Bites",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "After damaging a creature with a melee weapon or Unarmed Strike, use a Bonus Action to Charm it until your next turn or until it is damaged again, once per rest."
+  },
+  {
+    "id": "putrefy",
+    "name": "Putrefy",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "When you deal Necrotic damage, you can make the target Poisoned until the start of your next turn, once per rest."
+  },
+  {
+    "id": "rebuke",
+    "name": "Rebuke",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "When you deal Radiant damage, you can knock a Huge or smaller target Prone, once per rest."
+  },
+  {
+    "id": "treacherous-allure",
+    "name": "Treacherous Allure",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Always have Charm Person prepared and cast it once free per Long Rest. You have Advantage on attacks against creatures that are Charmed."
+  },
+  {
+    "id": "vampire-touched",
+    "name": "Vampire Touched",
+    "source": "Astarion's Book of Hungers",
+    "category": "general",
+    "prereq": {
+      "level": 4,
+      "text": "Level 4+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Choose one level 1 Enchantment or Illusion spell and always have it and Spider Climb prepared. Cast each once free per Long Rest, with Spider Climb targeting only yourself."
+  },
+  {
+    "id": "blind-fighting",
+    "name": "Blind Fighting",
+    "source": "Player's Handbook",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain Blindsight with a range of 10 feet."
+  },
+  {
+    "id": "dueling",
+    "name": "Dueling",
+    "source": "Player's Handbook",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "When holding one melee weapon and nothing else, gain a +2 bonus to damage with it."
+  },
+  {
+    "id": "interception",
+    "name": "Interception",
+    "source": "Player's Handbook",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Use a Reaction to reduce damage to a creature within 5 feet that is hit by an attack, by 1d10 plus your Proficiency Bonus. You must hold a Shield or a Simple or Martial weapon."
+  },
+  {
+    "id": "pack-fighting",
+    "name": "Pack Fighting",
+    "source": "D&D Beyond Drops - July 2026",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain a +1 damage bonus on melee attacks when an ally is within 5 feet of the target, rising to +2 if such an ally also has this feat."
+  },
+  {
+    "id": "prone-fighting",
+    "name": "Prone Fighting",
+    "source": "D&D Beyond Drops - July 2026",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "You have no Disadvantage on attack rolls while Prone, and being Prone doesn't give enemies Advantage against you."
+  },
+  {
+    "id": "protection",
+    "name": "Protection",
+    "source": "Player's Handbook",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Use a Reaction to interpose your Shield when a creature attacks an ally within 5 feet, giving the attacker Disadvantage."
+  },
+  {
+    "id": "thrown-weapon-fighting",
+    "name": "Thrown Weapon Fighting",
+    "source": "Player's Handbook",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Gain a +2 bonus to damage on ranged attack hits with weapons that have the Thrown property."
+  },
+  {
+    "id": "unarmed-fighting",
+    "name": "Unarmed Fighting",
+    "source": "Player's Handbook",
+    "category": "fighting-style",
+    "prereq": {
+      "level": 1,
+      "text": "Fighting Style feature"
+    },
+    "repeatable": false,
+    "asi": null,
+    "text": "Unarmed Strikes deal 1d6 plus Strength modifier Bludgeoning damage, rising to a d8 if you hold no weapons or Shield. Each turn you can deal 1d4 Bludgeoning damage to one creature you Grapple."
+  },
+  {
+    "id": "boon-of-energy-resistance",
+    "name": "Boon of Energy Resistance",
+    "source": "Player's Handbook",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Gain Resistance to two damage types you choose (changeable on a Long Rest). When you take one of them, redirect it to a creature within 60 feet, which makes a Dex save or takes 2d12 plus your Constitution modifier."
+  },
+  {
+    "id": "boon-of-fortitude",
+    "name": "Boon of Fortitude",
+    "source": "Player's Handbook",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Your Hit Point maximum rises by 40, and when you regain Hit Points you gain extra ones equal to your Constitution modifier, once until the start of your next turn."
+  },
+  {
+    "id": "boon-of-recovery",
+    "name": "Boon of Recovery",
+    "source": "Player's Handbook",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Once per rest, drop to 1 Hit Point instead of 0 and regain half your maximum. You also have ten d10s to spend as a Bonus Action for healing, all refilled on a Long Rest."
+  },
+  {
+    "id": "boon-of-skill",
+    "name": "Boon of Skill",
+    "source": "Player's Handbook",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Gain proficiency in every skill, plus Expertise in one skill you don't yet have Expertise in."
+  },
+  {
+    "id": "boon-of-speed",
+    "name": "Boon of Speed",
+    "source": "Player's Handbook",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "As a Bonus Action, take the Disengage action, which also ends the Grappled condition on you. Your Speed increases by 30 feet."
+  },
+  {
+    "id": "boon-of-siberys",
+    "name": "Boon of Siberys",
+    "source": "Eberron - Forge of the Artificer",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+, Eberron Campaign"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Requires an Eberron campaign. Always have one Sorcerer spell of level 8 or lower (or a Siberys dragonmark spell) prepared, castable once free per rest."
+  },
+  {
+    "id": "boon-of-bloodshed",
+    "name": "Boon of Bloodshed",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "After you reduce an enemy to 0 Hit Points, gain Advantage on your next attack. While Bloodied, add your Proficiency Bonus as extra damage once per turn."
+  },
+  {
+    "id": "boon-of-bountiful-health",
+    "name": "Boon of Bountiful Health",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Increase the Temporary Hit Points you gain by 5, and when you spend Hit Dice to heal you can use the highest value on each die."
+  },
+  {
+    "id": "boon-of-communication",
+    "name": "Boon of Communication",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Ignore Disadvantage on checks to influence Hostile creatures, understand the meaning of any language you hear, signed or written, and gain telepathy out to 120 feet."
+  },
+  {
+    "id": "boon-of-desperate-resilience",
+    "name": "Boon of Desperate Resilience",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "con"
+      ],
+      "amount": 1
+    },
+    "text": "While you are Bloodied, gain Resistance to all damage except Force."
+  },
+  {
+    "id": "boon-of-exquisite-radiance",
+    "name": "Boon of Exquisite Radiance",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Creatures you drop to 0 Hit Points can't become Undead. Once per rest, a Radiant damage roll can use the highest value on each die."
+  },
+  {
+    "id": "boon-of-fluid-forms",
+    "name": "Boon of Fluid Forms",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Once per Long Rest, use a Magic action to shape-shift into a Beast, Humanoid or Monstrosity of Challenge Rating 10 or lower for 1 hour, gaining Temporary Hit Points equal to the form's Hit Points plus 20."
+  },
+  {
+    "id": "boon-of-fortunes-favor",
+    "name": "Boon of Fortune's Favor",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "When you fail a saving throw, reroll it and use the new result. You can't do this again until the start of your next turn."
+  },
+  {
+    "id": "boon-of-poison-mastery",
+    "name": "Boon of Poison Mastery",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Immune to Poison damage and the Poisoned condition. Once per turn, use the highest value on each Poison damage die you roll."
+  },
+  {
+    "id": "boon-of-revelry",
+    "name": "Boon of Revelry",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Always have Otto's Irresistible Dance prepared, castable once free per rest with no components and no risk to Concentration. Charmed creatures from it can't cast spells with Verbal components."
+  },
+  {
+    "id": "boon-of-terror",
+    "name": "Boon of Terror",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Immune to the Frightened condition. Once per rest, a frightened creature within 60 feet that fails a Wisdom save must flee from you. You gain Expertise in Intimidation."
+  },
+  {
+    "id": "boon-of-the-bright-sun",
+    "name": "Boon of the Bright Sun",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "con",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "As a Bonus Action, radiate 30 feet of sunlight that dispels overlapping magical darkness until dismissed. Allies in it gain 10 Temporary Hit Points at the start of your turns."
+  },
+  {
+    "id": "boon-of-the-furious-storm",
+    "name": "Boon of the Furious Storm",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+, Spellcasting or Pact Magic Feature"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Resistance to Lightning and Thunder damage, and immunity to both while Bloodied. Creatures have Disadvantage on saves against your spells that deal Lightning or Thunder damage."
+  },
+  {
+    "id": "boon-of-the-soul-drinker",
+    "name": "Boon of the Soul Drinker",
+    "source": "Forgotten Realms - Heroes of Faerun",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Resistance to Cold and Necrotic damage. Once per rest, when an enemy within 120 feet drops to 0 Hit Points, use a Reaction to regain 50 Hit Points."
+  },
+  {
+    "id": "boon-of-blazing-dawn",
+    "name": "Boon of Blazing Dawn",
+    "source": "Astarion's Book of Hungers",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "Immune to Radiant damage, and your weapon hits can deal Radiant damage instead. Once per turn, a Radiant hit creates 30 feet of bright sunlight around you."
+  },
+  {
+    "id": "boon-of-looming-shadows",
+    "name": "Boon of Looming Shadows",
+    "source": "Astarion's Book of Hungers",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "str",
+        "dex",
+        "con",
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "When you take the Attack action, your melee reach increases by 10 feet until the end of your turn. You can also take the Dodge action as a Bonus Action."
+  },
+  {
+    "id": "boon-of-misty-escape",
+    "name": "Boon of Misty Escape",
+    "source": "Astarion's Book of Hungers",
+    "category": "epic-boon",
+    "prereq": {
+      "level": 19,
+      "text": "Level 19+"
+    },
+    "repeatable": false,
+    "asi": {
+      "from": [
+        "int",
+        "wis",
+        "cha"
+      ],
+      "amount": 1
+    },
+    "text": "If you drop to 0 Hit Points, you can drop to 1 instead and cast Gaseous Form on yourself for free, once per rest. While in that form you regain 10 Hit Points each turn."
+  }
+]

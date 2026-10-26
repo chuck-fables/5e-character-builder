@@ -1,0 +1,2327 @@
+[
+ {
+  "id": "plus-1-ammunition",
+  "name": "+1 Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic ammunition, centered enchanted arrows with faint blue glow, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-1-armor",
+  "name": "+1 Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered enchanted plate armor with faint blue glow, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-1-shield",
+  "name": "+1 Shield",
+  "prompt": "fantasy painterly anime, fantasy magic shield, centered enchanted shield with faint blue glow, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-1-weapon",
+  "name": "+1 Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered enchanted longsword with faint blue glow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-2-ammunition",
+  "name": "+2 Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic ammunition, centered enchanted arrows with violet glow, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-2-armor",
+  "name": "+2 Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered enchanted plate armor with violet glow, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-2-shield",
+  "name": "+2 Shield",
+  "prompt": "fantasy painterly anime, fantasy magic shield, centered enchanted shield with violet glow, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-2-weapon",
+  "name": "+2 Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered enchanted longsword with violet glow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-3-ammunition",
+  "name": "+3 Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic ammunition, centered enchanted arrows with radiant golden glow, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-3-armor",
+  "name": "+3 Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered enchanted plate armor with radiant golden glow, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-3-shield",
+  "name": "+3 Shield",
+  "prompt": "fantasy painterly anime, fantasy magic shield, centered enchanted shield with radiant golden glow, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "plus-3-weapon",
+  "name": "+3 Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered enchanted longsword with radiant golden glow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "adamantine-armor",
+  "name": "Adamantine Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered adamantine armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "adamantine-weapon",
+  "name": "Adamantine Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered adamantine weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "adventurers-ring",
+  "name": "Adventurer's Ring",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered adventurers ring, no character, item only, solid black background"
+ },
+ {
+  "id": "alarm-pylon",
+  "name": "Alarm Pylon",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered alarm pylon, no character, item only, solid black background"
+ },
+ {
+  "id": "alchemy-jug",
+  "name": "Alchemy Jug",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered alchemy jug, no character, item only, solid black background"
+ },
+ {
+  "id": "ammunition-of-slaying",
+  "name": "Ammunition of Slaying",
+  "prompt": "fantasy painterly anime, fantasy magic ammunition, centered ammunition of slaying, no character, item only, solid black background"
+ },
+ {
+  "id": "amulet-of-health",
+  "name": "Amulet of Health",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered amulet of health, no character, item only, solid black background"
+ },
+ {
+  "id": "amulet-of-proof-against-detection-and-location",
+  "name": "Amulet of Proof against Detection and Location",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered amulet of proof against detection and location, no character, item only, solid black background"
+ },
+ {
+  "id": "amulet-of-retributive-healing",
+  "name": "Amulet of Retributive Healing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered amulet of retributive healing, no character, item only, solid black background"
+ },
+ {
+  "id": "amulet-of-the-planes",
+  "name": "Amulet of the Planes",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered amulet of the planes, no character, item only, solid black background"
+ },
+ {
+  "id": "apparatus-of-kwalish",
+  "name": "Apparatus of Kwalish",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered apparatus of kwalish, no character, item only, solid black background"
+ },
+ {
+  "id": "apparatus-of-the-crab",
+  "name": "Apparatus of the Crab",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered apparatus of the crab, no character, item only, solid black background"
+ },
+ {
+  "id": "arcane-battery",
+  "name": "Arcane Battery",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered arcane battery, no character, item only, solid black background"
+ },
+ {
+  "id": "arcane-chantelaine",
+  "name": "Arcane Chantelaine",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered arcane chantelaine, no character, item only, solid black background"
+ },
+ {
+  "id": "arcanists-bestiary",
+  "name": "Arcanist's Bestiary",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered arcanists bestiary, no character, item only, solid black background"
+ },
+ {
+  "id": "armor-of-gleaming",
+  "name": "Armor of Gleaming",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered armor of gleaming, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "armor-of-invulnerability",
+  "name": "Armor of Invulnerability",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered armor of invulnerability, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "armor-of-resistance",
+  "name": "Armor of Resistance",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered armor of resistance, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "armor-of-vulnerability",
+  "name": "Armor of Vulnerability",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered armor of vulnerability, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "axe-of-the-dwarvish-lords",
+  "name": "Axe of the Dwarvish Lords",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered axe of the dwarvish lords, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "baba-yagas-dancing-broom",
+  "name": "Baba Yaga's Dancing Broom",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered baba yagas dancing broom, no character, item only, solid black background"
+ },
+ {
+  "id": "bag-of-beans",
+  "name": "Bag of Beans",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bag of beans, no character, item only, solid black background"
+ },
+ {
+  "id": "bag-of-devouring",
+  "name": "Bag of Devouring",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bag of devouring, no character, item only, solid black background"
+ },
+ {
+  "id": "bag-of-holding",
+  "name": "Bag of Holding",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bag of holding, no character, item only, solid black background"
+ },
+ {
+  "id": "bag-of-tricks",
+  "name": "Bag of Tricks",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bag of tricks, no character, item only, solid black background"
+ },
+ {
+  "id": "bead-of-force",
+  "name": "Bead of Force",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bead of force, no character, item only, solid black background"
+ },
+ {
+  "id": "bead-of-nourishment",
+  "name": "Bead of Nourishment",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bead of nourishment, no character, item only, solid black background"
+ },
+ {
+  "id": "bead-of-refreshment",
+  "name": "Bead of Refreshment",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bead of refreshment, no character, item only, solid black background"
+ },
+ {
+  "id": "bellows-of-strangulation",
+  "name": "Bellows of Strangulation",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bellows of strangulation, no character, item only, solid black background"
+ },
+ {
+  "id": "belt-of-dwarvenkind",
+  "name": "Belt of Dwarvenkind",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered belt of dwarvenkind, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "belt-of-giant-strength",
+  "name": "Belt of Giant Strength",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered belt of giant strength, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "berserker-axe",
+  "name": "Berserker Axe",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered berserker axe, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "blackrazor",
+  "name": "Blackrazor",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered blackrazor greatsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "blood-amulet",
+  "name": "Blood Amulet",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered blood amulet, no character, item only, solid black background"
+ },
+ {
+  "id": "blossom-rod",
+  "name": "Blossom Rod",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered blossom rod, no character, item only, solid black background"
+ },
+ {
+  "id": "book-of-exalted-deeds",
+  "name": "Book of Exalted Deeds",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered book of exalted deeds, no character, item only, solid black background"
+ },
+ {
+  "id": "book-of-vile-darkness",
+  "name": "Book of Vile Darkness",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered book of vile darkness, no character, item only, solid black background"
+ },
+ {
+  "id": "boon-companions-bands",
+  "name": "Boon Companion's Bands",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered boon companions bands, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-elvenkind",
+  "name": "Boots of Elvenkind",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of elvenkind, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-false-tracks",
+  "name": "Boots of False Tracks",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of false tracks, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-levitation",
+  "name": "Boots of Levitation",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of levitation, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-speed",
+  "name": "Boots of Speed",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of speed, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-striding-and-springing",
+  "name": "Boots of Striding and Springing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of striding and springing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-the-winding-path",
+  "name": "Boots of the Winding Path",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of the winding path, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "boots-of-the-winterlands",
+  "name": "Boots of the Winterlands",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered boots of the winterlands, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "bowl-of-commanding-water-elementals",
+  "name": "Bowl of Commanding Water Elementals",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered bowl of commanding water elementals, no character, item only, solid black background"
+ },
+ {
+  "id": "bracers-of-archery",
+  "name": "Bracers of Archery",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered bracers of archery, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "bracers-of-defense",
+  "name": "Bracers of Defense",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered bracers of defense, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "brazier-of-commanding-fire-elementals",
+  "name": "Brazier of Commanding Fire Elementals",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered brazier of commanding fire elementals, no character, item only, solid black background"
+ },
+ {
+  "id": "brooch-of-shielding",
+  "name": "Brooch of Shielding",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered brooch of shielding, no character, item only, solid black background"
+ },
+ {
+  "id": "brooch-of-the-elements",
+  "name": "Brooch of the Elements",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered brooch of the elements, no character, item only, solid black background"
+ },
+ {
+  "id": "broom-of-flying",
+  "name": "Broom of Flying",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered broom of flying, no character, item only, solid black background"
+ },
+ {
+  "id": "calimemnon-crystal",
+  "name": "Calimemnon Crystal",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered calimemnon crystal, no character, item only, solid black background"
+ },
+ {
+  "id": "candle-of-invocation",
+  "name": "Candle of Invocation",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered candle of invocation, no character, item only, solid black background"
+ },
+ {
+  "id": "candle-of-the-deep",
+  "name": "Candle of the Deep",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered candle of the deep, no character, item only, solid black background"
+ },
+ {
+  "id": "cap-of-vanishing",
+  "name": "Cap of Vanishing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cap of vanishing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cap-of-water-breathing",
+  "name": "Cap of Water Breathing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cap of water breathing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cape-of-the-mountebank",
+  "name": "Cape of the Mountebank",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cape of the mountebank, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "carpet-of-flying",
+  "name": "Carpet of Flying",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered carpet of flying, no character, item only, solid black background"
+ },
+ {
+  "id": "cast-off-armor",
+  "name": "Cast-Off Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered cast-off armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cauldron-of-rebirth",
+  "name": "Cauldron of Rebirth",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered cauldron of rebirth, no character, item only, solid black background"
+ },
+ {
+  "id": "censer-of-controlling-air-elementals",
+  "name": "Censer of Controlling Air Elementals",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered censer of controlling air elementals, no character, item only, solid black background"
+ },
+ {
+  "id": "charlatans-die",
+  "name": "Charlatan's Die",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered charlatans die, no character, item only, solid black background"
+ },
+ {
+  "id": "chime-of-opening",
+  "name": "Chime of Opening",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered chime of opening, no character, item only, solid black background"
+ },
+ {
+  "id": "circlet-of-blasting",
+  "name": "Circlet of Blasting",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered circlet of blasting, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "climbers-ammunition",
+  "name": "Climber's Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered climbers ammunition longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-arachnida",
+  "name": "Cloak of Arachnida",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of arachnida, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-billowing",
+  "name": "Cloak of Billowing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of billowing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-displacement",
+  "name": "Cloak of Displacement",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of displacement, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-elvenkind",
+  "name": "Cloak of Elvenkind",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of elvenkind, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-invisibility",
+  "name": "Cloak of Invisibility",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of invisibility, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-many-fashions",
+  "name": "Cloak of Many Fashions",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of many fashions, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-protection",
+  "name": "Cloak of Protection",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of protection, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-the-bat",
+  "name": "Cloak of the Bat",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of the bat, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "cloak-of-the-manta-ray",
+  "name": "Cloak of the Manta Ray",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered cloak of the manta ray, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "clockwork-amulet",
+  "name": "Clockwork Amulet",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered clockwork amulet, no character, item only, solid black background"
+ },
+ {
+  "id": "clothes-of-mending",
+  "name": "Clothes of Mending",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered clothes of mending, no character, item only, solid black background"
+ },
+ {
+  "id": "conjurers-canopy",
+  "name": "Conjurer's Canopy",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered conjurers canopy, no character, item only, solid black background"
+ },
+ {
+  "id": "crown-of-horns",
+  "name": "Crown Of Horns",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered crown of horns, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "crystal-ball",
+  "name": "Crystal Ball",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered crystal ball, no character, item only, solid black background"
+ },
+ {
+  "id": "crystal-ball-of-ominous-portent",
+  "name": "Crystal Ball of Ominous Portent",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered crystal ball of ominous portent, no character, item only, solid black background"
+ },
+ {
+  "id": "cube-of-force",
+  "name": "Cube of Force",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered cube of force, no character, item only, solid black background"
+ },
+ {
+  "id": "cube-of-summoning",
+  "name": "Cube of Summoning",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered cube of summoning, no character, item only, solid black background"
+ },
+ {
+  "id": "cubic-gate",
+  "name": "Cubic Gate",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered cubic gate, no character, item only, solid black background"
+ },
+ {
+  "id": "dagger-of-venom",
+  "name": "Dagger of Venom",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered dagger of venom, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "dancing-sword",
+  "name": "Dancing Sword",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered dancing sword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "dark-shard-amulet",
+  "name": "Dark Shard Amulet",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dark shard amulet, no character, item only, solid black background"
+ },
+ {
+  "id": "dazzling-weapon",
+  "name": "Dazzling Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered dazzling weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "decanter-of-endless-water",
+  "name": "Decanter of Endless Water",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered decanter of endless water, no character, item only, solid black background"
+ },
+ {
+  "id": "deck-of-illusions",
+  "name": "Deck of Illusions",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered deck of illusions, no character, item only, solid black background"
+ },
+ {
+  "id": "deck-of-many-things",
+  "name": "Deck of Many Things",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered deck of many things, no character, item only, solid black background"
+ },
+ {
+  "id": "defender",
+  "name": "Defender",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered defender longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "demon-armor",
+  "name": "Demon Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered demon armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "demonomicon-of-iggwilv",
+  "name": "Demonomicon of Iggwilv",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered demonomicon of iggwilv, no character, item only, solid black background"
+ },
+ {
+  "id": "diamond-staff",
+  "name": "Diamond Staff",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered diamond staff, no character, item only, solid black background"
+ },
+ {
+  "id": "dictation-quill",
+  "name": "Dictation Quill",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dictation quill, no character, item only, solid black background"
+ },
+ {
+  "id": "dimensional-shackles",
+  "name": "Dimensional Shackles",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dimensional shackles, no character, item only, solid black background"
+ },
+ {
+  "id": "dispelling-ammunition",
+  "name": "Dispelling Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered dispelling ammunition longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "dissuader",
+  "name": "Dissuader",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered dissuader quarterstaff, no character, item only, solid black background"
+ },
+ {
+  "id": "dragon-orb",
+  "name": "Dragon Orb",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dragon orb, no character, item only, solid black background"
+ },
+ {
+  "id": "dragon-scale-mail",
+  "name": "Dragon Scale Mail",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered dragon scale mail, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "dragon-slayer",
+  "name": "Dragon Slayer",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered dragon slayer longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "dread-helm",
+  "name": "Dread Helm",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered dread helm, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "dream-weaver",
+  "name": "Dream Weaver",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dream weaver, no character, item only, solid black background"
+ },
+ {
+  "id": "driftglobe",
+  "name": "Driftglobe",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered driftglobe, no character, item only, solid black background"
+ },
+ {
+  "id": "dust-of-disappearance",
+  "name": "Dust of Disappearance",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dust of disappearance, no character, item only, solid black background"
+ },
+ {
+  "id": "dust-of-dryness",
+  "name": "Dust of Dryness",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dust of dryness, no character, item only, solid black background"
+ },
+ {
+  "id": "dust-of-sneezing-and-choking",
+  "name": "Dust of Sneezing and Choking",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered dust of sneezing and choking, no character, item only, solid black background"
+ },
+ {
+  "id": "dwarven-plate",
+  "name": "Dwarven Plate",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered dwarven plate, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "dwarven-thrower",
+  "name": "Dwarven Thrower",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered dwarven thrower warhammer, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "ear-horn-of-hearing",
+  "name": "Ear Horn of Hearing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered ear horn of hearing, no character, item only, solid black background"
+ },
+ {
+  "id": "ebonbane",
+  "name": "Ebonbane",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered ebonbane longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "efficient-quiver",
+  "name": "Efficient Quiver",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered efficient quiver, no character, item only, solid black background"
+ },
+ {
+  "id": "efreeti-bottle",
+  "name": "Efreeti Bottle",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered efreeti bottle, no character, item only, solid black background"
+ },
+ {
+  "id": "efreeti-chain",
+  "name": "Efreeti Chain",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered efreeti chain armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "elemental-gem",
+  "name": "Elemental Gem",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered elemental gem, no character, item only, solid black background"
+ },
+ {
+  "id": "elixir-of-health",
+  "name": "Elixir of Health",
+  "prompt": "fantasy painterly anime, fantasy potion, centered elixir of health, no character, item only, solid black background"
+ },
+ {
+  "id": "elocutionists-lexicon",
+  "name": "Elocutionist's Lexicon",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered elocutionists lexicon, no character, item only, solid black background"
+ },
+ {
+  "id": "elven-chain",
+  "name": "Elven Chain",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered elven chain armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "enduring-spellbook",
+  "name": "Enduring Spellbook",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered enduring spellbook, no character, item only, solid black background"
+ },
+ {
+  "id": "energy-bow",
+  "name": "Energy Bow",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered energy bow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "ensorcelled-missive",
+  "name": "Ensorcelled Missive",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered ensorcelled missive, no character, item only, solid black background"
+ },
+ {
+  "id": "enspelled-armor",
+  "name": "Enspelled Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered enspelled armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "enspelled-staff",
+  "name": "Enspelled Staff",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered enspelled staff, no character, item only, solid black background"
+ },
+ {
+  "id": "enspelled-weapon",
+  "name": "Enspelled Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered enspelled weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "ersatz-eye",
+  "name": "Ersatz Eye",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered ersatz eye, no character, item only, solid black background"
+ },
+ {
+  "id": "eternal-chalk",
+  "name": "Eternal Chalk",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered eternal chalk, no character, item only, solid black background"
+ },
+ {
+  "id": "evergreen-fertilizer",
+  "name": "Evergreen Fertilizer",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered evergreen fertilizer, no character, item only, solid black background"
+ },
+ {
+  "id": "eversmoking-bottle",
+  "name": "Eversmoking Bottle",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered eversmoking bottle, no character, item only, solid black background"
+ },
+ {
+  "id": "executioners-axe",
+  "name": "Executioner's Axe",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered executioners axe, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "eye-and-hand-of-vecna",
+  "name": "Eye and Hand of Vecna",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered eye and hand of vecna, no character, item only, solid black background"
+ },
+ {
+  "id": "eyes-of-charming",
+  "name": "Eyes of Charming",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered eyes of charming, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "eyes-of-deceit",
+  "name": "Eyes of Deceit",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered eyes of deceit, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "eyes-of-minute-seeing",
+  "name": "Eyes of Minute Seeing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered eyes of minute seeing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "eyes-of-the-eagle",
+  "name": "Eyes of the Eagle",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered eyes of the eagle, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "feather-token",
+  "name": "Feather Token",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered feather token, no character, item only, solid black background"
+ },
+ {
+  "id": "figurine-of-wondrous-power",
+  "name": "Figurine of Wondrous Power",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered figurine of wondrous power, no character, item only, solid black background"
+ },
+ {
+  "id": "flame-tongue",
+  "name": "Flame Tongue",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered flame tongue longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "folding-boat",
+  "name": "Folding Boat",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered folding boat, no character, item only, solid black background"
+ },
+ {
+  "id": "fork-of-eddy-summoning",
+  "name": "Fork of Eddy Summoning",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered fork of eddy summoning, no character, item only, solid black background"
+ },
+ {
+  "id": "frost-brand",
+  "name": "Frost Brand",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered frost brand longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "gauntlets-of-ogre-power",
+  "name": "Gauntlets of Ogre Power",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered gauntlets of ogre power, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "gem-of-brightness",
+  "name": "Gem of Brightness",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered gem of brightness, no character, item only, solid black background"
+ },
+ {
+  "id": "gem-of-seeing",
+  "name": "Gem of Seeing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered gem of seeing, no character, item only, solid black background"
+ },
+ {
+  "id": "giant-slayer",
+  "name": "Giant Slayer",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered giant slayer longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "glamoured-studded-leather",
+  "name": "Glamoured Studded Leather",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered glamoured studded leather armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "gloves-of-missile-snaring",
+  "name": "Gloves of Missile Snaring",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered gloves of missile snaring, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "gloves-of-swimming-and-climbing",
+  "name": "Gloves of Swimming and Climbing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered gloves of swimming and climbing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "gloves-of-thievery",
+  "name": "Gloves of Thievery",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered gloves of thievery, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "goading-ammunition",
+  "name": "Goading Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered goading ammunition longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "goggles-of-foe-finding",
+  "name": "Goggles of Foe-Finding",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered goggles of foe-finding, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "goggles-of-night",
+  "name": "Goggles of Night",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered goggles of night, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "grave-reaper",
+  "name": "Grave Reaper",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered grave reaper sickle, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "hag-eye",
+  "name": "Hag Eye",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered hag eye, no character, item only, solid black background"
+ },
+ {
+  "id": "hammer-of-thunderbolts",
+  "name": "Hammer of Thunderbolts",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered hammer of thunderbolts, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "handy-haversack",
+  "name": "Handy Haversack",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered handy haversack, no character, item only, solid black background"
+ },
+ {
+  "id": "harkons-bite",
+  "name": "Harkon's Bite",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered harkons bite, no character, item only, solid black background"
+ },
+ {
+  "id": "harper-pin",
+  "name": "Harper Pin",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered harper pin, no character, item only, solid black background"
+ },
+ {
+  "id": "hat-of-disguise",
+  "name": "Hat of Disguise",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered hat of disguise, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hat-of-many-spells",
+  "name": "Hat of Many Spells",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered hat of many spells, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hat-of-vermin",
+  "name": "Hat of Vermin",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered hat of vermin, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hat-of-vortexes",
+  "name": "Hat of Vortexes",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered hat of vortexes, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hat-of-wizardry",
+  "name": "Hat of Wizardry",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered hat of wizardry, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "headband-of-intellect",
+  "name": "Headband of Intellect",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered headband of intellect, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "helm-of-awareness",
+  "name": "Helm of Awareness",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered helm of awareness, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "helm-of-brilliance",
+  "name": "Helm of Brilliance",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered helm of brilliance, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "helm-of-comprehending-languages",
+  "name": "Helm of Comprehending Languages",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered helm of comprehending languages, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "helm-of-telepathy",
+  "name": "Helm of Telepathy",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered helm of telepathy, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "helm-of-teleportation",
+  "name": "Helm of Teleportation",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered helm of teleportation, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "hewards-handy-spice-pouch",
+  "name": "Heward's Handy Spice Pouch",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered hewards handy spice pouch, no character, item only, solid black background"
+ },
+ {
+  "id": "holy-avenger",
+  "name": "Holy Avenger",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered holy avenger longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "homeward-compass",
+  "name": "Homeward Compass",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered homeward compass, no character, item only, solid black background"
+ },
+ {
+  "id": "horn-of-blasting",
+  "name": "Horn of Blasting",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered horn of blasting, no character, item only, solid black background"
+ },
+ {
+  "id": "horn-of-silent-alarm",
+  "name": "Horn of Silent Alarm",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered horn of silent alarm, no character, item only, solid black background"
+ },
+ {
+  "id": "horn-of-valhalla",
+  "name": "Horn of Valhalla",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered horn of valhalla, no character, item only, solid black background"
+ },
+ {
+  "id": "horseshoes-of-speed",
+  "name": "Horseshoes of Speed",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered horseshoes of speed, no character, item only, solid black background"
+ },
+ {
+  "id": "horseshoes-of-a-zephyr",
+  "name": "Horseshoes of a Zephyr",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered horseshoes of a zephyr, no character, item only, solid black background"
+ },
+ {
+  "id": "idol-of-good-fortunes",
+  "name": "Idol of Good Fortunes",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered idol of good fortunes, no character, item only, solid black background"
+ },
+ {
+  "id": "immovable-rod",
+  "name": "Immovable Rod",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered immovable rod, no character, item only, solid black background"
+ },
+ {
+  "id": "instant-fortress",
+  "name": "Instant Fortress",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered instant fortress, no character, item only, solid black background"
+ },
+ {
+  "id": "instrument-of-illusions",
+  "name": "Instrument of Illusions",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered instrument of illusions, no character, item only, solid black background"
+ },
+ {
+  "id": "instrument-of-scribing",
+  "name": "Instrument of Scribing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered instrument of scribing, no character, item only, solid black background"
+ },
+ {
+  "id": "instrument-of-the-bards",
+  "name": "Instrument of the Bards",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered instrument of the bards, no character, item only, solid black background"
+ },
+ {
+  "id": "ioun-stone",
+  "name": "Ioun Stone",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered ioun stone, no character, item only, solid black background"
+ },
+ {
+  "id": "iron-bands",
+  "name": "Iron Bands",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered iron bands, no character, item only, solid black background"
+ },
+ {
+  "id": "iron-flask",
+  "name": "Iron Flask",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered iron flask, no character, item only, solid black background"
+ },
+ {
+  "id": "javelin-of-lightning",
+  "name": "Javelin of Lightning",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered javelin of lightning, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "keoghtoms-ointment",
+  "name": "Keoghtom's Ointment",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered keoghtoms ointment, no character, item only, solid black background"
+ },
+ {
+  "id": "keyholes-dagger",
+  "name": "Keyholes Dagger",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered keyholes dagger, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "lantern-of-revealing",
+  "name": "Lantern of Revealing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered lantern of revealing, no character, item only, solid black background"
+ },
+ {
+  "id": "life-sapping-blade",
+  "name": "Life-Sapping Blade",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered life-sapping blade, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "lock-of-trickery",
+  "name": "Lock of Trickery",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered lock of trickery, no character, item only, solid black background"
+ },
+ {
+  "id": "luck-blade",
+  "name": "Luck Blade",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered luck blade, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "lucky-foot",
+  "name": "Lucky Foot",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered lucky foot, no character, item only, solid black background"
+ },
+ {
+  "id": "lute-of-thunderous-thumping",
+  "name": "Lute of Thunderous Thumping",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered lute of thunderous thumping club, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mace-of-disruption",
+  "name": "Mace of Disruption",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered mace of disruption, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mace-of-smiting",
+  "name": "Mace of Smiting",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered mace of smiting, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mace-of-terror",
+  "name": "Mace of Terror",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered mace of terror, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mage-breaker",
+  "name": "Mage Breaker",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered mage breaker dagger, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mages-manacle",
+  "name": "Mage's Manacle",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered mages manacle, no character, item only, solid black background"
+ },
+ {
+  "id": "magen-handbell",
+  "name": "Magen Handbell",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered magen handbell, no character, item only, solid black background"
+ },
+ {
+  "id": "magewrights-gloves",
+  "name": "Magewright's Gloves",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered magewrights gloves, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "manifold-tool",
+  "name": "Manifold Tool",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered manifold tool, no character, item only, solid black background"
+ },
+ {
+  "id": "mantle-of-spell-resistance",
+  "name": "Mantle of Spell Resistance",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered mantle of spell resistance, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "manual-of-bodily-health",
+  "name": "Manual of Bodily Health",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered manual of bodily health, no character, item only, solid black background"
+ },
+ {
+  "id": "manual-of-gainful-exercise",
+  "name": "Manual of Gainful Exercise",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered manual of gainful exercise, no character, item only, solid black background"
+ },
+ {
+  "id": "manual-of-golems",
+  "name": "Manual of Golems",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered manual of golems, no character, item only, solid black background"
+ },
+ {
+  "id": "manual-of-quickness-of-action",
+  "name": "Manual of Quickness of Action",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered manual of quickness of action, no character, item only, solid black background"
+ },
+ {
+  "id": "mariners-armor",
+  "name": "Mariner's Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered mariners armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "martialists-quarterstaff",
+  "name": "Martialist's Quarterstaff",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered martialists quarterstaff quarterstaff, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "marvelous-pigments",
+  "name": "Marvelous Pigments",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered marvelous pigments, no character, item only, solid black background"
+ },
+ {
+  "id": "mask-of-changed-appearance",
+  "name": "Mask of Changed Appearance",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered mask of changed appearance, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "masqueraders-brooch",
+  "name": "Masquerader's Brooch",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered masqueraders brooch, no character, item only, solid black background"
+ },
+ {
+  "id": "mechanical-wonder",
+  "name": "Mechanical Wonder",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered mechanical wonder, no character, item only, solid black background"
+ },
+ {
+  "id": "medallion-of-thoughts",
+  "name": "Medallion of Thoughts",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered medallion of thoughts, no character, item only, solid black background"
+ },
+ {
+  "id": "mind-sharpener",
+  "name": "Mind Sharpener",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered mind sharpener, no character, item only, solid black background"
+ },
+ {
+  "id": "mirror-of-life-trapping",
+  "name": "Mirror of Life Trapping",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered mirror of life trapping, no character, item only, solid black background"
+ },
+ {
+  "id": "mithral-armor",
+  "name": "Mithral Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered mithral armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "moon-touched-sword",
+  "name": "Moon-Touched Sword",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered moon-touched sword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "moonblade",
+  "name": "Moonblade",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered moonblade longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "mysterious-deck",
+  "name": "Mysterious Deck",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered mysterious deck, no character, item only, solid black background"
+ },
+ {
+  "id": "mystery-key",
+  "name": "Mystery Key",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered mystery key, no character, item only, solid black background"
+ },
+ {
+  "id": "mythallar-bracelet",
+  "name": "Mythallar Bracelet",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered mythallar bracelet, no character, item only, solid black background"
+ },
+ {
+  "id": "mythallar-cloak",
+  "name": "Mythallar Cloak",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered mythallar cloak, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "namers-needle",
+  "name": "Namer's Needle",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered namers needle dagger, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "natures-mantle",
+  "name": "Nature's Mantle",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered natures mantle, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "necklace-of-adaptation",
+  "name": "Necklace of Adaptation",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered necklace of adaptation, no character, item only, solid black background"
+ },
+ {
+  "id": "necklace-of-fireballs",
+  "name": "Necklace of Fireballs",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered necklace of fireballs, no character, item only, solid black background"
+ },
+ {
+  "id": "necklace-of-prayer-beads",
+  "name": "Necklace of Prayer Beads",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered necklace of prayer beads, no character, item only, solid black background"
+ },
+ {
+  "id": "necklace-of-the-beastly-familiar",
+  "name": "Necklace of the Beastly Familiar",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered necklace of the beastly familiar, no character, item only, solid black background"
+ },
+ {
+  "id": "nikos-mace",
+  "name": "Niko's Mace",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered nikos mace, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "nine-lives-stealer",
+  "name": "Nine Lives Stealer",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered nine lives stealer longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "oathbow",
+  "name": "Oathbow",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered oathbow longbow, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "oil-of-etherealness",
+  "name": "Oil of Etherealness",
+  "prompt": "fantasy painterly anime, fantasy potion, centered oil of etherealness, no character, item only, solid black background"
+ },
+ {
+  "id": "oil-of-sharpness",
+  "name": "Oil of Sharpness",
+  "prompt": "fantasy painterly anime, fantasy potion, centered oil of sharpness, no character, item only, solid black background"
+ },
+ {
+  "id": "oil-of-slipperiness",
+  "name": "Oil of Slipperiness",
+  "prompt": "fantasy painterly anime, fantasy potion, centered oil of slipperiness, no character, item only, solid black background"
+ },
+ {
+  "id": "orb-of-damara",
+  "name": "Orb of Damara",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered orb of damara, no character, item only, solid black background"
+ },
+ {
+  "id": "orb-of-direction",
+  "name": "Orb of Direction",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered orb of direction, no character, item only, solid black background"
+ },
+ {
+  "id": "orb-of-divination-detection",
+  "name": "Orb of Divination Detection",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered orb of divination detection, no character, item only, solid black background"
+ },
+ {
+  "id": "orb-of-dragonkind",
+  "name": "Orb of Dragonkind",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered orb of dragonkind, no character, item only, solid black background"
+ },
+ {
+  "id": "orb-of-sorcery",
+  "name": "Orb of Sorcery",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered orb of sorcery, no character, item only, solid black background"
+ },
+ {
+  "id": "orb-of-time",
+  "name": "Orb of Time",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered orb of time, no character, item only, solid black background"
+ },
+ {
+  "id": "pearl-of-power",
+  "name": "Pearl of Power",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pearl of power, no character, item only, solid black background"
+ },
+ {
+  "id": "perfume-of-bewitching",
+  "name": "Perfume of Bewitching",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered perfume of bewitching, no character, item only, solid black background"
+ },
+ {
+  "id": "periapt-of-health",
+  "name": "Periapt of Health",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered periapt of health, no character, item only, solid black background"
+ },
+ {
+  "id": "periapt-of-proof-against-poison",
+  "name": "Periapt of Proof against Poison",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered periapt of proof against poison, no character, item only, solid black background"
+ },
+ {
+  "id": "periapt-of-wound-closure",
+  "name": "Periapt of Wound Closure",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered periapt of wound closure, no character, item only, solid black background"
+ },
+ {
+  "id": "philter-of-love",
+  "name": "Philter of Love",
+  "prompt": "fantasy painterly anime, fantasy potion, centered philter of love, no character, item only, solid black background"
+ },
+ {
+  "id": "pipe-of-smoke-monsters",
+  "name": "Pipe of Smoke Monsters",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pipe of smoke monsters, no character, item only, solid black background"
+ },
+ {
+  "id": "pipes-of-pestilence",
+  "name": "Pipes Of Pestilence",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pipes of pestilence, no character, item only, solid black background"
+ },
+ {
+  "id": "pipes-of-haunting",
+  "name": "Pipes of Haunting",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pipes of haunting, no character, item only, solid black background"
+ },
+ {
+  "id": "pipes-of-the-sewers",
+  "name": "Pipes of the Sewers",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pipes of the sewers, no character, item only, solid black background"
+ },
+ {
+  "id": "plate-armor-of-etherealness",
+  "name": "Plate Armor of Etherealness",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered plate armor of etherealness, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "poison-soaked-kukri",
+  "name": "Poison Soaked Kukri",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered poison soaked kukri longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "pole-of-angling",
+  "name": "Pole of Angling",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pole of angling, no character, item only, solid black background"
+ },
+ {
+  "id": "pole-of-collapsing",
+  "name": "Pole of Collapsing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pole of collapsing, no character, item only, solid black background"
+ },
+ {
+  "id": "portable-hole",
+  "name": "Portable Hole",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered portable hole, no character, item only, solid black background"
+ },
+ {
+  "id": "pot-of-awakening",
+  "name": "Pot of Awakening",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered pot of awakening, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-animal-friendship",
+  "name": "Potion of Animal Friendship",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of animal friendship, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-clairvoyance",
+  "name": "Potion of Clairvoyance",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of clairvoyance, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-climbing",
+  "name": "Potion of Climbing",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of climbing, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-comprehension",
+  "name": "Potion of Comprehension",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of comprehension, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-diminution",
+  "name": "Potion of Diminution",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of diminution, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-dragons-breath",
+  "name": "Potion of Dragon's Breath",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of dragons breath, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-fire-breath",
+  "name": "Potion of Fire Breath",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of fire breath, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-flying",
+  "name": "Potion of Flying",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of flying, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-gaseous-form",
+  "name": "Potion of Gaseous Form",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of gaseous form, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-giant-strength",
+  "name": "Potion of Giant Strength",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of giant strength, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-greater-invisibility",
+  "name": "Potion of Greater Invisibility",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of greater invisibility, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-growth",
+  "name": "Potion of Growth",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of growth, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-healing",
+  "name": "Potion of Healing",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of healing, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-heroism",
+  "name": "Potion of Heroism",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of heroism, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-invisibility",
+  "name": "Potion of Invisibility",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of invisibility, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-invulnerability",
+  "name": "Potion of Invulnerability",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of invulnerability, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-longevity",
+  "name": "Potion of Longevity",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of longevity, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-mind-reading",
+  "name": "Potion of Mind Reading",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of mind reading, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-poison",
+  "name": "Potion of Poison",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of poison, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-pugilism",
+  "name": "Potion of Pugilism",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of pugilism, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-resistance",
+  "name": "Potion of Resistance",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of resistance, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-speed",
+  "name": "Potion of Speed",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of speed, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-tirelessness",
+  "name": "Potion of Tirelessness",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of tirelessness, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-vitality",
+  "name": "Potion of Vitality",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of vitality, no character, item only, solid black background"
+ },
+ {
+  "id": "potion-of-water-breathing",
+  "name": "Potion of Water Breathing",
+  "prompt": "fantasy painterly anime, fantasy potion, centered potion of water breathing, no character, item only, solid black background"
+ },
+ {
+  "id": "prismatic-rune",
+  "name": "Prismatic Rune",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered prismatic rune, no character, item only, solid black background"
+ },
+ {
+  "id": "prosthetic-limb",
+  "name": "Prosthetic Limb",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered prosthetic limb, no character, item only, solid black background"
+ },
+ {
+  "id": "quarterstaff-of-the-acrobat",
+  "name": "Quarterstaff of the Acrobat",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered quarterstaff of the acrobat quarterstaff, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "queen-ehlissas-marvelous-nightingale",
+  "name": "Queen Ehlissa's Marvelous Nightingale",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered queen ehlissas marvelous nightingale, no character, item only, solid black background"
+ },
+ {
+  "id": "quiver-of-ehlonna",
+  "name": "Quiver of Ehlonna",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered quiver of ehlonna, no character, item only, solid black background"
+ },
+ {
+  "id": "reliquary-of-dawn",
+  "name": "Reliquary of Dawn",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered reliquary of dawn, no character, item only, solid black background"
+ },
+ {
+  "id": "reliquary-of-twilight",
+  "name": "Reliquary of Twilight",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered reliquary of twilight, no character, item only, solid black background"
+ },
+ {
+  "id": "repeating-shot",
+  "name": "Repeating Shot",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered repeating shot longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "repulsion-shield",
+  "name": "Repulsion Shield",
+  "prompt": "fantasy painterly anime, fantasy magic shield, centered repulsion shield, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "returning-weapon",
+  "name": "Returning Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered returning weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-animal-influence",
+  "name": "Ring of Animal Influence",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of animal influence, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-candor",
+  "name": "Ring of Candor",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of candor, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-dedicated-focus",
+  "name": "Ring of Dedicated Focus",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of dedicated focus, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-djinni-summoning",
+  "name": "Ring of Djinni Summoning",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of djinni summoning, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-elemental-command",
+  "name": "Ring of Elemental Command",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of elemental command, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-evasion",
+  "name": "Ring of Evasion",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of evasion, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-feather-falling",
+  "name": "Ring of Feather Falling",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of feather falling, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-free-action",
+  "name": "Ring of Free Action",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of free action, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-invisibility",
+  "name": "Ring of Invisibility",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of invisibility, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-jumping",
+  "name": "Ring of Jumping",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of jumping, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-mind-shielding",
+  "name": "Ring of Mind Shielding",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of mind shielding, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-protection",
+  "name": "Ring of Protection",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of protection, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-regeneration",
+  "name": "Ring of Regeneration",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of regeneration, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-resistance",
+  "name": "Ring of Resistance",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of resistance, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-shooting-stars",
+  "name": "Ring of Shooting Stars",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of shooting stars, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-spell-storing",
+  "name": "Ring of Spell Storing",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of spell storing, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-spell-turning",
+  "name": "Ring of Spell Turning",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of spell turning, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-swimming",
+  "name": "Ring of Swimming",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of swimming, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-telekinesis",
+  "name": "Ring of Telekinesis",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of telekinesis, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-three-wishes",
+  "name": "Ring of Three Wishes",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of three wishes, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-warmth",
+  "name": "Ring of Warmth",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of warmth, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-water-walking",
+  "name": "Ring of Water Walking",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of water walking, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-x-ray-vision",
+  "name": "Ring of X-ray Vision",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of x-ray vision, no character, item only, solid black background"
+ },
+ {
+  "id": "ring-of-the-ram",
+  "name": "Ring of the Ram",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered ring of the ram, no character, item only, solid black background"
+ },
+ {
+  "id": "rival-coin",
+  "name": "Rival Coin",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered rival coin, no character, item only, solid black background"
+ },
+ {
+  "id": "robe-of-eyes",
+  "name": "Robe of Eyes",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered robe of eyes, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "robe-of-scintillating-colors",
+  "name": "Robe of Scintillating Colors",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered robe of scintillating colors, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "robe-of-stars",
+  "name": "Robe of Stars",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered robe of stars, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "robe-of-thayan-arcana",
+  "name": "Robe of Thayan Arcana",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered robe of thayan arcana, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "robe-of-useful-items",
+  "name": "Robe of Useful Items",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered robe of useful items, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "robe-of-the-archmagi",
+  "name": "Robe of the Archmagi",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered robe of the archmagi, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-absorption",
+  "name": "Rod of Absorption",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of absorption, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-alertness",
+  "name": "Rod of Alertness",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of alertness, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-lordly-might",
+  "name": "Rod of Lordly Might",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of lordly might, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-resurrection",
+  "name": "Rod of Resurrection",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of resurrection, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-rulership",
+  "name": "Rod of Rulership",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of rulership, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-security",
+  "name": "Rod of Security",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of security, no character, item only, solid black background"
+ },
+ {
+  "id": "rod-of-the-pact-keeper",
+  "name": "Rod of the Pact Keeper",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered rod of the pact keeper, no character, item only, solid black background"
+ },
+ {
+  "id": "rope-of-climbing",
+  "name": "Rope of Climbing",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered rope of climbing, no character, item only, solid black background"
+ },
+ {
+  "id": "rope-of-entanglement",
+  "name": "Rope of Entanglement",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered rope of entanglement, no character, item only, solid black background"
+ },
+ {
+  "id": "rope-of-mending",
+  "name": "Rope of Mending",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered rope of mending, no character, item only, solid black background"
+ },
+ {
+  "id": "ruby-of-the-war-mage",
+  "name": "Ruby of the War Mage",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered ruby of the war mage, no character, item only, solid black background"
+ },
+ {
+  "id": "saddle-of-the-cavalier",
+  "name": "Saddle of the Cavalier",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered saddle of the cavalier, no character, item only, solid black background"
+ },
+ {
+  "id": "salubrious-armor",
+  "name": "Salubrious Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered salubrious armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "scarab-of-protection",
+  "name": "Scarab of Protection",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered scarab of protection, no character, item only, solid black background"
+ },
+ {
+  "id": "scarlet-spellbook",
+  "name": "Scarlet Spellbook",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered scarlet spellbook, no character, item only, solid black background"
+ },
+ {
+  "id": "scholars-anchoring-bangle",
+  "name": "Scholar's Anchoring Bangle",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered scholars anchoring bangle, no character, item only, solid black background"
+ },
+ {
+  "id": "scimitar-of-speed",
+  "name": "Scimitar of Speed",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered scimitar of speed, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "scroll-of-protection",
+  "name": "Scroll of Protection",
+  "prompt": "fantasy painterly anime, fantasy spell scroll, centered scroll of protection, no character, item only, solid black background"
+ },
+ {
+  "id": "scroll-of-titan-summoning",
+  "name": "Scroll of Titan Summoning",
+  "prompt": "fantasy painterly anime, fantasy spell scroll, centered scroll of titan summoning, no character, item only, solid black background"
+ },
+ {
+  "id": "secret-keepers-circlet",
+  "name": "Secret Keeper's Circlet",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered secret keepers circlet, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "sending-stones",
+  "name": "Sending Stones",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered sending stones, no character, item only, solid black background"
+ },
+ {
+  "id": "shield-of-expression",
+  "name": "Shield of Expression",
+  "prompt": "fantasy painterly anime, fantasy magic shield, centered shield of expression, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "silencing-satchel",
+  "name": "Silencing Satchel",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered silencing satchel, no character, item only, solid black background"
+ },
+ {
+  "id": "silvered-weapon",
+  "name": "Silvered Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered silvered weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "slippers-of-spider-climbing",
+  "name": "Slippers of Spider Climbing",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered slippers of spider climbing, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "smoldering-armor",
+  "name": "Smoldering Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered smoldering armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "snipers-bracelet",
+  "name": "Sniper's Bracelet",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered snipers bracelet longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sovereign-glue",
+  "name": "Sovereign Glue",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered sovereign glue, no character, item only, solid black background"
+ },
+ {
+  "id": "spell-component-ring",
+  "name": "Spell Component Ring",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered spell component ring, no character, item only, solid black background"
+ },
+ {
+  "id": "spell-duelists-trophy",
+  "name": "Spell Duelist's Trophy",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered spell duelists trophy, no character, item only, solid black background"
+ },
+ {
+  "id": "spell-scroll",
+  "name": "Spell Scroll",
+  "prompt": "fantasy painterly anime, fantasy spell scroll, centered spell scroll, no character, item only, solid black background"
+ },
+ {
+  "id": "spell-fuelling-armor",
+  "name": "Spell-Fuelling Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered spell-fuelling armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "spell-refueling-ring",
+  "name": "Spell-Refueling Ring",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered spell-refueling ring, no character, item only, solid black background"
+ },
+ {
+  "id": "spell-slingers-puppet",
+  "name": "Spell-Slinger's Puppet",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered spell-slingers puppet, no character, item only, solid black background"
+ },
+ {
+  "id": "sphere-of-annihilation",
+  "name": "Sphere of Annihilation",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered sphere of annihilation, no character, item only, solid black background"
+ },
+ {
+  "id": "spiked-shield",
+  "name": "Spiked Shield",
+  "prompt": "fantasy painterly anime, fantasy magic shield, centered spiked shield, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "spirit-board",
+  "name": "Spirit Board",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered spirit board, no character, item only, solid black background"
+ },
+ {
+  "id": "spirit-binding-censer",
+  "name": "Spirit-Binding Censer",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered spirit-binding censer, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-adornment",
+  "name": "Staff of Adornment",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of adornment, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-birdcalls",
+  "name": "Staff of Birdcalls",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of birdcalls, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-charming",
+  "name": "Staff of Charming",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of charming, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-fire",
+  "name": "Staff of Fire",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of fire, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-flowers",
+  "name": "Staff of Flowers",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of flowers, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-frost",
+  "name": "Staff of Frost",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of frost, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-healing",
+  "name": "Staff of Healing",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of healing, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-power",
+  "name": "Staff of Power",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of power, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-skulls",
+  "name": "Staff of Skulls",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of skulls, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-striking",
+  "name": "Staff of Striking",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of striking, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-swarming-insects",
+  "name": "Staff of Swarming Insects",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of swarming insects, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-thunder-and-lightning",
+  "name": "Staff of Thunder and Lightning",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of thunder and lightning, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-withering",
+  "name": "Staff of Withering",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of withering, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-the-adder",
+  "name": "Staff of the Adder",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of the adder, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-the-lost",
+  "name": "Staff of the Lost",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of the lost, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-the-magi",
+  "name": "Staff of the Magi",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of the magi, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-the-python",
+  "name": "Staff of the Python",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of the python, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-the-spirit-aegis",
+  "name": "Staff of the Spirit Aegis",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of the spirit aegis, no character, item only, solid black background"
+ },
+ {
+  "id": "staff-of-the-woodlands",
+  "name": "Staff of the Woodlands",
+  "prompt": "fantasy painterly anime, fantasy magic staff, centered staff of the woodlands, no character, item only, solid black background"
+ },
+ {
+  "id": "stone-of-controlling-earth-elementals",
+  "name": "Stone of Controlling Earth Elementals",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered stone of controlling earth elementals, no character, item only, solid black background"
+ },
+ {
+  "id": "stone-of-good-luck-luckstone",
+  "name": "Stone of Good Luck (Luckstone)",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered stone of good luck (luckstone), no character, item only, solid black background"
+ },
+ {
+  "id": "stormwalkers-cloak",
+  "name": "Stormwalker's Cloak",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered stormwalkers cloak, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "sun-blade",
+  "name": "Sun Blade",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sun blade, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sweeping-broom",
+  "name": "Sweeping Broom",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered sweeping broom, no character, item only, solid black background"
+ },
+ {
+  "id": "sword-of-answering",
+  "name": "Sword of Answering",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sword of answering, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sword-of-kas",
+  "name": "Sword of Kas",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sword of kas, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sword-of-life-stealing",
+  "name": "Sword of Life Stealing",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sword of life stealing, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sword-of-sharpness",
+  "name": "Sword of Sharpness",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sword of sharpness, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sword-of-vengeance",
+  "name": "Sword of Vengeance",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sword of vengeance, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sword-of-wounding",
+  "name": "Sword of Wounding",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sword of wounding, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sylvan-talon",
+  "name": "Sylvan Talon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered sylvan talon longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "sync-ring",
+  "name": "Sync Ring",
+  "prompt": "fantasy painterly anime, fantasy magic ring, centered sync ring, no character, item only, solid black background"
+ },
+ {
+  "id": "talisman-of-pure-good",
+  "name": "Talisman of Pure Good",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered talisman of pure good, no character, item only, solid black background"
+ },
+ {
+  "id": "talisman-of-ultimate-evil",
+  "name": "Talisman of Ultimate Evil",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered talisman of ultimate evil, no character, item only, solid black background"
+ },
+ {
+  "id": "talisman-of-the-sphere",
+  "name": "Talisman of the Sphere",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered talisman of the sphere, no character, item only, solid black background"
+ },
+ {
+  "id": "talking-doll",
+  "name": "Talking Doll",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered talking doll, no character, item only, solid black background"
+ },
+ {
+  "id": "tankard-of-sobriety",
+  "name": "Tankard of Sobriety",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered tankard of sobriety, no character, item only, solid black background"
+ },
+ {
+  "id": "tentacle-rod",
+  "name": "Tentacle Rod",
+  "prompt": "fantasy painterly anime, fantasy magic rod, centered tentacle rod, no character, item only, solid black background"
+ },
+ {
+  "id": "thayan-spell-tattoo",
+  "name": "Thayan Spell Tattoo",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered thayan spell tattoo, no character, item only, solid black background"
+ },
+ {
+  "id": "thayan-sword",
+  "name": "Thayan Sword",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered thayan sword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "thespians-playbill",
+  "name": "Thespian's Playbill",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered thespians playbill, no character, item only, solid black background"
+ },
+ {
+  "id": "thiefs-thimble",
+  "name": "Thief's Thimble",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered thiefs thimble, no character, item only, solid black background"
+ },
+ {
+  "id": "thunderous-greatclub",
+  "name": "Thunderous Greatclub",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered thunderous greatclub greatclub, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "tome-of-clear-thought",
+  "name": "Tome of Clear Thought",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered tome of clear thought, no character, item only, solid black background"
+ },
+ {
+  "id": "tome-of-leadership-and-influence",
+  "name": "Tome of Leadership and Influence",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered tome of leadership and influence, no character, item only, solid black background"
+ },
+ {
+  "id": "tome-of-understanding",
+  "name": "Tome of Understanding",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered tome of understanding, no character, item only, solid black background"
+ },
+ {
+  "id": "tome-of-the-dragon",
+  "name": "Tome of the Dragon",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered tome of the dragon, no character, item only, solid black background"
+ },
+ {
+  "id": "tome-of-the-stilled-tongue",
+  "name": "Tome of the Stilled Tongue",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered tome of the stilled tongue, no character, item only, solid black background"
+ },
+ {
+  "id": "tramontane-armor",
+  "name": "Tramontane Armor",
+  "prompt": "fantasy painterly anime, fantasy magic armor, centered tramontane armor, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "travelers-pearl",
+  "name": "Traveler's Pearl",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered travelers pearl, no character, item only, solid black background"
+ },
+ {
+  "id": "trick-weapon",
+  "name": "Trick Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered trick weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "trident-of-fish-command",
+  "name": "Trident of Fish Command",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered trident of fish command, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "universal-pantograph",
+  "name": "Universal Pantograph",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered universal pantograph, no character, item only, solid black background"
+ },
+ {
+  "id": "universal-solvent",
+  "name": "Universal Solvent",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered universal solvent, no character, item only, solid black background"
+ },
+ {
+  "id": "unraveling-cloak",
+  "name": "Unraveling Cloak",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered unraveling cloak, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "veterans-cane",
+  "name": "Veteran's Cane",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered veterans cane, no character, item only, solid black background"
+ },
+ {
+  "id": "vicious-weapon",
+  "name": "Vicious Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered vicious weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "vorpal-sword",
+  "name": "Vorpal Sword",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered vorpal sword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "walloping-ammunition",
+  "name": "Walloping Ammunition",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered walloping ammunition longsword, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-binding",
+  "name": "Wand of Binding",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of binding, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-conducting",
+  "name": "Wand of Conducting",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of conducting, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-enemy-detection",
+  "name": "Wand of Enemy Detection",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of enemy detection, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-enthralling",
+  "name": "Wand of Enthralling",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of enthralling, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-fear",
+  "name": "Wand of Fear",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of fear, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-fireballs",
+  "name": "Wand of Fireballs",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of fireballs, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-freshness",
+  "name": "Wand of Freshness",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of freshness, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-lightning-bolts",
+  "name": "Wand of Lightning Bolts",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of lightning bolts, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-magic-detection",
+  "name": "Wand of Magic Detection",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of magic detection, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-magic-missiles",
+  "name": "Wand of Magic Missiles",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of magic missiles, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-misdirection",
+  "name": "Wand of Misdirection",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of misdirection, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-orcus",
+  "name": "Wand of Orcus",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of orcus, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-paralysis",
+  "name": "Wand of Paralysis",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of paralysis, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-polymorph",
+  "name": "Wand of Polymorph",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of polymorph, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-pyrotechnics",
+  "name": "Wand of Pyrotechnics",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of pyrotechnics, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-secrets",
+  "name": "Wand of Secrets",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of secrets, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-slumber",
+  "name": "Wand of Slumber",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of slumber, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-teeth",
+  "name": "Wand of Teeth",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of teeth, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-web",
+  "name": "Wand of Web",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of web, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-wonder",
+  "name": "Wand of Wonder",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of wonder, no character, item only, solid black background"
+ },
+ {
+  "id": "wand-of-the-war-mage",
+  "name": "Wand of the War Mage",
+  "prompt": "fantasy painterly anime, fantasy magic wand, centered wand of the war mage, no character, item only, solid black background"
+ },
+ {
+  "id": "wave",
+  "name": "Wave",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered wave trident, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "wave-swept-weapon",
+  "name": "Wave-Swept Weapon",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered wave-swept weapon, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "weapon-of-warning",
+  "name": "Weapon of Warning",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered weapon of warning, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "well-of-many-worlds",
+  "name": "Well of Many Worlds",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered well of many worlds, no character, item only, solid black background"
+ },
+ {
+  "id": "whelm",
+  "name": "Whelm",
+  "prompt": "fantasy painterly anime, fantasy magic weapon, centered whelm warhammer, side profile, no character, item only, solid black background"
+ },
+ {
+  "id": "wind-fan",
+  "name": "Wind Fan",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered wind fan, no character, item only, solid black background"
+ },
+ {
+  "id": "windskiff",
+  "name": "Windskiff",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered windskiff, no character, item only, solid black background"
+ },
+ {
+  "id": "winged-boots",
+  "name": "Winged Boots",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered winged boots, front facing, no character, item only, solid black background"
+ },
+ {
+  "id": "wings-of-flying",
+  "name": "Wings of Flying",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered wings of flying, no character, item only, solid black background"
+ },
+ {
+  "id": "workshop-wrecker",
+  "name": "Workshop Wrecker",
+  "prompt": "fantasy painterly anime, fantasy wondrous item, centered workshop wrecker, no character, item only, solid black background"
+ },
+ {
+  "id": "wraps-of-unarmed-power",
+  "name": "Wraps of Unarmed Power",
+  "prompt": "fantasy painterly anime, fantasy magic clothing, centered wraps of unarmed power, front facing, no character, item only, solid black background"
+ }
+]
